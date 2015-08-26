@@ -328,13 +328,16 @@
     <string name="cit_tool_wifi_rx_ap_not_null">Імя або тип AP не може бути порожнім</string>
     <string name="cit_tool_wifi_rx_ap_type_error">Помилка AP, введіть заново (bss/adhoc)</string>
     <string name="cit_tool_wifi_rx_total_format">Усього передано: %s</string>
-    <string name="cit_external_sd_check_summary">Перевірка виявлення SD карти</string>
-    <string name="cit_external_sd_check_title">Статус SD карти</string>
+    <string name="cit_external_sd_check_summary">Перевірка виявлення SD-карти</string>
+    <string name="cit_external_sd_check_title">Статус SD-карти</string>
     <string name="cit_tool_modem_evdo_revb">Увімкнути/вимкнути EVDO</string>
     <string name="cit_audio_loopback_dualmic_title">Приглушення шуму</string>
     <string name="cit_audio_loopback_summary_dualmic">"Тест приглушення шуму
 
 Поверніть пристрій, щоб вхід для навушників був знизу. Говоріть у мікрофон. Ви повинні почути ваш голос з приглушенням шуму на задньому плані."</string>
-    <string name="cit_sd_plug_check_summary">Тест буде визначати статус SD карти. Підключіть і відключіть SD карту один раз.</string>
-    <string name="cit_sd_plug_check_title">Визначення SD карти</string>
+    <string name="cit_sd_plug_check_summary">Тест буде визначати статус SD-карти. Підключіть та відключіть SD-карту один раз.</string>
+    <string name="cit_sd_plug_check_title">Визначення SD-карти</string>
+	<string name="cit_tool_log_dmesg">DMESG</string>
+    <string name="cit_tool_modem_mbn">Змінити налаштування модему</string>
+    <string name="cit_x5_audio_lb_topmic_to_speaker_title">Тест верхнього мікрофону</string>
 </resources>

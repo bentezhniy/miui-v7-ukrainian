@@ -353,4 +353,23 @@
        <item>У режимі \"Без звуку\"</item>
        <item>Ніколи</item>
     </string-array>
+	<string-array name="miui_preferences_default_reminder_labels">
+       <item>Вимкнено</item>
+       <item>Одразу</item>
+       <item>За 5 хвилин</item>
+       <item>За 10 хвилин</item>
+       <item>За 15 хвилин</item>
+       <item>За 30 хвилин</item>
+       <item>За 1 годину</item>
+       <item>За 1 день</item>
+       <item>За 2 дні</item>
+       <item>За 1 тиждень</item>
+    </string-array>
+    <string-array name="travel_reminder_minutes_labels">
+       <item>3 години</item>
+       <item>4 години</item>
+       <item>5 годин</item>
+       <item>6 годин</item>
+       <item>1 день</item>
+    </string-array>
 </resources>

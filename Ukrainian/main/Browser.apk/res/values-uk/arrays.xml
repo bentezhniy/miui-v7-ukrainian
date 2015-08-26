@@ -126,4 +126,14 @@
         <item>dianping</item>
         <item>bing</item>
     </string-array>
+	<string-array name="readmode_theme_fontsizenames">
+       <item>М</item>
+       <item>С</item>
+       <item>В</item>
+    </string-array>
+    <string-array name="readmode_theme_names">
+       <item>Біла</item>
+       <item>Жовта</item>
+       <item>Чорна</item>
+    </string-array>
 </resources>

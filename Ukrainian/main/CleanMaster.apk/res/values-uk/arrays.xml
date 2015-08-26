@@ -76,4 +76,21 @@
         <item>По буднях</item>
         <item>Обрати дні</item>
     </string-array>
+	<string-array name="apk_clean_menu">
+       <item>Очищення</item>
+       <item>Файл</item>
+       <item>Виключення</item>
+       <item>Встановити</item>
+    </string-array>
+    <string-array name="app_clean_menu">
+       <item>Информация</item>
+       <item>Файл</item>
+       <item>Бекап та видалення</item>
+       <item>Видалити</item>
+    </string-array>
+    <string-array name="cache_clean_menu">
+       <item>Очищення</item>
+       <item>Файл</item>
+       <item>Виключення</item>
+    </string-array>
 </resources>

@@ -34,6 +34,7 @@
     <string name="title_system_app">Система</string>
     <string name="title_nonsystem_app">Застосунки</string>
     <string name="non_system_app_select">Застосунки</string>
+	<string name="screen_orientation_type">-1</string>
     <string name="system_app_select">Система</string>
     <string name="section_description">Опис</string>
     <string name="section_screenshot">Скриншот</string>

@@ -209,4 +209,7 @@
     <string name="unbind_device_alert_content">"Зв'язок із пристроєм \"%1$s\" відсутній тривалий час. Відв'язати його для поліпшення продуктивності?"</string>
     <string name="unbind_device_alert_ok">ОК</string>
     <string name="unbind_device_alert_title">Попередження</string>
+	<string name="incoming_line1">Від</string>
+    <string name="incoming_line2">"Ім'я файлу"</string>
+    <string name="incoming_line3">Розмір</string>
 </resources>

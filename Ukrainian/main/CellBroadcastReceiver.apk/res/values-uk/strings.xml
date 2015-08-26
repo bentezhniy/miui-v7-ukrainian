@@ -94,4 +94,5 @@
     <string name="cmas_opt_out_dialog_text">Ви отримали екстрене оповіщення. Продовжити отримувати екстрені оповіщення надалі?</string>
     <string name="cmas_opt_out_button_yes">OK</string>
     <string name="cmas_opt_out_button_no">Скасувати</string>
+	<string name="cell_broadcast_settings_not_available">Налаштування сповіщення населення недоступні цьому користувачеві</string>
 </resources>

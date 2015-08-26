@@ -1079,4 +1079,10 @@
     <string name="version_update_file_not_found">Немає оновлень</string>
     <string name="video_buffering_percent_string">Буферизація…</string>
     <string name="video_history">Відео</string>
+	<string name="geolocation_permissions_prompt_url">%s</string>
+    <string name="loading_video">Завантаження відео…</string>
+    <string name="miuichromium_default_text_encoding">Latin-1</string>
+    <string name="webapp_bottom_bar_exit">Вихід</string>
+    <string name="webapp_web_forward">Вперед</string>
+    <string name="webapp_web_goback">Назад</string>
 </resources>

@@ -54,6 +54,7 @@
     <string name="cloud_backup_window_title">Бекап Mi Cloud</string>
     <string name="cloud_restore_window_title">Відновлення з Mi Cloud</string>
     <string name="cloud_restore_title">Відновити</string>
+	<string name="delete_backup_title">Видалити бекап</string>
     <string name="local_backup_window_title">Локальний бекап</string>
     <string name="local_restore_window_title">Локальне відновлення</string>
     <string name="account_login">Увійти в систему</string>
