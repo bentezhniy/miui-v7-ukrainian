@@ -205,7 +205,7 @@
     <string name="Dashboard_Perm">Дозволи</string>
     <string name="Dashboard_App">Застосунки</string>
     <string name="Dashboard_Log">Журнали</string>
-    <string name="Dashboard_Perm_Header">Додатків: %1$d</string>
+    <string name="Dashboard_Perm_Header">Застосунків: %1$d</string>
     <string name="Dashboard_Perm_Header_Disabled">Керування доступом відключене</string>
     <string name="Dashboard_Perm_SU_Switch">Дозвіл ROOT доступу</string>
     <string name="Dashboard_Perm_SU">Керування ROOT доступом</string>
