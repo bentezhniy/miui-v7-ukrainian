@@ -2,7 +2,7 @@
 <resources>
     <string name="user_agreement1">"Перед використанням сервіса MIUI VoIP необхідно прийняти "</string>
     <string name="user_agreement2">Угоду</string>
-    <string name="user_agreement3">" і "</string>
+    <string name="user_agreement3">" та "</string>
     <string name="user_agreement4">Політику конфіденційності</string>
     <string name="mx_btn_enable_now">Увімкнути</string>
     <string name="mx_dspt_provision">MIUI VoIP дозволяє здійснювати безкоштовні дзвінки іншим користувачам MIUI. Плата може зніматись лише оператором за використання мобільного трафіку.</string>
@@ -157,4 +157,15 @@
     <string name="xiaomi_connect_download_manager_fail">Не вдалося завантажити. Перевірте параметри завантаження.</string>
     <string name="activate_failed">Помилка активації. Перевірте параметри інтернету.</string>
     <string name="voip_free_tip">Безкоштовний виклик VoIP</string>
+	<string name="mx_choose_sim_dlg_title">Оберіть SIM-карту для активації викликів VoIP</string>
+    <string name="mx_dspt_provision_3">MIUI VoIP дозволяє робити дзвінки й відеодзвінки іншим користувачам MIUI безкоштовно. Оплата може стягуватися оператором за використання мобільного трафіку та за надсилання SMS для активації сервісу.</string>
+    <string name="notification_activate_failed">Помилка активації VoIP</string>
+    <string name="notification_missedCallTicker">Пропущено викликів від %s</string>
+    <string name="notification_missedCallsMsg">Пропущених викликів: %s</string>
+    <string name="notification_missedCallsTitle">Пропущені виклики</string>
+    <string name="unkown">Невідомий</string>
+    <string name="user_agreement">Політика конфіденційності</string>
+    <string name="voip_btn_switch_camera">Переключити камеру</string>
+    <string name="voip_free_video_tip">Відеовиклик VoIP</string>
+    <string name="voip_free_voice_tip">Виклик VoIP</string>
 </resources>

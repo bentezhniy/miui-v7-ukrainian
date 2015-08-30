@@ -578,4 +578,9 @@
     <string name="pref_camera_peak_entry_on">Увімкнений</string>
     <string name="pref_camera_peak_title">Відображення фокуса</string>
     <string name="simple_mode_button_text_gradienter">Вимкнути градіометр</string>
+	<string name="camera_snap_mode_title">Тиха зйомка</string>
+    <string name="camera_snap_mode_title_detail">Натисніть для перегляду</string>
+    <string name="pref_camera_delay_capture_entry_off">вимкнена</string>
+    <string name="pref_camera_snap_enable_summary">При вимкненому екрані утримуйте клавішу зменьшення гучності для активації тихої зйомки. Натисніть знову, аби зняти фото.</string>
+    <string name="pref_camera_snap_enable_title">Тиха зйомка</string>
 </resources>

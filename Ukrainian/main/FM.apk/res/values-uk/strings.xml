@@ -158,4 +158,8 @@
     <string name="turn_on_speaker_phone">Увімкнути динамік</string>
 	<string name="txt_divider">" | "</string>
 	<string name="notification_rec_title">Перегляд запису</string>
+	<string name="default_blank" />
+    <string name="default_station">FM</string>
+    <string name="frequency_string" />
+    <string name="type_rd" />
 </resources>

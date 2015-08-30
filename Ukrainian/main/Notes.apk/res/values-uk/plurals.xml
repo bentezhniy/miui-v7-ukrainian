@@ -16,4 +16,8 @@
         <item quantity="other">%1$s</item>
         <item quantity="one">%1$s</item>
     </plurals>
+	<plurals name="cloud_state_unsynced_count">
+       <item quantity="other">Не синхронізовано: %1$s</item>
+       <item quantity="one">Не синхронізовано: %1$s</item>
+    </plurals>
 </resources>

@@ -43,9 +43,16 @@
     <string name="using_camera_confirm_ok">ОК</string>
     <string name="using_camera_confirm_cancel">Скасувати</string>
     <string name="shake_enter_tip">Струсніть для калібрування</string>
-	<string name="calibrate_rotate_again">Повтор</string>
+	<string name="calibrate_rotate_again">Повторити</string>
     <string name="calibrate_tip">Нахиляйте пристрій, аби кулька ковзала по колу.</string>
     <string name="calibrate_title">Калібрування компасу</string>
     <string name="first_using_dialog_message">Дозволити застосунку використовувати інтернет, камеру та пошук місцезнаходження для коректної роботи?</string>
     <string name="first_using_dialog_title">Попередженя</string>
+	<string name="altitude_uncalibrate_cancel">Скасувати</string>
+    <string name="altitude_uncalibrate_msg">Не вдалося точно відкалібрувати висоту без GPS або мобільної мережі</string>
+    <string name="altitude_uncalibrate_refresh">Повторити</string>
+    <string name="altitude_uncalibrate_tip">Попередження</string>
+    <string name="dialog_body_no_network">"Не вдалося під'єднатися до Інтернету"</string>
+    <string name="error_camera_unavailable">Переконайтеся, що камера не використовується іншим ззастосунком</string>
+    <string name="error_camera_unavailable_title">Камера недоступна</string>
 </resources>

@@ -744,4 +744,56 @@
        <item>Тільки вбудований розділ</item>
        <item>Тільки SD карта</item>
     </string-array>
+	<string-array name="alarm_repeat_type">
+       <item>Щодня</item>
+       <item>По вихідних</item>
+       <item>Обрати дні</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+       <item>Щодня</item>
+       <item>По вихідних</item>
+       <item>Обрати дні</item>
+    </string-array>
+    <string-array name="data_usage_data_range">
+       <item>За останні 30 днів</item>
+       <item>Цикл використання даних</item>
+    </string-array>
+    <string-array name="entries_zen_mode">
+       <item>Вимк.</item>
+       <item>Обмежена кількість переривань</item>
+       <item>Без переривань</item>
+    </string-array>
+    <string-array name="proc_stats_memory_states">
+       <item>Нормальне</item>
+       <item>Помірне</item>
+       <item>Низьке</item>
+       <item>Високе</item>
+    </string-array>
+    <string-array name="proc_stats_process_states">
+       <item>Стабільне</item>
+       <item>Найбільщ часта дія</item>
+       <item>Важливе (активний режим)</item>
+       <item>Важливе (фоновий режим)</item>
+       <item>Резервне копіювання</item>
+       <item>Великий обсяг даних</item>
+       <item>Служба (працює)</item>
+       <item>Служба (перезапуск)</item>
+       <item>Отримувач</item>
+       <item>Головна</item>
+       <item>Остання дія</item>
+       <item>Кешовано (дія)</item>
+       <item>Кешовано (клієнт)</item>
+       <item>Кешовано (порожньо)</item>
+    </string-array>
+    <string-array name="screen_resolution_entries">
+       <item>Ультрависоке (2K)</item>
+       <item>Звичайне (720P)</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+       <item>Буфер: макс. 64 КБ</item>
+       <item>Буфер: макс. 256 КБ</item>
+       <item>Буфер: макс. 1 МБ</item>
+       <item>Буфер: макс. 4 МБ</item>
+       <item>Буфер: макс. 16 МБ</item>
+    </string-array>
 </resources>

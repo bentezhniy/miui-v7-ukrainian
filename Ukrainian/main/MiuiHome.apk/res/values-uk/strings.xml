@@ -282,4 +282,11 @@
     <string name="recommend_apps_tips">"Для роботи цієї функції потрібно під'єднання до інтернету. Для вимкнення цієї функції натисніть на назву папки."</string>
     <string name="select_all">Обрати все</string>
     <string name="wallpaper_settings_for_pad">Шпалери</string>
+	<string name="children_folder_title">Для дитини</string>
+    <string name="children_mode_exit">Вихід</string>
+    <string name="process" />
+    <string name="sharedUserId" />
+    <string name="wallpaper_auto_change_title">Екран блокування</string>
+	<string name="children_mode_tips">Оберіть застосунок для доступу</string>
+    <string name="wallpaper_scaling_message">Маштабування до фіксованого розміру</string>
 </resources>

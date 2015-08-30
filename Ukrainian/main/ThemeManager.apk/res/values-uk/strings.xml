@@ -370,4 +370,22 @@
     <string name="resource_select_ringtone_audio_confirm">Встановити мелодію на виклик?</string>
     <string name="theme_setting">Налаштування</string>
     <string name="vip_level_value">Рів.%d</string>
+	<string name="gift_count_format">%1$s+</string>
+    <string name="lockscreen_magazine_subscribe">Підписників: %1$s</string>
+    <string name="lockscreen_magazine_summary">Отримувати шпалери на екран блокування кожен день</string>
+    <string name="lockscreen_magazine_system_subscribe">Шпалер: %1$s</string>
+    <string name="lockscreen_magazine_system_title">За замочуванням</string>
+    <string name="lockscreen_magazine_title">Щоденні шпалери блокування</string>
+    <string name="payment_info">Мій баланс</string>
+    <string name="resource_detail_vertical_divider">|</string>
+    <string name="theme_apply_failured">Не вдається встановити шпалери на екран блокування</string>
+    <string name="theme_apply_success">Шпалери встановлено</string>
+    <string name="theme_applying">Встановлення…</string>
+    <string name="theme_precast_update_notification_content">Натисніть для перегляду</string>
+    <string name="theme_precast_update_notification_title">Оновлення тем MIUI 7</string>
+    <string name="theme_provision_default_theme_title">За замовчуванням</string>
+    <string name="theme_provision_loading_tips">Завантаження…</string>
+    <string name="theme_provision_title">Оберіть тему</string>
+	<string name="theme_precast_create_notification_content">Натисніть для перегляду</string>
+    <string name="theme_precast_create_notification_title">Теми MIUI 7 оновлено</string>
 </resources>

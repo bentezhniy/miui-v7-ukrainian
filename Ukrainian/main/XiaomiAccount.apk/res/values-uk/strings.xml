@@ -557,4 +557,27 @@
     <string name="user_avatar_update_title">Фото профілю</string>
     <string name="user_avatar_uploading">Завантаження…</string>
     <string name="vip_level_value">Рів.%d</string>
+	<string name="data_keep_in_phone">Залишити</string>
+    <string name="data_wipe_from_phone">Видалити</string>
+    <string name="passport_account_identity_title">Підтвердіть акаунт</string>
+    <string name="passport_change_phone_number">Змінити номер</string>
+    <string name="passport_confirm_recycle_account">ОК</string>
+    <string name="passport_identitfication_expired">Строк дії коду перевірки сплинув</string>
+    <string name="passport_input_password_for_login">"Цей номер прив'язаний до існуючого акаунту. Необхідно ввести пароль."</string>
+    <string name="passport_recycle_account_prompt">Це ваш Mi акаунт?</string>
+    <string name="passport_register_restricted">"До цього номеру прив'язано дуже багато акаунтів, використовуйте інший номер"</string>
+    <string name="passport_register_restricted_title">Попередження</string>
+    <string name="passport_reject_recycle_account">Відмова</string>
+    <string name="passport_reset_fail_title">Не вдається скинути</string>
+    <string name="passport_reset_password_prompt">Невірний пароль</string>
+    <string name="passport_reset_password_title">Скидання паролю</string>
+    <string name="passport_restart">Почати</string>
+    <string name="passport_restart_register_prompt">Під час створення нового акаунту буде надіслане інше SMS підтвердження</string>
+    <string name="passport_restart_register_title">Реєстрація</string>
+    <string name="passport_send_too_many_code">На цей номер будо надіслано дуже багато кодів підтвердження. Спробуйте знову через 24 години.</string>
+    <string name="passport_setting">Завантаження…</string>
+    <string name="passport_wait_for_sms_prompt">Почати налаштування спочатку?</string>
+    <string name="passport_wrong_password">Невірний пароль</string>
+    <string name="passport_xiaomi_account_sec_dspt" />
+    <string name="passport_xiaomi_account_sec_dspt2" />
 </resources>

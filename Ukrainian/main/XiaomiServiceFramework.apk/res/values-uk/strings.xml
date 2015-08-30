@@ -96,4 +96,5 @@
     <string name="activate_popup_title_all_gateway_failed_query_info">Не вдається знайти номер</string>
     <string name="activate_popup_title_all_gateway_failed_send_sms">Не вдається надіслати SMS</string>
     <string name="activate_sms_postfix">[Ця SMS використовується для активації вашого пристрою]</string>
+	<string name="xiaomi_cloud_service">Mi Cloud</string>
 </resources>

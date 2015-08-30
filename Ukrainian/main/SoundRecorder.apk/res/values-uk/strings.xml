@@ -109,4 +109,5 @@
 	<string name="preference_tip_rename">Вікно перейменування після запису</string>
 	<string name="record_mark_point">Міток: %s</string>
     <string name="rename_no_more_tip">Більше не показувати</string>
+	<string name="alert_message_delete_record_title">Видалення запису</string>
 </resources>

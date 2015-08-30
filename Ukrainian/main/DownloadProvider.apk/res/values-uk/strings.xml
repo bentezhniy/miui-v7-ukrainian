@@ -62,4 +62,14 @@
     <string name="warning_tip_content">При завантажені файлів по мобільному інтернету може стягуватись додаткова плата оператором. Припинити завантаження?</string>
     <string name="warning_tip_ok">ОК</string>
     <string name="warning_tip_title">Попередження про трафік</string>
+	<string name="button_download_now">Завантажити</string>
+    <string name="button_wait_for_wifi">Очікувати</string>
+    <string name="enter_garbage_clean">"Очищення пам'яті"</string>
+    <string name="insufficient_space">"Недостатньо пам'яті для завантаження"</string>
+    <string name="recommended_file_more_in_mobile" formatted="false">При завантаженні цих файлів (%s, %s) через мобільний трафік може стягуватися додаткова плата</string>
+    <string name="recommended_file_one_in_mobile">При завантаженні цих файлів (%s) через мобільний трафік може стягуватися додаткова плата</string>
+    <string name="recommended_file_size_download_in_mobile" formatted="false">"Мережа Wi-Fi не підключена. %s
+
+Не вдалося отримати інформацію про розмір файлу. Для завантаження через мобільний трафік натисніть \"%s\". Щоб зачекати завантаження через Wi-Fi натисніть \"%s\"."</string>
+    <string name="recommended_no_file_size_download_in_mobile" formatted="false">Не вдалося отримати інформацію про розмір файлу. Для завантаження через мобільний трафік натисніть \"%s\". Щоб зачекати завантаження через Wi-Fi натисніть \"%s\".</string>
 </resources>

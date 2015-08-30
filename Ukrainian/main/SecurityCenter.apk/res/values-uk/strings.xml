@@ -773,4 +773,21 @@
     <string name="title_default_app">MIUI %s не встановлено за замовчуванням</string>
     <string name="toast_default_app">%1$s встановлено за замовчуванням %2$s</string>
     <string name="toast_resolve_apk_error">Усунути помилку APK</string>
+	<string name="memory_check_content_none">Порожньо</string>
+	<string name="antivirus_choose_engine">Використосувати базу %s</string>
+    <string name="antivirus_choose_engine_dialog_title">Обрати базу</string>
+    <string name="antivirus_choose_engine_disable_toast">Не можна змінити базу під час сканування</string>
+    <string name="antivirus_choose_engine_settings">Налаштування антивірусної бази</string>
+    <string name="antivirus_choose_engine_title">Антивірусна база</string>
+    <string name="antivirus_more_engine_dialog_summary">Сканування з використанням декількох баз даних може зайняти більше часу</string>
+    <string name="antivirus_more_engine_dialog_title">Попередження</string>
+    <string name="antivirus_none_engine_dialog_ok">ОК</string>
+    <string name="antivirus_none_engine_dialog_title">Оберіть базу</string>
+    <string name="antivirus_privacy_dialog_cloudscan">Сканування онлайн</string>
+    <string name="antivirus_privacy_dialog_cloudscan_description">Завантажити відомості про застосунки на сервер для сканування вірусів</string>
+    <string name="antivirus_privacy_dialog_ok">ОК</string>
+    <string name="antivirus_privacy_dialog_summary">ID вашого пристрою буде зашифровано та надіслано на сервера AVL и Tencent (%s)</string>
+    <string name="antivirus_privacy_dialog_summary_link">Політика конфіденційності</string>
+    <string name="antivirus_privacy_dialog_title">Політика конфіденційності</string>
+    <string name="descx_quick_scan_preparation">Завантаження…</string>
 </resources>

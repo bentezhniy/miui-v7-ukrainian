@@ -35,5 +35,9 @@
     <string name="toast_no_application">Неможливо відкрити файл</string>
     <string name="toast_failed_delete">Неможливо видалити деякі елементи</string>
     <string name="share_via">Спосіб надсилання</string>
-    <string name="toast_not_show_thumbnail">"Не вистачає оперативної пам'яті для відображення ескізу"</string>
+    <string name="toast_not_show_thumbnail">"Не вистачає оперативної пам'яті для відображення ескізу"</string><string name="menu_advanced_hide">Скрыть внутренний накопитель</string>
+    <string name="menu_advanced_show">Показати внутрішній накопичувач</string>
+    <string name="menu_file_size_hide">Приховати розмір файлів</string>
+    <string name="menu_file_size_show">Показати розмір файлів</string>
+    <string name="menu_select">Оберіть \"^1\"</string>
 </resources>

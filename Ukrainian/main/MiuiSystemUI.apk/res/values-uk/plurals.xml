@@ -4,4 +4,8 @@
         <item quantity="other">Нещодавніх застосунків: %d</item>
         <item quantity="one">Нещодавніх застосунків: 1</item>
     </plurals>
+	<plurals name="disable_notification_confirm_title">
+       <item quantity="other">Блокувати застосунків: %d</item>
+       <item quantity="one">Блокувати застосунок: %d</item>
+    </plurals>
 </resources>

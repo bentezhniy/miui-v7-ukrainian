@@ -337,4 +337,19 @@
     <string name="sort_by_name">Назва</string>
     <string name="sort_by_time">Дата</string>
     <string name="upgrade_remind">Наявне оновлення</string>
+	<string name="audio_effect_settings">Налаштування еквалайзеру</string>
+    <string name="dirac_mode_earbuds">Гарнітура</string>
+    <string name="dirac_mode_general">Загальні</string>
+    <string name="dirac_mode_general_earbuds">Звичайні навушники</string>
+    <string name="dirac_mode_general_inear">Звичайні вкладиші</string>
+    <string name="dirac_mode_in_ear">Навушники Xiaomi</string>
+    <string name="dirac_mode_piston_100">Пістони Xiaomi 1</string>
+    <string name="dirac_mode_piston_2">Пістони Xiaomi 2</string>
+    <string name="dirac_mode_piston_youth">Бюджетні пістони Xiaomi</string>
+    <string name="headphone_settings">Налаштування типу навушників</string>
+    <string name="mi_effect_summary">Завжди використовувати підсилювач MiSound при прослуховуванні через динамік</string>
+    <string name="mi_effect_title">Підсилювач MiSound</string>
+	<string name="online_music_enabled_subtitle">Перейти</string>
+    <string name="online_music_enabled_summary">Прослуховуйте та завантажуйте музику онлайн безкоштовно!</string>
+    <string name="online_music_enabled_title">Безкоштовна музика</string>
 </resources>

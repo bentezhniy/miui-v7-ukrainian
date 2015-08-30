@@ -601,4 +601,18 @@ sms (%1$d), MMS (%2$d)."</string>
     <string name="storage_dialog_sms">SMS: %d</string>
     <string name="storage_unavailable">Нема вільного місця</string>
     <string name="title_show_blocked_messages">Показувати заблоковані SMS</string>
+	<string name="exceed_message_text_limitation">Досягнуто максимальної довжини повідомлення</string>
+    <string name="msg_type_hint_mms_omit">MMS</string>
+    <string name="msg_type_hint_mx_omit">Mi повідомлення</string>
+    <string name="msg_type_hint_sms_omit">SMS</string>
+    <string name="mx_activate_notice">Система надішле SMS для активації служби синхронізації. Продовжити?</string>
+    <string name="mx_and_voip_enable">Mi спілкування</string>
+    <string name="mx_and_voip_enable_popup_msg">Надсилайте повідомлення та телефонуйте безкоштовно між користувачами MIUI. Сплата здійснюється лише за використаний мобільний трафік. Політика конфіденційності</string>
+    <string name="mx_and_voip_enable_popup_msg2">Політика конфіденційності</string>
+    <string name="pref_show_sms_template_in_summary">Автоматичне визначення OTP у SMS повідомленнях</string>
+    <string name="pref_time_auto_group_disabled_summary">Недоступно при поточному розмірі шрифту</string>
+    <string name="title_show_sms_template_in">Перевірити OTP у SMS</string>
+    <string name="voip_enable">Mi спілкування</string>
+    <string name="voip_enable_popup_msg">Надсилайте повідомлення та телефонуйте безкоштовно між користувачами MIUI. Сплата здійснюється лише за використаний мобільний трафік. Політика конфіденційності</string>
+    <string name="voip_enable_popup_msg2">Політика конфіденційності</string>
 </resources>

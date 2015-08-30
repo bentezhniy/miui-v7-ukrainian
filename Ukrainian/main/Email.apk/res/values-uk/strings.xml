@@ -1024,4 +1024,10 @@
     <string name="update_date_format_templete">HH:mm aa, d MMMM</string>
     <string name="upload_log_no">Скасування</string>
     <string name="upload_log_yes">Завантажити</string>
+	<string name="account_setup_failed_too_many_partnerships">"Помилка авторизації. Забагато спроб під'єднатися до серверу".</string>
+    <string name="bottom_bar_more_share">Надіслати</string>
+    <string name="get_database_exception">Застаріла база даних. Очистіть дані застосунка.</string>
+    <string name="outbox_alert_description_email_size_error">Досягнуто максимальної довжини повідомлення</string>
+    <string name="outbox_alert_description_fail_authentication">"Невірне ім'я користувача або пароль"</string>
+    <string name="share_choose">Оберіть застосунок</string>
 </resources>

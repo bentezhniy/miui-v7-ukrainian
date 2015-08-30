@@ -272,4 +272,17 @@ d MMMM yyyy"</string>
     <string name="vpn_text_long">Підключено до %s. Натисніть для перегляду.</string>
     <string name="vpn_title">Мережа VPN активна</string>
     <string name="vpn_title_long">Підключення VPN через %s</string>
+	<string name="block_record_notification_more_text">%1$s, застосунків: %2$d</string>
+    <string name="block_record_notification_text">%1$s. Натисніть для перегляду.</string>
+    <string name="block_record_notification_title">Блокувати запис</string>
+    <string name="expanded_confirm_disable_notification">ОК</string>
+    <string name="kilobyte_per_second">" К/с"</string>
+    <string name="megabyte_per_second">М/с</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
+    <string name="toast_rotation_locked">Екран заблоковано у ландшафтній орієнтації</string>
+	<string name="screen_pinning_description">Екран буде заблоковано в одному положені. Натисніть та утримуйте клавішу \"Назад\" для розблокування.</string>
+    <string name="screen_pinning_description_accessible">Екран буде заблоковано в одному положені. Натисніть та утримуйте для розблокування.</string>
+    <string name="screen_pinning_negative">Скасувати</string>
+    <string name="screen_pinning_positive">ОК</string>
+    <string name="screen_pinning_title">Екран заблоковано</string>
 </resources>

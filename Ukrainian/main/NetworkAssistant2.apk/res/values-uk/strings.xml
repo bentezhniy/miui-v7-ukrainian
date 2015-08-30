@@ -565,4 +565,21 @@
     <string name="wifi_exception_summary">Тест доступної мережі Wi-Fi</string>
     <string name="wifi_exception_title">Тест Wi-Fi</string>
     <string name="wifi_network_blocked_notification_title">Інтернет недоступний</string>
+	<string name="dialog_title_attention">Попередження</string>
+    <string name="left_precent">60%</string>
+    <string name="notify_month_traffic_title">Використано за місяць: %s</string>
+    <string name="notify_month_traffic_title_for_slotnum">%1$s використано за місяць: %2$s</string>
+    <string name="notify_weekly_traffic_body">Налаштуйте ліміт трафіку</string>
+    <string name="notify_weekly_traffic_title">Використано за тиждень: %s</string>
+    <string name="notify_weekly_traffic_title_for_slotnum">%1$s використано за тиждень: %2$s</string>
+    <string name="restrictbackground_conflict_saving_msg">"Вимкнути стиснення трафіку та заборонити фонові з'єднання?
+Стиснення трафіку буде недоступне."</string>
+    <string name="right_precent">100%</string>
+    <string name="saving_conflict_dialog_cancel">Скасувати</string>
+    <string name="saving_conflict_dialog_ok">ОК</string>
+    <string name="saving_conflict_dialog_title">Попередження</string>
+    <string name="saving_conflict_restrictbackground_msg">Дозволити фонові з'єднання та увімкнути стиснення трафіку?</string>
+    <string name="text_day" />
+    <string name="traffic_setting_fragment_area_dual">Країна: %s</string>
+	<string name="main_message_no_package_by_dual">Встановити обмеження трафіку для %s</string>
 </resources>
