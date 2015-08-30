@@ -29,9 +29,9 @@
         <item quantity="one">Пароль повинен містити хоча б 1 небуквений символ</item>
     </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
-        <item quantity="other">"Додатків: %d 
+        <item quantity="other">"Застосунків: %d 
 доступ до читання повідомлень"</item>
-        <item quantity="one">"Додатків: %d 
+        <item quantity="one">"Застосунків: %d 
 доступ до читання повідомлень"</item>
     </plurals>
     <plurals name="wrong_pin_code">
