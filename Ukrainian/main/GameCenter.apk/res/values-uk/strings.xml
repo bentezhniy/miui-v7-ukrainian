@@ -79,7 +79,7 @@
 	<string name="edit_comment">Змінити коментар</string>
 	<string name="edit_comment_title">%1$s - зміна коментаря</string>
 	<string name="edit_text_default">Будь ласка, введіть коментар</string>
-	<string name="enable_updata_local_app">%1$s додатків можна оновити</string>
+	<string name="enable_updata_local_app">%1$s застосунків можна оновити</string>
 	<string name="expand_full_text">Expand</string>
 	<string name="expand_full_text_comment">Згорнути все▼</string>
 	<string name="failed_to_add_photo">Помилка додавання фотографій</string>
@@ -243,7 +243,7 @@
 	<string name="pref_summary_clear_search_record">Очистити дані про пошук</string>
 	<string name="pref_summary_data_check_update">Натисніть, для перевірки оновлень</string>
 	<string name="pref_summary_data_save_mode">не завантажвати іконки і скріншоти</string>
-	<string name="pref_summary_update_notification">Повідомлення про оновлення для додатків</string>
+	<string name="pref_summary_update_notification">Повідомлення про оновлення для застосунків</string>
 	<string name="pref_title_auto_update_setting">Параметри автоматичного оновлення</string>
 	<string name="pref_title_clear_search_record">Очистити історію пошуку</string>
 	<string name="pref_title_data_check_update">Перевірити наявність оновлень</string>
