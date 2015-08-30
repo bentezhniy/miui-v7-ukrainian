@@ -360,7 +360,7 @@
     <string name="load_more">Ще</string>
     <string name="month_day_format">d MMMM</string>
     <string name="name_empty">"Введіть ім'я файлу"</string>
-    <string name="no_app_tags">Пусто</string>
+    <string name="no_app_tags">Порожньо</string>
     <string name="no_recent_files">Немає недавніх файлів</string>
     <string name="notification_dialog_confirm">ОК</string>
     <string name="notification_dialog_content">Повідомляти при додаванні або зміні файлів в %1$s</string>
