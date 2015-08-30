@@ -109,7 +109,7 @@
     <string name="video_title">Відео</string>
     <string name="webpage_bookmark_title">Закладки</string>
     <string name="webpage_history_title">Історія</string>
-    <string name="empty_bookmark">Пусто</string>
+    <string name="empty_bookmark">Порожньо</string>
     <string name="bookmark_add_group_text_header">Додати обрані %1$d у групу</string>
     <string name="local_bookmarks">Xiaomi</string>
     <string name="google_bookmarks">"Google: "</string>
@@ -786,7 +786,7 @@
     <string name="do_not_save">Скасувати</string>
     <string name="containing_folder">Додати</string>
     <string name="new_folder">Нова тека</string>
-    <string name="no_subfolders">Пусто</string>
+    <string name="no_subfolders">Порожньо</string>
     <string name="add_to_bookmarks_menu_option">Закладинки</string>
     <string name="add_to_homescreen_menu_option">Робочий стіл</string>
     <string name="add_to_other_folder_menu_option">Інша тека</string>
