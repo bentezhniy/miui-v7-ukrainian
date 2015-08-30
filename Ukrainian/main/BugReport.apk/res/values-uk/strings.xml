@@ -88,7 +88,7 @@
     <string name="screen_lock">Блокування екрана</string>
     <string name="systemui">Панель повідомлень</string>
     <string name="hot_problem_empty">Порожньо</string>
-    <string name="common_problem_empty">Пусто</string>
+    <string name="common_problem_empty">Порожньо</string>
     <string name="button_feedback">Інші</string>
     <string name="problem_title">Опис</string>
     <string name="problem_detail">Причина</string>
