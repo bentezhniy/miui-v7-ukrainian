@@ -1043,7 +1043,7 @@ sim карта буде очищена при невдалій спробі вв
     <string name="callUnanswered_forwarded">Виклик пропущено та переадресовано</string>
     <string name="call_ind_services">Call Independent Services</string>
     <string name="callind">Call Feature Settings</string>
-    <string name="carrier_name">("Ім'я оператора")</string>
+    <string name="carrier_name">"(Ім'я оператора)"</string>
     <string name="cdma_alert_message">Якщо обрати іншу карту за замовчуванням для мобільного Інтернету, Ви не зможете використовувати UIM-карту China Telecom</string>
     <string name="cdma_alert_title">UIM-карта повинна бути за замовчуванням</string>
     <string name="cell_broadcast_settings">Emergency broadcasts</string>
