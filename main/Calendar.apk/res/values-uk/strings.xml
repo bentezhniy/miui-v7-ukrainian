@@ -116,7 +116,7 @@
     <string name="change_response_title">Змінити відповідь</string>
     <string name="menu_general_preferences">Загальні налаштування</string>
     <string name="menu_about_preferences">Про календар</string>
-    <string name="preferences_title">Налаштування</string>
+    <string name="preferences_title">Календар</string>
     <string name="preferences_general_title">Заходи</string>
     <string name="preferences_reminder_title">Налаштування нагадувань</string>
     <string name="preferences_hide_declined_title">Сховати відхилені</string>
