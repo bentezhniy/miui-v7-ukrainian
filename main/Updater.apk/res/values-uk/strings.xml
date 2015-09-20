@@ -319,6 +319,9 @@ http://miui.su/mi-pc-suite"</string>
     <string name="vote_recommend">Рекомендувати</string>
     <string name="vote_submit">Відправити</string>
     <string name="welcom_button">ОК</string>
-    <string name="welcom_message">Насолоджуйтеся MIUI6</string>
+    <string name="welcom_message">Насолоджуйтеся MIUI7</string>
     <string name="welcom_title">Ласкаво просимо!</string>
+	<string name="notification_load_now">Увійдіть в зараз</string>
+    <string name="recovery_power_not_enough_msg">Для оновлення прошивки потрібно не меньше 30% заряду батареї</string>
+    <string name="recovery_power_not_enough_title">Низький заряд батареї</string>
 </resources>

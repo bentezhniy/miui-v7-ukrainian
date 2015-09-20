@@ -243,4 +243,7 @@
 	<string name="pref_summary_open_optimizer_memory_scan">"Автоматично очищати пам'ять"</string>
     <string name="pref_title_open_optimizer_memory_scan">"Автоочищення пам'яті"</string>
     <string name="toast_select_white_need_remove">"Оберіть елементи для очищення</string>
+	<string name="hints_install_apps_else">Зайнято: %s</string>
+    <string name="hints_num">0</string>
+    <string name="preference_key_open_optimizer_memory_scan">key_open_memory_scan</string>
 </resources>

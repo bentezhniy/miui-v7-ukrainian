@@ -583,4 +583,13 @@
     <string name="pref_camera_delay_capture_entry_off">вимкнена</string>
     <string name="pref_camera_snap_enable_summary">При вимкненому екрані утримуйте клавішу зменьшення гучності для активації тихої зйомки. Натисніть знову, аби зняти фото.</string>
     <string name="pref_camera_snap_enable_title">Тиха зйомка</string>
+	<string name="accessibility_seek_bar_line">SeekBarLine</string>
+    <string name="face_analyze_info_age">"Вік: "</string>
+    <string name="face_analyze_info_gender">"Стать: "</string>
+    <string name="face_analyze_info_years">років</string>
+    <string name="pref_camera_fisheye_title">"Риб'яче око"</string>
+    <string name="pref_camera_saturation_cm_test_default">4</string>
+    <string name="pref_camera_tilt_shift_title">Tilt Shift</string>
+    <string name="simple_mode_button_text_fisheye">"Вимкнути риб'яче око"</string>
+    <string name="simple_mode_button_text_tilt_shift">Вимкнути Tilt Shift</string>
 </resources>

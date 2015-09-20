@@ -136,4 +136,30 @@
        <item quantity="other">%d сек.</item>
        <item quantity="one">%d сек.</item>
     </plurals>
+	<plurals name="number_of_images_and_videos_to_upload">
+       <item quantity="other">%1$d файлів для завантаження</item>
+       <item quantity="one">%1$d файл для завантаження</item>
+       <item quantity="few">%1$d файла для завантаження</item>
+       <item quantity="many">%1$d файлів для завантаження</item>
+    </plurals>
+    <plurals name="number_of_images_to_upload">
+       <item quantity="other">%1$d фото для завантаження</item>
+       <item quantity="one">%1$d фото для завантаження</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+       <item quantity="other">Завантаження %1$d фото…</item>
+       <item quantity="one">Завантаження %1$d фото…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+       <item quantity="other">Завантаження %1$d файлів…</item>
+       <item quantity="one">Завантаження %1$d файла…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+       <item quantity="other">Завантаження %1$d відео…</item>
+       <item quantity="one">Завантаження %1$d відео…</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+       <item quantity="other">%1$d відео для завантаження</item>
+       <item quantity="one">%1$d відео для завантаження</item>
+    </plurals>
 </resources>

@@ -47,4 +47,48 @@
         <item quantity="other">Додано треків: %d</item>
         <item quantity="one">Додано треків: %d</item>
      </plurals>
+	 <plurals name="NPlaylist_delete_confirm">
+       <item quantity="other">Видалити %d плейлистів?</item>
+       <item quantity="one">Видалити %d плейлист?</item>
+       <item quantity="few">Видалити %d плейлиста?</item>
+       <item quantity="many">Видалити %d плейлистів?</item>
+    </plurals>
+    <plurals name="Nartists_count">
+       <item quantity="other">%d виконавців</item>
+       <item quantity="one">%d виконавець</item>
+       <item quantity="few">%d виконавця</item>
+       <item quantity="many">%d виконавців</item>
+    </plurals>
+    <plurals name="Ngroups_count">
+       <item quantity="other">%d груп</item>
+       <item quantity="one">%d група</item>
+       <item quantity="few">%d групи</item>
+       <item quantity="many">%d груп</item>
+    </plurals>
+    <plurals name="Nquit_warning">
+       <item quantity="other">Відтворення завершиться через %d хвилин</item>
+       <item quantity="one">Відтворення завершиться через %d хвилину</item>
+       <item quantity="few">Відтворення завершиться через %d хвилини</item>
+       <item quantity="many">Відтворення завершиться через %d хвилин</item>
+    </plurals>
+    <plurals name="dialog_delete_descript">
+       <item quantity="other">Видалити %d треків?</item>
+       <item quantity="one">Видалити %d трек?</item>
+       <item quantity="few">Видалити %d трека?</item>
+       <item quantity="many">Видалити %d треків?</item>
+    </plurals>
+    <plurals name="dialog_remove_descript">
+       <item quantity="other">Видалити %d треків?</item>
+       <item quantity="one">Видалити %d трек?</item>
+       <item quantity="few">Видалити %d трека?</item>
+       <item quantity="many">Видалити %d треків?</item>
+    </plurals>
+    <plurals name="multichoice_title">
+       <item quantity="other">Обрано: %d</item>
+       <item quantity="one">Обрано: %d</item>
+    </plurals>
+    <plurals name="song_already_favorite">
+       <item quantity="other">Вже додано до обраних</item>
+       <item quantity="one">Вже додано до обраних</item>
+    </plurals>
 </resources>

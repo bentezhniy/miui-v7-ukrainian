@@ -1030,4 +1030,5 @@
     <string name="outbox_alert_description_email_size_error">Досягнуто максимальної довжини повідомлення</string>
     <string name="outbox_alert_description_fail_authentication">"Невірне ім'я користувача або пароль"</string>
     <string name="share_choose">Оберіть застосунок</string>
+	<string name="attachment_list_search_hint">Пошук вкладень</string>
 </resources>

@@ -1085,4 +1085,22 @@
     <string name="webapp_bottom_bar_exit">Вихід</string>
     <string name="webapp_web_forward">Вперед</string>
     <string name="webapp_web_goback">Назад</string>
+	<string name="common_use_phrase_bottom_bar_com_txt">.com</string>
+    <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
+    <string name="common_use_phrase_bottom_bar_net_txt">.net</string>
+    <string name="common_use_phrase_bottom_bar_org_txt">.org</string>
+    <string name="common_use_phrase_bottom_bar_point_txt">.</string>
+    <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
+    <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
+    <string name="config_webSettingsDefaultTextEncoding">UTF-8</string>
+    <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
+    <string name="pref_data_preload_value_always">ALWAYS</string>
+    <string name="pref_data_preload_value_never">NEVER</string>
+    <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
+    <string name="pref_link_prefetch_value_always">ALWAYS</string>
+    <string name="pref_link_prefetch_value_never">NEVER</string>
+    <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
+    <string name="pref_video_preload_value_always">ALWAYS</string>
+    <string name="pref_video_preload_value_never">NEVER</string>
+    <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
 </resources>

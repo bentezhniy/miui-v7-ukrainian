@@ -580,4 +580,9 @@
     <string name="passport_wrong_password">Невірний пароль</string>
     <string name="passport_xiaomi_account_sec_dspt" />
     <string name="passport_xiaomi_account_sec_dspt2" />
+	<string name="passport_data_keep_in_device">Залишайтеся у пристрої</string>
+    <string name="passport_data_wipe_from_device">Видалити з пристрою</string>
+    <string name="passport_forget_password_no_underline">Забули пароль</string>
+    <string name="passport_login_short">Вхід</string>
+    <string name="passport_remove_account_notice">Після видалення акаунту, чи Ви хочете, щоб контакти та замітки було відалено з пристрою?</string>
 </resources>

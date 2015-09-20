@@ -60,4 +60,12 @@
        <item quantity="other">%1$d сек.</item>
        <item quantity="one">%1$d сек.</item>
     </plurals>
+	<plurals name="alarm_alert_snooze_set">
+       <item quantity="other">Будильник буде відкладено на %d хв.</item>
+       <item quantity="one">Будильник буде відкладено на %d хв.</item>
+    </plurals>
+    <plurals name="auto_silence_summary">
+       <item quantity="other">Будильник буде вимкнено через %d хв.</item>
+       <item quantity="one">Будильник буде вимкнено через %d хв.</item>
+    </plurals>
 </resources>

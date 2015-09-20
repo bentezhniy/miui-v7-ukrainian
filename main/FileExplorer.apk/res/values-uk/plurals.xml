@@ -128,4 +128,28 @@
        <item quantity="few">Теги за запитом \"%1$s\" (елементів: %2$d)</item>
        <item quantity="many">Теги за запитом \"%1$s\" (елементів: %2$d)</item>
     </plurals>
+	<plurals name="backup_message_wechat_video">
+       <item quantity="other">Буде видалено %1$d кешованих відео WeChat. Виконати бекап?</item>
+       <item quantity="zero">Буде видалено %1$d кешованих відео WeChat. Виконати бекап?</item>
+       <item quantity="one">Буде видалено %1$d кешованих відео WeChat. Виконати бекап?</item>
+       <item quantity="two">Буде видалено %1$d кешованих відео WeChat. Виконати бекап?</item>
+       <item quantity="few">Буде видалено %1$d кешованих відео WeChat. Виконати бекап?</item>
+       <item quantity="many">Буде видалено %1$d кешованих відео WeChat. Виконати бекап?</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video">
+       <item quantity="other">Отримано файлів WeChat: %1$d</item>
+       <item quantity="zero">Отримано файлів WeChat: %1$d</item>
+       <item quantity="one">Отримано файлів WeChat: %1$d</item>
+       <item quantity="two">Отримано файлів WeChat: %1$d</item>
+       <item quantity="few">Отримано файлів WeChat: %1$d</item>
+       <item quantity="many">Отримано файлів WeChat: %1$d</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video_expire">
+       <item quantity="other">Термін дії %1$d відео WeChat сплинув</item>
+       <item quantity="zero">Термін дії %1$d відео WeChat сплинув</item>
+       <item quantity="one">Термін дії %1$d відео WeChat сплинув</item>
+       <item quantity="two">Термін дії %1$d відео WeChat сплинув</item>
+       <item quantity="few">Термін дії %1$d відео WeChat сплинув</item>
+       <item quantity="many">Термін дії %1$d відео WeChat сплинув</item>
+    </plurals>
 </resources>

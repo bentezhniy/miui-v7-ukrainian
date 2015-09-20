@@ -1373,4 +1373,6 @@
     <string name="preview_incall_show_entry">Перегляд відео</string>
     <string name="quit_dialog_confirm_message">"Ви не маєте об'єднаних контактів"</string>
 	<string name="remove_blacklist_dialog_message">Розблокувати цей номер?</string>
+	<string name="emergency_number_label">Екстрений виклик</string>
+    <string name="in_call_show_preview_reshoot">Повтор</string>
 </resources>

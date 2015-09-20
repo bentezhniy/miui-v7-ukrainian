@@ -572,4 +572,14 @@
     <string name="need_upgrade_summary">Ця функціядоступна лише у новій версії</string>
     <string name="need_upgrade_title">Необхідне оновлення</string>
 	<string name="vp_media_type_banned">Цей формат не підтримується</string>
+	<string name="tv_cp_info_format">Поддержка: %1$s</string>
+    <string name="vp_media_type_unsported">Цей формат не підтримується</string>
+    <string name="vp_mobile_network_using_warning_line_1">При перегляді відео через мобільний інтернет може стягуватися плата.</string>
+    <string name="vp_mobile_network_using_warning_line_2">При перевищенні ліміту мобільного трафіку може стягуватися додаткова плата.</string>
+    <string name="vp_mplayer_error_io">Помилка виконання IO</string>
+    <string name="vp_mplayer_error_malformed">Медіа контент пошкоджено</string>
+    <string name="vp_mplayer_error_server_died">Процес медіа завершено</string>
+    <string name="vp_mplayer_error_timed_out">Час очікування сплинув</string>
+    <string name="vp_play_youku_failed_get_video_info">Не вдається отримати інформацію про відео</string>
+    <string name="vp_play_youku_time_out">Час очікування підключення сплинув</string>
 </resources>

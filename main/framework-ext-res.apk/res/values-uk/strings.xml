@@ -97,4 +97,6 @@
     <string name="internal_remain_mins">Залишилося хвилин: %1$s (місцеві дзвінки)</string>
     <string name="international_livetalk_enable">Використовуйте пакети поповнення для міжнародних дзвінків</string>
     <string name="international_remain_mins">Залишилося хвилин: %1$s (%2$s)</string>
+	<string name="reboot_info_auto_boot">Установлено таймер живлення. Пристрій увімкнеться о %s.</string>
+    <string name="reboot_info_shutdown_alarm">Пристрій увімкнеться й будильник пролунає о %s</string>
 </resources>
