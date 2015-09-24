@@ -554,7 +554,7 @@
     <string name="activity_title_perm_manager">Керування ліцензіями</string>
     <string name="activity_title_auto_start_manager">Автозапуск</string>
     <string name="activity_title_notification_bar_manager">Керування повідомленнями</string>
-    <string name="activity_title_default_apps_manager">Додатки за замовчуванням</string>
+    <string name="activity_title_default_apps_manager">Застосунки за замовчуванням</string>
     <string name="activity_title_permission_manager">Дозволи</string>
     <string name="activity_title_root_manager">ROOT доступ</string>
     <string name="empty_title_auto_start_list">Немає застосунків з автозапуском</string>
@@ -622,7 +622,7 @@
     <string name="permission_close_permission_control_dialog_title">Відключити керування дозволами?</string>
     <string name="permission_close_permission_control_dialog_msg">Коли керування дозволами вимкнене, застосунки не будуть запитувати доступ до ваших даних і функцій</string>
     <string name="permission_permission_control_closed_desc_dialog_title">Керування дозволами відключене</string>
-    <string name="permission_permission_control_closed_desc_dialog_msg">Додатки не будуть запитувати дозволи на доступ до ваших даних і функцій</string>
+    <string name="permission_permission_control_closed_desc_dialog_msg">Застосунки не будуть запитувати дозволи на доступ до ваших даних і функцій</string>
     <string name="examination_score_100_with_recommend">Елементів для оптимізації: %d</string>
     <string name="examination_score_80_100_with_recommend">Доступно для оптимізації: %d</string>
     <string name="scanning_bar_system_title">Скануванння системи…</string>
@@ -755,7 +755,7 @@
     <string name="month_report_disconnect_tip">Не вдається підключитися до інтернету</string>
     <string name="month_report_history_activity_label">Історія звітів</string>
     <string name="month_report_month_report_switch">Показати звіт за місяць</string>
-    <string name="month_report_network_dialog_description">Дозволити додатком \"Безпека\" підключатися до інтернету для отримання новин?</string>
+    <string name="month_report_network_dialog_description">Дозволити застосунку \"Безпека\" підключатися до інтернету для отримання новин?</string>
     <string name="month_report_network_dialog_positive">ОК</string>
     <string name="month_report_network_dialog_title">Не вдається отримати новини</string>
     <string name="month_report_result_share">Відправити</string>
@@ -767,7 +767,7 @@
     <string name="notification_summary_cmcc_app_check">Натисніть для перегляду інформації</string>
     <string name="notification_title_cmcc_app_check">Остання перевірка: %d дн. назад</string>
     <string name="shutdown_time_day_tomorrow">Час вимикання: %1$s</string>
-    <string name="summary_cmcc_app_check">Не вдалося перевірити деякі додатки</string>
+    <string name="summary_cmcc_app_check">Не вдалося перевірити деякі застосунки</string>
     <string name="summary_default_app">%s не встановлено як додаток за замовчуванням</string>
     <string name="title_cmcc_app_check">Перевірка не завершена</string>
     <string name="title_default_app">MIUI %s не встановлено за замовчуванням</string>
