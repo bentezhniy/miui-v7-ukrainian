@@ -149,7 +149,7 @@ d MMMM yyyy"</string>
     <string name="usb_storage_stop_title">USB накопичувач використовується</string>
     <string name="usb_storage_stop_message">"Перед тим як відключити USB накопичувач, переконайтеся, що безпечно вилучили Android USB накопичувач з вашого комп'ютера."</string>
     <string name="dlg_confirm_kill_storage_users_title">Увімкнути USB накопичувач</string>
-    <string name="dlg_confirm_kill_storage_users_text">При вимкнені режиму накопичувача деякі додатки будуть недоступні</string>
+    <string name="dlg_confirm_kill_storage_users_text">При вимкнені режиму накопичувача деякі застосунки будуть недоступні</string>
     <string name="dlg_error_title">USB операція невдала</string>
     <string name="dlg_ok">ОК</string>
     <string name="ext_media_checking_notification_title">Підготвування USB накопичувача</string>
