@@ -18,8 +18,8 @@
     <string name="current_wallpaper">Вибрані</string>
     <string name="menu_item_add_item">Додати на стільницю</string>
     <string name="group_shortcuts">Ярлики</string>
-    <string name="group_folder">Нова папка</string>
-    <string name="group_live_folders">Папки</string>
+    <string name="group_folder">Нова тека</string>
+    <string name="group_live_folders">Теки</string>
     <string name="out_of_space">На цьому екрані немає вільного місця</string>
     <string name="title_select_shortcut">Виберіть ярлик</string>
     <string name="title_select_live_folder">Виберіть теку</string>
@@ -77,7 +77,7 @@
     <string name="widget_favorite_contacts_label">Контакти</string>
     <string name="widget_favorite_contacts_edit">Правка</string>
     <string name="widget_favorite_contacts_style">Розмір</string>
-    <string name="edit_folder_title">Перейменувати папку</string>
+    <string name="edit_folder_title">Перейменувати теку</string>
     <string name="sort_by_not_defined">По порядку</string>
     <string name="sort_by_frequency">По популярності</string>
     <string name="sort_by_abc">"ім'я"</string>
@@ -279,7 +279,7 @@
     <string name="recommend_apps_notice">Рекомендовані застосунки</string>
     <string name="recommend_apps_switch_summary">Показувати рекомендовані застосунки знизу екрана</string>
     <string name="recommend_apps_switch_title">Рекомендовані застосунки</string>
-    <string name="recommend_apps_tips">"Для роботи цієї функції потрібно під'єднання до інтернету. Для вимкнення цієї функції натисніть на назву папки."</string>
+    <string name="recommend_apps_tips">"Для роботи цієї функції потрібно під'єднання до інтернету. Для вимкнення цієї функції натисніть на назву теки."</string>
     <string name="select_all">Обрати все</string>
     <string name="wallpaper_settings_for_pad">Шпалери</string>
 	<string name="children_folder_title">Для дитини</string>
