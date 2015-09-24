@@ -114,7 +114,7 @@
     <string name="local_bookmarks">Xiaomi</string>
     <string name="google_bookmarks">"Google: "</string>
     <string name="bookmarks_management">Закладки</string>
-    <string name="bookmarks_root_folder">Коренева папка</string>
+    <string name="bookmarks_root_folder">Коренева тека</string>
     <string name="bookmarks_content_is_null">Порожньо</string>
     <string name="miui_bookmark_menu_change_group_txt">Змінити групу</string>
     <string name="miui_bookmark_menu_edit_txt">Змінити</string>
@@ -142,7 +142,7 @@
     <string name="bookmark_title">Назва</string>
     <string name="bookmark_url">Адреса</string>
     <string name="bookmark_add_to">Додати в</string>
-    <string name="add_folder">Нова папка</string>
+    <string name="add_folder">Нова тека</string>
     <string name="folder_name">Назва теки</string>
     <string name="same_folder_name_warning">Тека з такою назвою вже існує</string>
     <string name="same_bookmarks_warning">Ця закладка вже існує</string>
@@ -267,7 +267,7 @@
     <string name="close_all_tab_alert_message">Закрити всі вкладки?</string>
     <string name="file_picker">Огляд</string>
     <string name="file_name">Назва</string>
-    <string name="file_dir">Папка</string>
+    <string name="file_dir">Тека</string>
     <string name="storage_internal">"Внутрішня пам'ять"</string>
     <string name="storage_sd_card">SD карта</string>
     <string name="storage_usb">USB накопичувач</string>
@@ -299,7 +299,7 @@
     <string name="pref_file_download_save_title">Завантаження й збереження файлів</string>
     <string name="pref_file_downlaod_save_reset_default_settings">Скидання налаштувань</string>
     <string name="pref_file_downlaod_save_is_reset_default_settings">Відновити налаштування за замовчуванням?</string>
-    <string name="pref_file_download_save_modify_default_path">Папка для завантажень</string>
+    <string name="pref_file_download_save_modify_default_path">Тека для завантажень</string>
     <string name="download_dialog_file_length_hint_txt">Розмір файлу:</string>
     <string name="download_dialog_file_length_nolength_txt">Завантаження…</string>
     <string name="download_dialog_file_length_nolength_error_txt">невідомо</string>
@@ -565,8 +565,8 @@
     <string name="save">ОК</string>
     <string name="location">Адреса</string>
     <string name="account">Акаунт</string>
-    <string name="edit_folder">Змінити папку</string>
-    <string name="delete_folder">Видалити папку</string>
+    <string name="edit_folder">Змінити теку</string>
+    <string name="delete_folder">Видалити теку</string>
     <string name="name">Ярлик</string>
     <string name="save_to_bookmarks">Додати закладку</string>
     <string name="remove">Видалити</string>
@@ -859,7 +859,7 @@
     <string name="accessibility_state_incognito">Сторінка інкогніто</string>
     <string name="accessibility_state_frozen">Збережена сторінка</string>
     <string name="accessibility_transition_navscreen">Менеджер вкладинок</string>
-    <string name="accessibility_button_bookmarks_folder_up">Попередня папка</string>
+    <string name="accessibility_button_bookmarks_folder_up">Попередня тека</string>
     <string name="bookmark_URL_already_exisit">Сайт уже доданий у закладки</string>
     <string name="miuichromium_save_password_message">"Запам'ятати пароль?"</string>
     <string name="miuichromium_save_password_never">Ніколи</string>
