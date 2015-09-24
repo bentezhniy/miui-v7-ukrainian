@@ -138,7 +138,7 @@
     <string-array name="usage_stats_display_order_types">
         <item>Час використання</item>
         <item>Кількість запусків</item>
-        <item>Назва додатка</item>
+        <item>Назва застосунка</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
         <item>Немає</item>
@@ -487,12 +487,12 @@
         <item>Фіолетовий</item>
     </string-array>
     <string-array name="screen_key_press_action">
-        <item>Недавні додатки</item>
+        <item>Нещодавні застосунки</item>
         <item>Показати меню</item>
     </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Немає дій</item>
-        <item>Нещодавні додатки</item>
+        <item>Нещодавні застосунки</item>
         <item>Голосовий помічник</item>
         <item>Запустити Google Now</item>
         <item>Закрити поточний додаток</item>
