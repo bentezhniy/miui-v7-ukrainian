@@ -255,7 +255,7 @@
     <string name="toast_added_to_presets">Додане у вибрані</string>
     <string name="toast_delete_station">Станція %s МГц видалена</string>
     <string name="toast_edit_station">Зміни збережені</string>
-    <string name="toast_fm_error_startfailed">Помилка запису. Можливо, запис запущений в іншому додатку</string>
+    <string name="toast_fm_error_startfailed">Помилка запису. Можливо, запис запущений в іншому застосунку</string>
     <string name="toast_fm_not_stated">Радіо не запущене</string>
     <string name="toast_fm_recorder_access_error">Неможливо записувати радіо в режимі \"Гість\"</string>
     <string name="toast_fm_recorder_internal_error">Помилка запису радіо</string>
