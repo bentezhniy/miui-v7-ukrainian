@@ -125,8 +125,8 @@
     <string name="progress_restore_hint">Відновлення…</string>
     <string name="cancel_restore">Скасувати</string>
     <string name="restore_failed">Не вдалося відновити</string>
-    <string name="local_select_sysdata">Настроювання системи</string>
-    <string name="local_select_userapp">Додатка</string>
+    <string name="local_select_sysdata">Налаштування системи</string>
+    <string name="local_select_userapp">Застосунок</string>
     <string name="local_select_account_contact">Акаунти та контакти</string>
     <string name="local_no_backup">Немає бекапів</string>
     <string name="auto_backup_setting">Бекап</string>
