@@ -382,7 +382,7 @@
     <string name="cloud_album_more_settings">Хмарні альбоми</string>
     <string name="browse_category">Перегляд зображень</string>
     <string name="photo_page_save_image">Зберегти</string>
-    <string name="photo_page_save_uri_image_ok">Фото збережене в папку камери</string>
+    <string name="photo_page_save_uri_image_ok">Фото збережене в теку камери</string>
     <string name="photo_page_save_uri_image_fail">Не вдалося зберегти фото</string>
     <string name="albumset_page_title_separator">" | "</string>
     <string name="cloud_tab_all">Все</string>
@@ -504,8 +504,8 @@
     <string name="baidu_flyflow_downloads">Браузер Baidu</string>
     <string name="yellow_page">Сервіси</string>
     <string name="sdcard_root">Накопичувач</string>
-    <string name="internal_sdcard_root">"Коренева папка у внутрішній пам'яті"</string>
-    <string name="external_sdcard_root">"Коренева папка у зовнішній пам'яті"</string>
+    <string name="internal_sdcard_root">"Коренева тека у внутрішній пам'яті"</string>
+    <string name="external_sdcard_root">"Коренева тека у зовнішній пам'яті"</string>
     <string name="miui_wallpaper">Шпалери</string>
     <string name="pocket_camera_picture">Фото кишенькової камери</string>
     <string name="pocket_camera_video">Відео кишенькової камери</string>
