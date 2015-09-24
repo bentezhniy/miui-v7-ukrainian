@@ -56,7 +56,7 @@
     <string name="permlab_preventpower">блокування кнопки живлення</string>
     <string name="permdesc_preventpower">Дозволити програмі використовувати кнопку живлення</string>
     <string name="permlab_sendMockSms">надсилати фіктивні SMS-повідомлення</string>
-    <string name="permdesc_sendMockSms">Дозволити додатку надсилати фіктивні SMS. Дозволяє надсилати повідомлення довіреним програмам. Небезпечні програми можуть надсилати повідомлення циклічно, блокуючи систему сповіщень і мішати роботі користувача.</string>
+    <string name="permdesc_sendMockSms">Дозволити застосунку надсилати фіктивні SMS. Дозволяє надсилати повідомлення довіреним програмам. Небезпечні програми можуть надсилати повідомлення циклічно, блокуючи систему сповіщень і мішати роботі користувача.</string>
     <string name="storage_sd_dock_card">SD-карта док-станції</string>
     <string name="app_killed_message">Програма закрита</string>
     <string name="global_action_reboot">Перезавантаження</string>
@@ -430,7 +430,7 @@
     <string name="permlab_uninstall_shortcut">видаляти ярлики</string>
     <string name="permdesc_uninstall_shortcut">Дозволяє програмі самостійно вилучати ярлики з головного екрана.</string>
     <string name="permlab_processOutgoingCalls">переадресовувати вихідні виклики</string>
-    <string name="permdesc_processOutgoingCalls">Дозволяє додатку читати номер вихідного дзвінка, переспрямовувати дзвінок на інший номер або переривати його.</string>
+    <string name="permdesc_processOutgoingCalls">Дозволяє застосунку читати номер вихідного дзвінка, переспрямовувати дзвінок на інший номер або переривати його.</string>
     <string name="permlab_receiveSms">отримувати текстові повідомлення (SMS)</string>
     <string name="permdesc_receiveSms">Дозволяє програмі отримувати й обробляти SMS-повідомлення. Це означає, що програма може відстежувати чи видаляти повідомлення, надіслані на ваш пристрій, навіть не показуючи їх вам.</string>
     <string name="permlab_receiveMms">отримувати текстові повідомлення (MMS)</string>
