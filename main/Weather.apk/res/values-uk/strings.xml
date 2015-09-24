@@ -93,7 +93,7 @@
 
 	<string name="view_realtime_clear_substitution">Ясно</string>
 	<string name="act_weather_find_city_china">Китай</string>
-	<string name="edit_alert_city_title">Настройки попереджень</string>
+	<string name="edit_alert_city_title">Налаштування попереджень</string>
 	<string name="account_unactivated">Обліковий запис Mi не активовано</string>
     <string name="all_resources">Усе</string>
     <string name="button_confirm">Дозволити</string>
