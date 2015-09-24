@@ -587,7 +587,7 @@
     <string name="call_recording_error_sd_access">Накопичувач недоступний</string>
     <string name="call_recording_error_sd_unmounted">Запис зупинений. Накопичувач відключений.</string>
     <string name="call_recording_error_low_storage">"Пам'ять заповнена"</string>
-    <string name="call_recording_error_start_failed">Запис використовується в іншому додатку</string>
+    <string name="call_recording_error_start_failed">Запис використовується в іншому застосунку</string>
     <string name="call_recording_error_unknown">Невідома помилка</string>
     <string name="antispam_marked_title">%1$s</string>
     <string name="phone_info_divider">" | "</string>
