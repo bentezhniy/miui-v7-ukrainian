@@ -510,7 +510,7 @@ sms (%1$d), MMS (%2$d)."</string>
     <string name="file_size">Розмір:</string>
     <string name="file_title">Ім\'я:</string>
     <string name="festival_networking_title">Попередження</string>
-    <string name="festival_networking_desc">Дозволити додатку доступ до інтернету?</string>
+    <string name="festival_networking_desc">Дозволити застосунку доступ до інтернету?</string>
     <string name="festival_continue">ОК</string>
     <string name="festival_never_remind">Запам\'ятати</string>
     <string name="pref_title_festival_networking">Запитувати доступ до інтернету</string>
