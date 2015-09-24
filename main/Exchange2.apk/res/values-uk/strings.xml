@@ -40,8 +40,8 @@
      <string name="policy_dont_allow_pop_imap">"Вимкнути облікові записи POP3 або IMAP"</string>
      <string name="policy_dont_allow_storage_cards">"Заборонити карту пам'яті"</string>
      <string name="policy_dont_allow_text_messaging">"Заборонити текстові повідомлення"</string>
-     <string name="policy_dont_allow_unsigned_apps">"Заборонити непідписані додатки"</string>
-     <string name="policy_dont_allow_unsigned_installers">"Заборонити встановлювати додатки, що непідписані"</string>
+     <string name="policy_dont_allow_unsigned_apps">"Заборонити непідписані застосунки"</string>
+     <string name="policy_dont_allow_unsigned_installers">"Заборонити встановлювати застосунки, що непідписані"</string>
      <string name="policy_dont_allow_wifi">"Вимкнути Wi-Fi"</string>
      <string name="policy_html_truncation">Заборона за розміром пошти HTML</string>
      <string name="policy_max_attachment_size">Заборона за розміром вкладення</string>
