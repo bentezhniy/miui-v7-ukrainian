@@ -180,7 +180,7 @@
     <string name="account_setup_username_password_toast">Введіть дійсну адресу Email й пароль</string>
     <string name="account_setup_username_uneditable_error">"Неможливо змінити ім'я користувача. Якщо прагнете використовувати інше ім'я, створіть новий акаунт"</string>
     <string name="account_sync_off">Синхронізація акаунта виключена</string>
-    <string name="account_waiting_for_folders_msg">Завантаження списку папок…</string>
+    <string name="account_waiting_for_folders_msg">Завантаження списку тек…</string>
     <string name="accounts_welcome">Пошта підтримує більшість популярних поштових служб</string>
     <string name="actionbar_large_unread_count">Непрочитаних: %1$d+</string>
     <string name="actionbar_title_mail_aggregation">Обсяг пошти:</string>
@@ -259,7 +259,7 @@
     <string name="cancel_attachment">Скасувати</string>
     <string name="cannot_move_multiple_accounts_toast">Не вдалося перемістити повідомлення, тому що вони знаходяться у різних акаунтах.</string>
     <string name="cannot_move_protocol_not_supported_toast">Переміщення не підтримується в акаунтах POP3.</string>
-    <string name="cannot_move_special_mailboxes_toast">Не можна переміщати повідомлення з папок Чернетки, Вихідні і Відправлені</string>
+    <string name="cannot_move_special_mailboxes_toast">Не можна переміщати повідомлення з тек Чернетки, Вихідні і Відправлені</string>
     <string name="cant_move_or_change_labels">Неможливо перемістити вибране, тому що воно використовується в декількох акаунтах.</string>
     <string name="cc">Копія</string>
     <string name="cc_attribution">Копія: %1$s</string>
@@ -417,7 +417,7 @@
     <string name="folder_icon_desc">Іконка теки</string>
     <string name="folder_picker_title">Вибір теки</string>
     <string name="folder_removed">Вилучене з \"%1$s\"</string>
-    <string name="folder_shortcut_widget_label">Папка пошти</string>
+    <string name="folder_shortcut_widget_label">Тека пошти</string>
     <string name="forward">Переслати</string>
     <string name="forward_attachment">Далі</string>
     <string name="forward_attribution">---------- Переспрямоване повідомлення ----------&lt;br>Від: %1$s | &lt;br>Дата: %2$s | &lt;br>Тема: %3$s | &lt;br>Кому: %4$s</string>
@@ -720,7 +720,7 @@
     <string name="refreshing">Оновлення…</string>
     <string name="refreshing_done">Синхронізація завершена</string>
     <string name="release_to_refresh">Опустіть для оновлення</string>
-    <string name="remote_folders_heading">Папки на сервері</string>
+    <string name="remote_folders_heading">Теки на сервері</string>
     <string name="remote_search">Всі повідомлення на сервері</string>
     <string name="remote_search_result">Знайдено повідомлень на сервері: %s</string>
     <string name="remove_account">Видалити акаунт</string>
@@ -977,9 +977,9 @@
     <string name="dialog_auto_sync_setting_no_open">Синхронізація повідомлень вимкнена</string>
     <string name="dialog_gmail_proxy_server_is_error">Помилка проксі сервера Gmail</string>
     <string name="download_message_failed_for_too_large">Повідомлення занадто велике для завантаження</string>
-    <string name="folder_list_display_all">Показувати всі папки</string>
-    <string name="folder_list_display_only_import">Показувати лише важливі папки</string>
-    <string name="folder_synchronization_mail_settings">Налаштування синхронизації папок</string>
+    <string name="folder_list_display_all">Показувати всі теки</string>
+    <string name="folder_list_display_only_import">Показувати лише важливі теки</string>
+    <string name="folder_synchronization_mail_settings">Налаштування синхронизації тек</string>
     <string name="gmail_acceleration">Використовувати проксі для доступу до аккаунту Gmail</string>
     <string name="gmail_login_confirm_to_use_proxy">Використовувати проксі сервер для доступу до вашого профілю Gmail?</string>
     <string name="gmail_login_verify">Додати аккаунт Gmail</string>
