@@ -381,7 +381,7 @@
     <string name="sdcard_available">Вільно: %1$s</string>
     <string name="sdcard_total">Всього: %1$s</string>
     <string name="search_activity_hint">Введіть ключове слово</string>
-    <string name="search_app">Додатки</string>
+    <string name="search_app">Застосунки</string>
     <string name="search_app_more">Ще</string>
     <string name="search_category">Тип</string>
     <string name="search_empty_view_hint">Немає результатів</string>
@@ -410,7 +410,7 @@
     <string name="search_title_hint">Пошук</string>
     <string name="storage_info">Вільно: %1$s</string>
     <string name="tab_more">Ще</string>
-    <string name="tab_source">Додатки</string>
+    <string name="tab_source">Застосунки</string>
     <string name="tab_storage">"Пам'ять"</string>
     <string name="title_more_source">Iнші програми</string>
     <string name="title_recent">Недавні</string>
