@@ -52,7 +52,7 @@
     <string name="station_check_favorite">Додати у вибрані</string>
     <string name="toast_fm_recorder_internal_error">Помилка запису радіо</string>
     <string name="toast_fm_recorder_storage_full">"Помилка запису. Пам'ять заповнена"</string>
-    <string name="toast_fm_error_startfailed">Помилка запису. Можливо, запис запущений в іншому додатку</string>
+    <string name="toast_fm_error_startfailed">Помилка запису. Можливо, запис запущений в іншому застосунку</string>
     <string name="toast_fm_recorder_access_error">Неможливо записувати радіо в режимі \"Гість\"</string>
     <string name="fm_has_turned_off">Радіо виключене</string>
     <string name="msg_fm_starting">Запуск…</string>
