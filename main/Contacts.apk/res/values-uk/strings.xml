@@ -463,7 +463,7 @@
     <string name="call_settings">Налаштування</string>
     <string name="sms_disambig_title">Виберіть номер</string>
     <string name="make_primary">Запам\'ятати</string>
-    <string name="quickcontact_missing_app">Немає додатка для виконання цієї дії</string>
+    <string name="quickcontact_missing_app">Немає застосунка для виконання цієї дії</string>
     <string name="missing_name">Мої групи</string>
     <string name="menu_accounts">Акаунти</string>
     <string name="menu_clear_frequents">Очистити часті</string>
@@ -599,7 +599,7 @@
 процес оновлення вимагає близько %s Мб пам\'яті.
 
 оберіть один з наступних варіантів:"</string>
-    <string name="upgrade_out_of_memory_uninstall">Видалити деякі додатки</string>
+    <string name="upgrade_out_of_memory_uninstall">Видалити деякі застосунки</string>
     <string name="upgrade_out_of_memory_retry">Повторити спробу відновлення</string>
     <string name="search_results_searching">Пошук…</string>
     <string name="menu_display_selected">Показати обрані</string>
