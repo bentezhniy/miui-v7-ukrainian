@@ -30,7 +30,7 @@
     <string name="accessibility_back">Назад</string>
     <string name="accessibility_home">Головна сторінка</string>
     <string name="accessibility_menu">Меню</string>
-    <string name="accessibility_recent">Недавні застосунки</string>
+    <string name="accessibility_recent">Нещодавні застосунки</string>
     <string name="accessibility_search_light">Пошук</string>
     <string name="accessibility_camera_button">Камера</string>
     <string name="accessibility_bluetooth_connected">"Bluetooth-з'єднання встановлено"</string>
