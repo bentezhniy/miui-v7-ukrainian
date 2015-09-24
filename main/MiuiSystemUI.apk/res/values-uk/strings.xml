@@ -268,7 +268,7 @@ d MMMM yyyy"</string>
     <string name="screen_button_notification_text">Для увімкнення натисніть кнопку \"Додому\" та \"Живлення\" одночасно</string>
     <string name="screen_button_notification_title">Кнопки навігації вимкнені</string>
     <string name="usb_function_charging_text">Подключно в режимі зарядки</string>
-    <string name="vpn_text">Натисніть для настройки</string>
+    <string name="vpn_text">Натисніть для налаштування</string>
     <string name="vpn_text_long">Підключено до %s. Натисніть для перегляду.</string>
     <string name="vpn_title">Мережа VPN активна</string>
     <string name="vpn_title_long">Підключення VPN через %s</string>
