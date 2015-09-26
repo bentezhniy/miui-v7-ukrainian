@@ -40,10 +40,12 @@
         <item>30 хвилин</item>
     </string-array>
     <string-array name="entries_font_size">
-        <item>Дрібний</item>
-        <item>Нормальний</item>
-        <item>Середній</item>
-        <item>Великий</item>
+        <item>XS</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Дуже повільна</item>
@@ -614,6 +616,7 @@
         <item>Галерея</item>
         <item>Музика</item>
         <item>Пошта</item>
+		<item>Відео</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
         <item>Повільна швидкість через велике навантаження</item>
@@ -795,5 +798,30 @@
        <item>Буфер: макс. 1 МБ</item>
        <item>Буфер: макс. 4 МБ</item>
        <item>Буфер: макс. 16 МБ</item>
+    </string-array>
+	<string-array name="app_ops_permissions">
+       <item>Дозволити</item>
+       <item>Ігнорувати</item>
+       <item>Запитувати</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+       <item>64 Кб</item>
+       <item>256 Кб</item>
+       <item>1 Мб</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+       <item>64 Кб</item>
+       <item>256 Кб</item>
+       <item>1 Мб</item>
+       <item>4 Мб</item>
+       <item>16 Мб</item>
+    </string-array>
+    <string-array name="sim_card_data_range">
+       <item>Останні 4 цифри</item>
+       <item>Перші 4 цифри</item>
+    </string-array>
+    <string-array name="wifi_ssid_type_entries">
+       <item>Підключатися автоматично</item>
+       <item>Підключатися власноруч</item>
     </string-array>
 </resources>

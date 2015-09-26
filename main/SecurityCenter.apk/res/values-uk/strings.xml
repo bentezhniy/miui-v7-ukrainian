@@ -625,7 +625,7 @@
     <string name="permission_permission_control_closed_desc_dialog_msg">Застосунки не будуть запитувати дозволи на доступ до ваших даних і функцій</string>
     <string name="examination_score_100_with_recommend">Елементів для оптимізації: %d</string>
     <string name="examination_score_80_100_with_recommend">Доступно для оптимізації: %d</string>
-    <string name="scanning_bar_system_title">Скануванння системи…</string>
+    <string name="scanning_bar_system_title">Сканування системи…</string>
     <string name="scanning_bar_memory_title">Сканування кешу…</string>
     <string name="scanning_bar_cache_title">Сканування сміття…</string>
     <string name="scanning_bar_number">%d%%</string>
@@ -790,4 +790,5 @@
     <string name="antivirus_privacy_dialog_summary_link">Політика конфіденційності</string>
     <string name="antivirus_privacy_dialog_title">Політика конфіденційності</string>
     <string name="descx_quick_scan_preparation">Завантаження…</string>
+	<string name="hints_need_regular_scan">Рекомендовано виконувати сканування регулярно</string>
 </resources>

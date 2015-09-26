@@ -85,4 +85,8 @@
         <item>В режиме \"Без звуку\"</item>
         <item>Ніколи</item>
     </string-array>
+	<string-array name="entries_date_type_rightvalue">
+        <item>Отримані</item>
+        <item>Надіслані</item>
+    </string-array>
 </resources>

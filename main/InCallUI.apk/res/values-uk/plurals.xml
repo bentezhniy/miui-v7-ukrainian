@@ -15,5 +15,7 @@
 	<plurals name="call_recording_notification_complete">
        <item quantity="other">%d викликів записано</item>
        <item quantity="one">1 виклик записано</item>
+	   <item quantity="few">Записано викликів: %d</item>
+       <item quantity="many">Записано викликів: %d</item>
     </plurals>
 </resources>

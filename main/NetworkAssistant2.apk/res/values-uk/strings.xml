@@ -582,4 +582,5 @@
     <string name="text_day" />
     <string name="traffic_setting_fragment_area_dual">Країна: %s</string>
 	<string name="main_message_no_package_by_dual">Встановити обмеження трафіку для %s</string>
+	<string name="firewall_network_restrict_notify_mobile">Мобільний інтернет</string>
 </resources>

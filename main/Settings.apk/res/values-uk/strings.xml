@@ -4131,4 +4131,25 @@
     <string name="page_layout_page2_small_title">XS</string>
     <string name="page_layout_page2_title">Перегляд</string>
     <string name="page_layout_small_title">XS</string>
+	<string name="edge_mode_back">Повернення</string>
+    <string name="edge_mode_back_summary">Натиснять двічі на край екрану, щоб повернутися.</string>
+    <string name="edge_mode_clean">Очищення кешу</string>
+    <string name="edge_mode_clean_summary">Проведіть одночасно по двом краям екрану, щоб очистити кеш.</string>
+    <string name="edge_mode_guide_title">Натисніть на позначену область для використання керування по краю</string>
+    <string name="edge_mode_notification_summary">Натисніть, щоб дізнатись більше.</string>
+    <string name="edge_mode_notification_title">Використовувати керування по краю</string>
+    <string name="edge_mode_photo">Зняття фото</string>
+    <string name="edge_mode_photo_summary">Увімкнувши камеру, натисніть на край екрану, щоб сфокусувати, натисніть ще раз для зняття фото.</string>
+    <string name="edge_mode_screenshot">Зняття скріншоту</string>
+    <string name="edge_mode_screenshot_summary">Натисніть двічі по краях, аби зняти скріншот.</string>
+    <string name="max_cpu6_info">6 ядер Max</string>
+    <string name="miui_data_usage_menu_metered">Мобільная точка доступу</string>
+    <string name="quiet">Не турбувати</string>
+    <string name="quiet_group">Не турбувати</string>
+    <string name="quiet_important_interruptions_mode">Дозволити виключення</string>
+    <string name="quiet_mode">Вимкнути усі сповіщення</string>
+    <string name="quiet_off_mode">Режим вимкнено</string>
+    <string name="wifi_dialog_remind_type_title">Мобільний інтернет</string>
+    <string name="wifi_switch_to_gsm_message">Підключення до Wi-Fi мережі втрачено</string>
+    <string name="wifi_switch_to_gsm_title">Використовувати мобільний інтернет?</string>
 </resources>

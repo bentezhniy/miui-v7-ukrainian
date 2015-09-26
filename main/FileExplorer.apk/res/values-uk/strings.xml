@@ -456,4 +456,9 @@
     <string name="storage_info_detail">Вільно: %1$s | Усього: %1$s</string>
     <string name="title_expire_video">Спливання терміну</string>
     <string name="title_select_volume">Гучність</string>
+	<string name="data_consumption_cancel">Вихід</string>
+    <string name="data_consumption_checkbox_hint">"Запам'ятати"</string>
+    <string name="data_consumption_confirm">ОК</string>
+    <string name="data_consumption_message">Для нормальної роботи застосунку необхідний доступ до Wi-Fi мережі</string>
+    <string name="data_consumption_title">Дозволити підключення до Інтернету?</string>
 </resources>
