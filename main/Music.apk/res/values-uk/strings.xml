@@ -232,9 +232,9 @@
     <string name="filter_by_duration_min">0 сек.</string>
     <string name="filter_by_duration_max">5 хв.</string>
     <string name="filter_by_duration_format">%2$d хв. %5$2d сек.</string>
-    <string name="filter_by_folder">Фільтр за текам</string>
-    <string name="filter_by_folder_summary">Виберіть теки з музикою</string>
-    <string name="select_displayed_folders">Выбиберіть теки з музикою</string>
+    <string name="filter_by_folder">Фільтр за теками</string>
+    <string name="filter_by_folder_summary">Оберіть теки з музикою</string>
+    <string name="select_displayed_folders">Оберіть теки з музикою</string>
     <string name="no_local_source_find">Файл не знайдено</string>
     <string name="start_to_play">Грати</string>
     <string name="can_not_find_resource">Не вдається знайти ресурси</string>
