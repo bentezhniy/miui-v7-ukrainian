@@ -108,4 +108,5 @@
     <string name="storage_sd_card">SD-карта</string>
     <string name="storage_usb">USB-накопичувач</string>
     <string name="version">Версія: %s</string>
+	<string name="mobile_recommended_title">Використовувати мобільні дані</string>
 </resources>

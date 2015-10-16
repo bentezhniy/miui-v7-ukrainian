@@ -610,4 +610,19 @@
     <string name="recharge_value_money_with_tip">Оплата RMB %s - вартість Mi Credits &lt;font color=red>(не можна витрачати Mi Credits на сайті Mi.com)&lt;/font></string>
     <string name="shurtcut_create_success">Ярлик створений</string>
     <string name="title_bill_record">Історія поповнення</string>
+	<string name="mibi_bill_delete_dialog_title">Видалити %1$s</string>
+    <string name="mibi_bill_delete_message">Видалити “%1$s”?</string>
+    <string name="mibi_bill_menu_delete_item">Видалити</string>
+    <string name="mibi_direct_pay_group_title">Оберіть спосіб оплати</string>
+    <string name="mibi_direct_pay_novalid_method">Метод платежу не дійсний</string>
+    <string name="mibi_direct_payment_title">Запит інформації</string>
+    <string name="mibi_enter_failed">Не вдалося відкрити</string>
+    <string name="mibi_giftcard_payment_with_append">Застосувати подарункові сертифікати</string>
+    <string name="mibi_img_captcha_hint">Введіть символи на зображенні</string>
+    <string name="mibi_label_pay_remain">Сума боргу: %1$s Mi Credits</string>
+    <string name="mibi_password_prompt">Для захисту ваших витрат, підтвердіть свій Mi account</string>
+    <string name="mipay_account_confirm_text">З рахунку буде списано:%1$s</string>
+    <string name="mipay_account_confirm_title">Xiaomi Account Payment Confirmation</string>
+    <string name="mipay_cancel_button_text">Скасувати</string>
+    <string name="mipay_confirm_button_text">Підтвердити</string>
 </resources>

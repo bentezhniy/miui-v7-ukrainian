@@ -583,4 +583,10 @@
     <string name="traffic_setting_fragment_area_dual">Країна: %s</string>
 	<string name="main_message_no_package_by_dual">Встановити обмеження трафіку для %s</string>
 	<string name="firewall_network_restrict_notify_mobile">Мобільний інтернет</string>
+	<string name="package_change_notification_summary">"Торкніться, щоб дізнатися більше."</string>
+    <string name="package_change_notification_title">Відрегулюйте межу даних автоматично</string>
+    <string name="package_setted_error_notification_summary">"Торкніться, щоб переглянути дані про використання даних."</string>
+    <string name="package_setted_error_notification_titile">"Неможливо встановити межу даних"</string>
+	<string name="traffic_saving_notify_no_apps_saving">Застосунки не використовують економію трафіку</string>
+    <string name="traffic_saving_notify_no_apps_saving_content">"Торкніться, щоб увімкнути економію трафіку."</string>
 </resources>

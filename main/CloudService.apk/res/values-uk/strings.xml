@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="sina_share_pendding">Відправлення…</string>
+	<string name="sync_dspt_provision_header">Синхронізація</string>
     <string name="sina_share_success">Відправлено</string>
     <string name="sina_share_fail">Не вдається відправити</string>
     <string name="sina_token_expired_warning">"Строк дії акаунту Weibo вийшов. Прив'яжіть повторно."</string>

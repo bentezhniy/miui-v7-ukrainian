@@ -461,4 +461,15 @@
     <string name="data_consumption_confirm">ОК</string>
     <string name="data_consumption_message">Для нормальної роботи застосунку необхідний доступ до Wi-Fi мережі</string>
     <string name="data_consumption_title">Дозволити підключення до Інтернету?</string>
+	<string name="extract">Вирізати</string>
+    <string name="local_image">Фото</string>
+    <string name="local_music">Музика</string>
+    <string name="local_video">Відео</string>
+    <string name="move_to">Перемістити</string>
+    <string name="select_image">Обрати фото</string>
+    <string name="select_music">Обрати пісню</string>
+    <string name="select_video">Обрати відео</string>
+    <string name="storage_internal_description">"Внутрішня пам'ять"</string>
+    <string name="storage_sd_card_description">SD карта</string>
+    <string name="storage_usb_description">USB сховище</string>
 </resources>

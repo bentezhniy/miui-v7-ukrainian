@@ -244,4 +244,5 @@
 	<string name="timer_item_picker_hour">Г</string>
 	<string name="birthday_alarm">Святкова мелодія</string>
     <string name="birthday_alarm_summary">Грати мелодію \"З Днем народження\" замість стандартної у день свого народження</string>
+	<string name="timer_alarm_cancel_pad">Натисніть на екран, щоб зупинити сигнал</string>
 </resources>

@@ -585,4 +585,5 @@
     <string name="passport_forget_password_no_underline">Забули пароль</string>
     <string name="passport_login_short">Вхід</string>
     <string name="passport_remove_account_notice">Після видалення акаунту, чи Ви хочете, щоб контакти та замітки було відалено з пристрою?</string>
+	<string name="provision_skip_login"><u>Пропустити цей крок</u></string>
 </resources>

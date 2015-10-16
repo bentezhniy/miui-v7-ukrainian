@@ -285,4 +285,5 @@ d MMMM yyyy"</string>
     <string name="screen_pinning_negative">Скасувати</string>
     <string name="screen_pinning_positive">ОК</string>
     <string name="screen_pinning_title">Екран заблоковано</string>
+	<string name="task_access_locked_app_msg">"Вміст застосунку приховано"</string>
 </resources>

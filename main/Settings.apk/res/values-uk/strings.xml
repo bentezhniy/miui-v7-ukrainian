@@ -4152,4 +4152,8 @@
     <string name="wifi_dialog_remind_type_title">Мобільний інтернет</string>
     <string name="wifi_switch_to_gsm_message">Підключення до Wi-Fi мережі втрачено</string>
     <string name="wifi_switch_to_gsm_title">Використовувати мобільний інтернет?</string>
+	<string name="oldman_mode_summary_cta">Lite mode needs to connect to the internet and read your contacts, messages, and location info to work normally.</string>
+    <string name="preferred_app_settings_reset_button">Скинути</string>
+    <string name="wakeup_for_keyguard_notification_title">Вмикати екран при отриманні сповіщень</string>
+    <string name="wifi_click_share_wlan">Поділитися мережею</string>
 </resources>

@@ -322,6 +322,9 @@ http://miui.su/mi-pc-suite"</string>
     <string name="welcom_message">Насолоджуйтеся MIUI7</string>
     <string name="welcom_title">Ласкаво просимо!</string>
 	<string name="notification_load_now">Увійдіть в зараз</string>
-    <string name="recovery_power_not_enough_msg">Для оновлення прошивки потрібно не меньше 30% заряду батареї</string>
+    <string name="recovery_power_not_enough_msg">Для оновлення необхідно не меньше 30% заряду батареї</string>
     <string name="recovery_power_not_enough_title">Низький заряд батареї</string>
+	<string name="miui_summary_slogan">"  З повагою по дизайну  "</string>
+    <string name="miui_summary_updating">"  Оновлення…  "</string>
+    <string name="recovery_power_not_enough_msg_plugged">Для оновлення необхідно не меньше 15% заряду батареї</string>
 </resources>

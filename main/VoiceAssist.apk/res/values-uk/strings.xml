@@ -434,4 +434,9 @@
     <string name="wifi_setting">Налаштування Wi-Fi</string>
     <string name="yellow_page">Жовті сторінки</string>
     <string name="you_can_say_so">Ви можете сказати, що це:</string>
+	<string name="new_contact">Новий контакт</string>
+    <string name="no_sim">Вставте SIM-картку зараз</string>
+    <string name="open_music">Відкрити Музику</string>
+	<string name="playing">Зараз грає: %1$s</string>
+	<string name="search_music_fail">"Нічого не вдалося знайти"</string>
 </resources>

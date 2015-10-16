@@ -15,7 +15,7 @@
     <string name="classical">Класична</string>
     <string name="dance">Танцювальна</string>
     <string name="flat">Стандартна</string>
-    <string name="folk">Фолк</string>
+    <string name="folk">Фольк</string>
     <string name="heavy_metal">Важкий метал</string>
     <string name="hip_hop">Хіп Хоп</string>
     <string name="jazz">Джаз</string>
@@ -33,4 +33,15 @@
     <string name="eq_custom">Для використання власних налаштувань виберіть користувацьке налаштування</string>
     <string name="power_on_prompt">Натисніть на кнопку зверху справа</string>
     <string name="picker_title">Керування звуковими ефектами</string>
+	<string name="eq_preset_classical">Класична</string>
+    <string name="eq_preset_dance">Танцювальна</string>
+    <string name="eq_preset_flat">Стандартна</string>
+    <string name="eq_preset_folk">Фольк</string>
+    <string name="eq_preset_heavymetal">Важкий метал</string>
+    <string name="eq_preset_hiphop">Хіп Хоп</string>
+    <string name="eq_preset_jazz">Джаз</string>
+    <string name="eq_preset_normal">Звичайна</string>
+    <string name="eq_preset_pop">Поп</string>
+    <string name="eq_preset_rock">Рок</string>
+    <string name="presetreverb_name">Попередні налаштовання</string>
 </resources>

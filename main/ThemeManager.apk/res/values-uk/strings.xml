@@ -388,4 +388,5 @@
     <string name="theme_provision_title">Оберіть тему</string>
 	<string name="theme_precast_create_notification_content">Натисніть для перегляду</string>
     <string name="theme_precast_create_notification_title">Теми MIUI 7 оновлено</string>
+	<string name="theme_provision_oper_button_next">Далі</string>
 </resources>
