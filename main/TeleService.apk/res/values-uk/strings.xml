@@ -1344,4 +1344,10 @@ sim карта буде очищена при невдалій спробі вв
     <string name="use_history_duration_min">%1$s хв.</string>
     <string name="use_history_endtime">Завершення: %1$s</string>
     <string name="use_history_starttime">Початок: %1$s</string>
+	<string name="error_type_account_inner">Внутрішня помилка сервісу</string>
+    <string name="fdn_full">Список фіксованих номерів заповнено</string>
+    <string name="not_activate_sim_card_content_title">SIM-карту не перевірено</string>
+    <string name="not_activate_sim_card_content_with_operator">Пакет поповнення не перевірено для обраної SIM-карти %1$s(%2$s). Спробуйте використовувати SIM-карту за замовчуванням для здійснення викликів.</string>
+    <string name="not_sufficient_funds_content_title">Недостатньо коштів</string>
+    <string name="not_supported_number_content_title">Не підтримується</string>
 </resources>

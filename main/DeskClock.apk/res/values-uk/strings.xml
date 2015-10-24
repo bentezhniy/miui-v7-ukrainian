@@ -245,4 +245,11 @@
 	<string name="birthday_alarm">Святкова мелодія</string>
     <string name="birthday_alarm_summary">Грати мелодію \"З Днем народження\" замість стандартної у день свого народження</string>
 	<string name="timer_alarm_cancel_pad">Натисніть на екран, щоб зупинити сигнал</string>
+	<string name="skip_alarm_date_format">%1$s (%2$s)</string>
+    <string name="skip_alarm_once_hint">Вимкнути цей будильник у %s</string>
+    <string name="timer_alarm_alert_pad">%s</string>
+    <string name="today">Сьогодні</string>
+    <string name="tomorrow">Завтра</string>
+    <string name="turn_off_a_repeat_alarm">Вимкнути повтор будильнику</string>
+    <string name="turn_off_this_repeat_alarm">Вимкнути повтор цього будильнику</string>
 </resources>

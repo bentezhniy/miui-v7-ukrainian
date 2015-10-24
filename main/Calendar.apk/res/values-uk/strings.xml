@@ -401,4 +401,5 @@
     <string name="travel_train_number_text">Потяг</string>
     <string name="travel_train_station">Станція потягу</string>
     <string name="view_all_matches">Переглянути усе</string>
+	<string name="notification_online">Подія: %1$s (%2$s)</string>
 </resources>

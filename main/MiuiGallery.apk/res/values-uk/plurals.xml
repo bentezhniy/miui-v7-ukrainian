@@ -164,4 +164,8 @@
        <item quantity="other">%1$d відео для завантаження</item>
        <item quantity="one">%1$d відео для завантаження</item>
     </plurals>
+	<plurals name="baby_album_share_user_count_tip">
+       <item quantity="other">Користувачів: %1$d</item>
+       <item quantity="one">Користувачів: %1$d</item>
+    </plurals>
 </resources>

@@ -232,4 +232,8 @@
     <string name="summary_err_restore_no_network">Не вдається підключитися до інтернету</string>
     <string name="xiaomi_router">Mi роутер</string>
     <string name="xiaomi_router_location">Mi роутер %s</string>
+	<string name="err_filesystem_mount">"Помилка доступу до пам'яті роутера"</string>
+    <string name="err_router_disconnected">Перевірте підключення</string>
+    <string name="err_router_files_delete">Помилка видаленні бекапу на роутері</string>
+    <string name="state_mounting">"Підключення до пам'яті роутера…"</string>
 </resources>

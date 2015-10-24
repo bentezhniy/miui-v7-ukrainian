@@ -84,4 +84,7 @@ EEEE"</string>
     <string name="find_device_check_sim">Перевірка SIM карти...</string>
     <string name="starting_camera_string">Запуск камери</string>
     <string name="bluetooth_unlock_rssi_far_debug_msg">Bluetooth пристрій знаходиться занадто далеко, щоб розблокувати.</string>
+	<string name="fingerprint_not_identified_msg">Введіть пароль для розблокування пристрою</string>
+    <string name="fingerprint_not_identified_title">Помилка сканування відбитку</string>
+    <string name="fingerprint_try_again_text">Повторити</string>
 </resources>

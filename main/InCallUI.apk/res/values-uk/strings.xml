@@ -1059,4 +1059,15 @@
     <string name="select_account_dialog_title">Обрати акаунт</string>
     <string name="select_voice_call_sim">Обрати SIM-карту</string>
     <string name="waiting_close_airplane_mode">Вихід з режиму В літаку…</string>
+	<string name="call_self">Неможливо телефонувати на власний номер</string>
+    <string name="cancel_call">Завершити</string>
+    <string name="dial_with_gsm_phone">Звичайний виклик</string>
+    <string name="livetalk_dial">Використовувати пакет поповнення</string>
+    <string name="network_error_message">Спробуйте здійснити звичайний виклик</string>
+    <string name="network_error_title">Помилка Інтернету</string>
+    <string name="no_balance_message">Недостатньо коштів у пакеті поповнення. Ви можете здійснити звичайний виклик. Може стягуватися плата згідно Вашого тарифу.</string>
+    <string name="no_balance_title">Недостатньо коштів</string>
+    <string name="not_support_message">Пакет поповнення не підтримується для таких номерів</string>
+    <string name="not_support_title">Номер не підтримується</string>
+    <string name="purchase_now">Поповнити</string>
 </resources>

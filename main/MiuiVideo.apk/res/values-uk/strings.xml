@@ -582,4 +582,13 @@
     <string name="vp_mplayer_error_timed_out">Час очікування сплинув</string>
     <string name="vp_play_youku_failed_get_video_info">Не вдається отримати інформацію про відео</string>
     <string name="vp_play_youku_time_out">Час очікування підключення сплинув</string>
+	<string name="actor">Актор</string>
+    <string name="actor_intro">Інформація</string>
+    <string name="alertdialog_downapp_btn_back">Назад</string>
+    <string name="birthday">Дата народження</string>
+    <string name="download">Завантажити</string>
+    <string name="hint_apk_download_format">Встановіть застосунок \"%1$s\"</string>
+    <string name="hometown">Місто</string>
+    <string name="other_info">Інше</string>
+    <string name="score_douban">Окуляри Douban %1$s</string>
 </resources>

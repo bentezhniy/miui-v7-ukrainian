@@ -814,4 +814,30 @@
 	<string name="file_finish">Синхронізацію завершено</string>
     <string name="file_uploading">Синхронізація…</string>
     <string name="sync_ok">Синхронізовано</string>
+	<string name="app_name_edit_picture">Змінити фото</string>
+    <string name="baby_album_new_photo_remind">В дитячий альбом додано нові фото</string>
+    <string name="baby_album_no_share_user_tip">Користувачів немає</string>
+    <string name="buy_member_tip">станьте VIP користувачем.</string>
+    <string name="byteShort">б</string>
+    <string name="calculated_pictures_time_tip">Фото відсортовано з %1$s по теперешній момент. Інші фото буде відсортовано згодом. Щоб пришвидшити процес, %2$s</string>
+    <string name="calculated_pictures_time_tip_for_no_vip">Фото відсортовано з %1$s по теперешній момент. Інші фото буде відсортовано поступово.</string>
+    <string name="calculated_pictures_time_tip_for_vip">Фото відсортовано з %1$s по теперешній момент. Інші фото буде відсортовано найближчим часом.</string>
+    <string name="cloud_full_tip_str">"Пам'ять у Mi Cloud заповнено"</string>
+    <string name="confirm_recommandation_face_is">" "<Data> Це &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Фото буде переміщено до альбому \"%2$s\" після підтвердження. </Data>" "</string>
+    <string name="confirm_recommandation_face_not">" "<Data> Це не не &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Фото буде переміщено до альбому \"%2$s\" після підтвердження. </Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_are">" "<Data> Це &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Фото буде переміщено до альбому \"%2$s\" після підтвердження. </Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_not">" "<Data> Це не &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Фото буде переміщено до альбому \"%2$s\" після підтвердження. </Data>" "</string>
+    <string name="edit_baby_info">Показати інформацію</string>
+    <string name="error_link_has_expired">Посилання застаріле</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="gigabyteShort">Гб</string>
+    <string name="kilobyteShort">Кб</string>
+    <string name="megabyteShort">Мб</string>
+    <string name="not_ask_any_more">"Запам'ятати дію \"%s\""</string>
+    <string name="petabyteShort">Пб</string>
+    <string name="terabyteShort">Тб</string>
+    <string name="user_agreement">" умови використання"</string>
+    <string name="user_policy">політику конфіденціності</string>
+    <string name="view_baby_info">Змінити інформацію</string>
+    <string name="view_queuing_status">Перевірити стан</string>
 </resources>

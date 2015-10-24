@@ -337,10 +337,10 @@
     <string name="date_message_received_yesterday">Вчора, %1$s</string>
     <string name="debug_clear_webview_cache">Очистити кеш Webview</string>
     <string name="debug_disable_graphics_acceleration_label">Відключити апаратне прискорення графіки</string>
-    <string name="debug_enable_debug_logging_label">Включити журнал додаткового налагодження?</string>
-    <string name="debug_enable_file_logging_label">Включити запис логу SD карти?</string>
+    <string name="debug_enable_debug_logging_label">Увімкнути журнал додаткового налагодження?</string>
+    <string name="debug_enable_file_logging_label">Увімкнути запис логу SD карти?</string>
     <string name="debug_enable_strict_mode_label">Строгий режим (з реєстрацією)</string>
-    <string name="debug_enable_verbose_logging_label">Включити докладний запис логу?</string>
+    <string name="debug_enable_verbose_logging_label">Увімкнути докладний запис логу?</string>
     <string name="debug_force_one_minute_refresh_label">Відновлення в 1-хвилину посилене для POP/IMAP</string>
     <string name="debug_title">Налагодження</string>
     <string name="default_">За замовчуванням</string>
@@ -350,8 +350,8 @@
     <string name="delete_conversation_hint_message">%2$s видалено: %1$d</string>
     <string name="deleted">Видалено</string>
     <string name="device_activity_btn_str">Активувати</string>
-    <string name="device_activity_lint_str">Включити повне відновлення поштового сервісу й активувати службу безпеки</string>
-    <string name="device_admin_description">Включення серверних політик безпеки</string>
+    <string name="device_activity_lint_str">Увімкнути повне відновлення поштового сервісу й активувати службу безпеки</string>
+    <string name="device_admin_description">Увімкнення серверних політик безпеки</string>
     <string name="device_admin_label">Email</string>
     <string name="device_not_activiey_lint1">Диспетчер пристроїв не активований</string>
     <string name="device_not_activiey_lint2">Поштовий сервіс не працює коректно</string>
@@ -395,7 +395,7 @@
     <string name="empty_spam_dialog_title">Очистити спам?</string>
     <string name="empty_trash">Очистити кошик</string>
     <string name="empty_trash_dialog_title">Очистити кошик?</string>
-    <string name="enable_sync_in_account_settings">Включити в %1$s</string>
+    <string name="enable_sync_in_account_settings">Увімкнути в %1$s</string>
     <string name="exception_cancel">Подія була скасована для: %s</string>
     <string name="exception_updated">Інформація події була змінена для: %s</string>
     <string name="exchange_name">Корпоративний</string>
@@ -709,7 +709,7 @@
     <string name="quick_responses_empty_view">Немає шаблонів швидких відповідей</string>
     <string name="quote_divider_iphone_en">Відправлено з MiPhone</string>
     <string name="quote_divider_xm_rsh">Відправлено з MiPhone</string>
-    <string name="quoted_text">Включити цитуємий текст</string>
+    <string name="quoted_text">Увімкнути цитуємий текст</string>
     <string name="quoted_text_label">Цитувати текст</string>
     <string name="read_string">діалог прочитаний</string>
     <string name="recent_folders_heading">Останні теки</string>
@@ -831,8 +831,8 @@
     <string name="trash_folder_selection_title">Виберіть кошик на сервері для \"%s\"</string>
     <string name="tryrefreshing">Спроба оновлення…</string>
     <string name="turn_auto_sync_on_dialog_body">Зміни будуть синхронізовані не тільки з Gmail, але й з іншими пристроями, у тому числі з вашим %1$s.</string>
-    <string name="turn_auto_sync_on_dialog_confirm_btn">Включити</string>
-    <string name="turn_auto_sync_on_dialog_title">Включити автосинхронізацію?</string>
+    <string name="turn_auto_sync_on_dialog_confirm_btn">Увімкнути</string>
+    <string name="turn_auto_sync_on_dialog_title">Увімкнути автосинхронізацію?</string>
     <string name="undo">" "</string>
     <string name="unread_from_someone">Непрочитані від \"%s\"</string>
     <string name="unread_string">діалог не прочитаний</string>
@@ -1018,8 +1018,8 @@
     <string name="toast_bar_fail_synchronization">Низька швидкість інтернету. Повторіть спробу пізніше.</string>
     <string name="toast_bar_insufficient_memory_space">Помилка синхронізації. Память заповнена.</string>
     <string name="toast_bar_invalid_account">Строк авторизації аккаунту закінчився. Зайдіть в аккаунт повторно.</string>
-    <string name="toast_bar_no_connection_network">Інтернету нема</string>
-    <string name="toast_bar_open_gmail_synchronization">Включіть синхронизацію Gmail</string>
+    <string name="toast_bar_no_connection_network">"Інтернет з'єднання відсутнє"</string>
+    <string name="toast_bar_open_gmail_synchronization">Увімкніть синхронизацію Gmail</string>
     <string name="unzip_file_failed">Помилка розпакування</string>
     <string name="update_date_format_templete">HH:mm aa, d MMMM</string>
     <string name="upload_log_no">Скасування</string>
@@ -1043,4 +1043,8 @@
     <string name="compose_picturesexceedlimits">Кількість кріплення не може перевищувати 5!</string>
     <string name="contact_in_filter_call_phone_str">виклик: %s</string>
     <string name="contact_in_filter_title">Отримано від нього (неї).</string>
+	<string name="disturb_switch">Не турбувати</string>
+    <string name="gmail_login_failed_non_proxy_title">Помилка доступу до серверу Gmail</string>
+    <string name="gmail_server_authorization_deleted">Помилка авторизації на сервері Gmail</string>
+    <string name="outbox_alert_description_fail_network">Помилка Інтернету</string>
 </resources>

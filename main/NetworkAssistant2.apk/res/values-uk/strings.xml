@@ -589,4 +589,8 @@
     <string name="package_setted_error_notification_titile">"Неможливо встановити межу даних"</string>
 	<string name="traffic_saving_notify_no_apps_saving">Застосунки не використовують економію трафіку</string>
     <string name="traffic_saving_notify_no_apps_saving_content">"Торкніться, щоб увімкнути економію трафіку."</string>
+	<string name="traffic_saving_detail">Інформація</string>
+    <string name="traffic_saving_mobile_usage">Мобільний трафік</string>
+    <string name="traffic_saving_tecsupport_international">Підтримка: Opera Max</string>
+    <string name="traffic_saving_wifi_usage">Трафік мережі Wi-Fi</string>
 </resources>

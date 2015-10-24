@@ -1375,4 +1375,6 @@
 	<string name="remove_blacklist_dialog_message">Розблокувати цей номер?</string>
 	<string name="emergency_number_label">Екстрений виклик</string>
     <string name="in_call_show_preview_reshoot">Повтор</string>
+	<string name="more_call_logs">Усі записи доступні на сайті i.mi.com</string>
+     <string name="voip_name">Mi Voice</string>
 </resources>

@@ -54,4 +54,8 @@
     <string name="terms_of_service">Умови використання</string>
 	<string name="sim_card_detecting_title">Перевірить SIM карту</string>
     <string name="skip_underline"><u>Пропустити</u></string>
+	<string name="desc_extra_fingerprint" />
+    <string name="desc_fingerprint">Використовуйте відбиток пальцю для розблокування присторою, підтвердження оплати та інших можливостей.</string>
+    <string name="next_fingerprint">Далі</string>
+    <string name="title_fingerprint">Відбиток пальцю</string>
 </resources>

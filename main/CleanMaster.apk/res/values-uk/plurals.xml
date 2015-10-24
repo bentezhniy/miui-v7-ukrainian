@@ -44,4 +44,37 @@
        <item quantity="other">Груп: %d</item>
        <item quantity="one">Груп: %d</item>
     </plurals>
+	<plurals name="days_ago">
+       <item quantity="other">%1$d дн. тому</item>
+       <item quantity="zero">%1$d дн. тому</item>
+       <item quantity="one">%1$d дн. тому</item>
+       <item quantity="two">%1$d дн. тому</item>
+       <item quantity="few">%1$d дн. тому</item>
+       <item quantity="many">%1$d дн. тому</item>
+    </plurals>
+    <plurals name="hours_ago">
+       <item quantity="other">%1$d г. тому</item>
+       <item quantity="zero">%1$d г. тому</item>
+       <item quantity="one">%1$d г. тому</item>
+       <item quantity="two">%1$d г. тому</item>
+       <item quantity="few">%1$d г. тому</item>
+       <item quantity="many">%1$d г. тому</item>
+    </plurals>
+    <plurals name="million">
+       <item quantity="other">Завантажень: %1$d</item>
+    </plurals>
+    <plurals name="mins_ago">
+       <item quantity="other">%1$d хв. тому</item>
+       <item quantity="zero">%1$d хв. тому</item>
+       <item quantity="one">%1$d хв. тому</item>
+       <item quantity="two">%1$d хв. тому</item>
+       <item quantity="few">%1$d хв. тому</item>
+       <item quantity="many">%1$d хв. тому</item>
+    </plurals>
+    <plurals name="people">
+       <item quantity="other">Завантажень: %1$d</item>
+    </plurals>
+    <plurals name="people_million">
+       <item quantity="other">Завантажень: %1$d</item>
+    </plurals>
 </resources>
