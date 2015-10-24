@@ -472,4 +472,53 @@
     <string name="storage_internal_description">"Внутрішня пам'ять"</string>
     <string name="storage_sd_card_description">SD карта</string>
     <string name="storage_usb_description">USB сховище</string>
+    <string name="cancel_error">Помилка видалення</string>
+    <string name="cancel_success">Видалення завершено. Файли переміщено до теки sdcard/fileexplorer/decryption.</string>
+    <string name="decrypt">З прихованих</string>
+    <string name="decrypt_error">Помилка розшифровування</string>
+    <string name="decrypting">Розшифровування…</string>
+    <string name="delete_error">Помилка видалення</string>
+    <string name="dir_not_support">Ця тека не може бути прихована</string>
+    <string name="encrypt_error">Помилка додавання</string>
+    <string name="encrypt_success">Файли додано до прихованої теки</string>
+    <string name="encrypting">Шифрування…</string>
+    <string name="local_sticker_str">Завантажено</string>
+    <string name="make_private">Додати до прихованих</string>
+    <string name="msg_set_password">Задайте пароль</string>
+    <string name="network_spent_reminding">При відкритті цієї сторінки може використовуватися мобільний трафік</string>
+    <string name="network_spent_reminding_title">Попередження</string>
+    <string name="new_function">Про приховані теки</string>
+    <string name="new_function_info">"Приховані теки - це нова функція MIUI.
+Ви можете шифрувати власні файли та зберігати їх у надійному місці.
+
+Потяните вниз главную страницу, чтобы войти в приватную папку."</string>
+    <string name="new_function_str">Загруженные стикеры WeChat теперь могут коллекционироваться автоматически</string>
+    <string name="new_function_title_str">О стикерах WeChat</string>
+    <string name="no_local_sticker_tip">Ошибка поиска загруженных стикеров</string>
+    <string name="no_network_str">Ошибка подключения к интернету</string>
+    <string name="open_private_folder">Создание приватной папки…</string>
+    <string name="partial_cancel_successful">Ошибка удаления некоторых файлов. Остальные файлы перемещены в папку sdcard/fileexplorer/decryption.</string>
+    <string name="partial_delete_failure">Ошибка удаления некоторых файлов</string>
+    <string name="partial_encrypt_success">Не удается сделать некоторые файлы приватными</string>
+    <string name="partial_repair_done">Некоторые файлы восстановлены</string>
+    <string name="private_files">Приватное</string>
+    <string name="private_folder">Приватная папка</string>
+    <string name="promot_enctypt_password">Введите пароль для разблокировки устройства или используйте родительский контроль</string>
+    <string name="repair_done">Восстановлено</string>
+    <string name="repair_error">Ошибка восстановления</string>
+    <string name="repair_file">Восстановить зашифрованные файлы</string>   
+    <string name="reset_password">Сбросить пароль</string>
+    <string name="restoring">Восстановление…</string>
+    <string name="shared_sticker_network_permission_tip">Не удается подключиться к интернету</string>
+    <string name="shared_sticker_page_no_file">Ошибка подключения к интернету</string>
+    <string name="shared_sticker_str">Отправлено Mi фанатами</string>
+    <string name="shared_sticker_suffix">Стикеры %s</string>
+    <string name="shared_sticker_use_tip">"Вы можете отправлять стикер, которые сохранили в WeChat, как обычное изображение.
+(GIF анимации могут быть также добавлены в пользовательские стикеры WeChat)"</string>
+    <string name="shared_sticker_use_tip_title">Как использовать стикеры</string>
+    <string name="shared_str">Получено от %s</string>
+    <string name="transfer_done">Перемещение завершено</string>
+    <string name="transfer_private_data">Перемещение приватных файлов из внутренней памяти…</string>
+    <string name="user_not_login">Требуется авторизация</string>
+    <string name="weixin_sticker_tag_str">Стикеры WeChat</string>
 </resources>
