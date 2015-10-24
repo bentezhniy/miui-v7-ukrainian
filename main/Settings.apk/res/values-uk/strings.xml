@@ -4156,4 +4156,36 @@
     <string name="preferred_app_settings_reset_button">Скинути</string>
     <string name="wakeup_for_keyguard_notification_title">Вмикати екран при отриманні сповіщень</string>
     <string name="wifi_click_share_wlan">Поділитися мережею</string>
+	<string name="add_fingerprint_done_msg">Тепер ви можете розблокувати пристрій за допомогою відбитка пальця</string>
+    <string name="add_fingerprint_done_title">Готово</string>
+    <string name="add_fingerprint_finished_button_text">ОК</string>
+    <string name="add_fingerprint_instruction_dialog_msg">"Щоб додати інформацію про відбиток помістіть свій палець на сканер.
+Переконайтеся, що ваш палець повністю закриває датчик."</string>
+    <string name="add_fingerprint_instruction_msg">Використовуйте відбиток пальця для розблокування екрана або підтвердження оплати</string>
+    <string name="add_fingerprint_instruction_title">Помістіть свій палець на сканер відбитків</string>
+    <string name="add_fingerprint_move_finger_title">Приберіть палець</string>
+    <string name="add_fingerprint_put_finger_edge_msg">Після натискання на сканер відбитків приберіть палець, потім натисніть знову.</string>
+    <string name="add_fingerprint_put_finger_msg">Після натискання на сканер відбитків приберіть палець, потім натисніть знову.</string>
+    <string name="add_fingerprint_put_finger_title">Помістіть палець</string>
+    <string name="add_fingerprint_text">Додати відбиток пальця</string>
+    <string name="add_fingerprint_toast_text">Покладіть палець на сканер</string>
+    <string name="apply_fingerprint_to_category_title">Використання відбитків</string>
+    <string name="apply_password_to_category_title">Використання пароля</string>
+    <string name="delete_fingerprint_confirm_msg">Видалити відбиток?</string>
+    <string name="delete_fingerprint_text">Видалення відбитку</string>
+    <string name="delete_legacy_fingerprint">Видалити</string>
+    <string name="delete_or_keep_legacy_passwords_confirm_msg">Видалити дані про відбиток?</string>
+    <string name="fingerprint_and_password_entrance_title">Пароль та сканер відбитків</string>
+    <string name="fingerprint_identificating_msg">Сканування відбитку…</string>
+    <string name="fingerprint_identify_input_password_msg">Введіть пароль</string>
+    <string name="fingerprint_identify_try_again_msg">Помилка сканування</string>
+    <string name="fingerprint_list_title">Сканування відбитку</string>
+    <string name="information_dialog_button_text">ОК</string>
+    <string name="keep_legacy_fingerprint">Зберегти</string>
+    <string name="max_fingerprint_number_reached">Не можна додати більше 5 відбитків пальців</string>
+    <string name="password_entrance_title">Пароль</string>
+    <string name="secure_keyguard_business_title">Пароль блокування екрану</string>
+    <string name="sound_vibrate_settings">Звук та вібрація</string>
+    <string name="turn_off_common_password_confirm_msg">Пароль буде вимкнено</string>
+    <string name="turn_on_security_lock">Встановити пароль</string>
 </resources>
