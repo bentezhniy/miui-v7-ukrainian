@@ -252,7 +252,7 @@
     <string name="button_text_install_now">Встановити</string>
     <string name="buy_immediately">Купити</string>
     <string name="buy_traffic_pack">Купити більше даних</string>
-    <string name="clear_bigfiles">Видалення великих файлів, дубльованих фото та застосунків, що не використовуютьсґ.</string>
+    <string name="clear_bigfiles">Видалення великих файлів, дубльованих фото та застосунків, що не використовуються.</string>
     <string name="clear_immediately">Очищення</string>
     <string name="clear_safe_notify">Віджет у панелі сповіщень</string>
     <string name="conn_of_function_safe">Захист Інтернету</string>

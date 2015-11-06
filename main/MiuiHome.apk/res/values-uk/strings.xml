@@ -42,11 +42,11 @@
     <string name="permdesc_read_settings">Дає змогу зчитувати та налаштувувати ярлики стільниці</string>
     <string name="permlab_write_settings">Зміна налаштувань стільниці</string>
     <string name="permdesc_write_settings">Дозволяє застосункам змінювати налаштування і ярлики стільниці</string>
-    <string name="status_pending">очікування</string>
-    <string name="status_downloading">завантаження</string>
-    <string name="status_paused">пауза</string>
-    <string name="status_downloaded">завантажено</string>
-    <string name="status_installing">встановлення</string>
+    <string name="status_pending">Очікування</string>
+    <string name="status_downloading">Завантаження</string>
+    <string name="status_paused">Пауза</string>
+    <string name="status_downloaded">Завантажено</string>
+    <string name="status_installing">Встановлення</string>
     <string name="loading_desktop">Завантаження стільниці...</string>
     <string name="start_activity_failed">Не вдалося запустити стільницю</string>
     <string name="gadget_error_text">Не вдалося завантажити віджет</string>
