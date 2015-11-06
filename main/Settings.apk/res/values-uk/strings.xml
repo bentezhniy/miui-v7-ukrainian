@@ -4188,4 +4188,13 @@
     <string name="sound_vibrate_settings">Звук та вібрація</string>
     <string name="turn_off_common_password_confirm_msg">Пароль буде вимкнено</string>
     <string name="turn_on_security_lock">Встановити пароль</string>
+	<string name="onekey_migrate">Передача</string>
+    <string name="search_virtual_sim">Віртуальна SIM</string>
+    <string name="status_bar_app_des_separator">" | "</string>
+    <string name="status_bar_app_enable_floating">Спливаючі сповіщення</string>
+    <string name="status_bar_app_enable_keyguard">Екран блокування</string>
+    <string name="status_bar_app_enable_message">Лічильник на іконці</string>
+    <string name="status_bar_settings_show_floating_notification">Спливаючі сповіщення</string>
+    <string name="status_bar_settings_show_floating_notification_summary">Відображати сповіщення у спливаючому вікні</string>
+    <string name="virtual_sim_search_title">Віртуальна SIM-карта</string>
 </resources>

@@ -2,6 +2,7 @@
 <resources>
     <string name="app_label">Жовті сторінки</string>
     <string name="phone_info_divider">" | "</string>
+	<string name="data_error_show">Сталася помилка</string>
     <string name="call">Виклик</string>
     <string name="delete">Видалити</string>
     <string name="back">Назад</string>

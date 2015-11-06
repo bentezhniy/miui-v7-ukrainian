@@ -152,4 +152,12 @@
        <item quantity="few">Термін дії %1$d відео WeChat сплинув</item>
        <item quantity="many">Термін дії %1$d відео WeChat сплинув</item>
     </plurals>
+	<plurals name="file_count">
+       <item quantity="other"> Файлів: %1$d</item>
+       <item quantity="zero"> Файлів: %1$d</item>
+       <item quantity="one"> Файлів: %1$d</item>
+       <item quantity="two"> Файлів: %1$d</item>
+       <item quantity="few"> Файлів: %1$d</item>
+       <item quantity="many"> Файлів: %1$d</item>
+    </plurals>
 </resources>

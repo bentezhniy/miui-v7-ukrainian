@@ -289,4 +289,5 @@
     <string name="wallpaper_auto_change_title">Екран блокування</string>
 	<string name="children_mode_tips">Оберіть застосунок для доступу</string>
     <string name="wallpaper_scaling_message">Маштабування до фіксованого розміру</string>
+	<string name="cant_edit_lock_screen">Не вдається змінити шпалери на екрані блокування</string>
 </resources>

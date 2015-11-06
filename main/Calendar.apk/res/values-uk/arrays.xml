@@ -372,4 +372,10 @@
        <item>6 годин</item>
        <item>1 день</item>
     </string-array>
+	<string-array name="repeat_frequency_spinner_plural">
+       <item>дн.</item>
+       <item>тиж.</item>
+       <item>міс.</item>
+       <item>р.</item>
+    </string-array>
 </resources>

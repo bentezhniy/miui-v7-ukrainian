@@ -593,4 +593,8 @@
     <string name="traffic_saving_mobile_usage">Мобільний трафік</string>
     <string name="traffic_saving_tecsupport_international">Підтримка: Opera Max</string>
     <string name="traffic_saving_wifi_usage">Трафік мережі Wi-Fi</string>
+	<string name="firewall_restrict_android_dialog_content">Якщо ви дозволите системі використовувати інтернет, деякі функції будуть недоступні.</string>
+    <string name="firewall_restrict_android_dialog_title">Попередження</string>
+    <string name="kilobyte_per_second">Кб/с</string>
+    <string name="megabyte_per_second">Мб/с</string>
 </resources>

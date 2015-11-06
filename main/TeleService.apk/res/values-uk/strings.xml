@@ -1350,4 +1350,17 @@ sim карта буде очищена при невдалій спробі вв
     <string name="not_activate_sim_card_content_with_operator">Пакет поповнення не перевірено для обраної SIM-карти %1$s(%2$s). Спробуйте використовувати SIM-карту за замовчуванням для здійснення викликів.</string>
     <string name="not_sufficient_funds_content_title">Недостатньо коштів</string>
     <string name="not_supported_number_content_title">Не підтримується</string>
+	<string name="chose_product_summary">Заощаджуйте на дзвінках</string>
+    <string name="chose_product_title">Пакет поповнення</string>
+    <string name="livetalk_provider">Підтримка: %1$s</string>
+    <string name="loading_product">Завантаження</string>
+    <string name="purchase_description_summary">"- Дзвінки в будь-яку країну;
+- Жодних проблем з сервісами оператора;
+- Просте використання."</string>
+    <string name="purchase_description_title">Опис</string>
+    <string name="remain_mins_divider">або</string>
+    <string name="remain_mins_domestic">домашніх залишилося</string>
+    <string name="remain_mins_international">міжнародних залишилося</string>
+    <string name="remain_mins_unit">хв.</string>
+    <string name="use_range">Використання</string>
 </resources>

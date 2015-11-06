@@ -402,4 +402,10 @@
     <string name="travel_train_station">Станція потягу</string>
     <string name="view_all_matches">Переглянути усе</string>
 	<string name="notification_online">Подія: %1$s (%2$s)</string>
+	<string name="departure">Надсилання</string>
+    <string name="free_day_default_banner_title">Вихідні!</string>
+    <string name="guide_card_hint_text">Підпишіться для отримання нових можливостей</string>
+    <string name="today_flight_event">Політ</string>
+    <string name="today_train_event">Потяг</string>
+    <string name="work_day_default_banner_title">За роботу!</string>
 </resources>

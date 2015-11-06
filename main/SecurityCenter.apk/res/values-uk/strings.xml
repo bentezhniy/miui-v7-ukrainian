@@ -791,4 +791,26 @@
     <string name="antivirus_privacy_dialog_title">Політика конфіденційності</string>
     <string name="descx_quick_scan_preparation">Завантаження…</string>
 	<string name="hints_need_regular_scan">Рекомендовано виконувати сканування регулярно</string>
+	<string name="activity_title_network_speed_detail">Підключення</string>
+    <string name="btn_text_network_speed_detail">Підключення</string>
+    <string name="hints_need_quick_clean">Виявлення та видалення вірусів</string>
+    <string name="menu_text_power_percent_title">Батарея %s</string>
+    <string name="preferred_app_entries_browser">Браузер</string>
+    <string name="preferred_app_entries_camera">Камера</string>
+    <string name="preferred_app_entries_dial">Телефон</string>
+    <string name="preferred_app_entries_email">Пошта</string>
+    <string name="preferred_app_entries_gallery">Галерея</string>
+    <string name="preferred_app_entries_launcher">Стільниця</string>
+    <string name="preferred_app_entries_messaging">Повідомлення</string>
+    <string name="preferred_app_entries_music">Музика</string>
+    <string name="security_scan_optimizing">Оптимізація…</string>
+    <string name="summary_cloud_space_almost_full">Отримати більше місця</string>
+    <string name="summary_cloud_space_full">Отримайте більше місця у Mi Cloud</string>
+    <string name="summary_find_device">Ви можете знайти свій пристрій в будь-якій точці землі!</string>
+    <string name="summary_live_talk_purchase">Всього 0.05 юанів за хвилину на місцеві виклики</string>
+    <string name="system_check_content_none">Безпека</string>
+    <string name="title_cloud_space_almost_full">"Пам'ять у Mi Cloud майже заповнена. Синхронізацію припинено."</string>
+    <string name="title_cloud_space_full">"Пам'ять у Mi Cloud заповнено. Синхронізацію припинено."</string>
+    <string name="title_find_device">Увімкніть \"Пошук пристрою\"</string>
+    <string name="title_live_talk_purchase">Поповнити</string>
 </resources>

@@ -591,4 +591,6 @@
     <string name="hometown">Місто</string>
     <string name="other_info">Інше</string>
     <string name="score_douban">Окуляри Douban %1$s</string>
+	<string name="app_charging_wifi_mode">Автооновлення</string>
+    <string name="app_charging_wifi_mode_summary">Автоматично оновлювати застосунок, коли підключено мережу Wi-Fi та пристрій знаходиться на зарядці</string>
 </resources>

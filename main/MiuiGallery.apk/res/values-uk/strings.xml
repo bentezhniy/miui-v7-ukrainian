@@ -840,4 +840,7 @@
     <string name="user_policy">політику конфіденціності</string>
     <string name="view_baby_info">Змінити інформацію</string>
     <string name="view_queuing_status">Перевірити стан</string>
+	<string name="contact_tip">Контакти</string>
+    <string name="input_a_name">"Введіть ім'я"</string>
+    <string name="input_or_select_a_name">"Введіть або оберіть ім'я"</string>
 </resources>

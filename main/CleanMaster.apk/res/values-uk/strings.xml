@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="text_optimizer">Використовувати сервіс очищення онлайн</string>
+	<string name="mainbtn_text_quick_cleanup_default">Очищення</string>
     <string name="summary_optimizer">Завантажувати назви невідомих файлів і застосунків на сервер і перевіряти на наявність сміття</string>
     <string name="button_optimizer">ОК</string>
     <string name="name_optimizer">Політика конфіденційності Cheetah Mobile</string>

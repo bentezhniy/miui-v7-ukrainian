@@ -517,4 +517,9 @@
     <string name="vip_renew_notification_message">"Ви не зможете прослуховувати музику високої якості після закінчення Вашого терміну підписки."</string>
     <string name="vip_renew_notification_title">Підписка закінчується завтра</string>
     <string name="vip_renew_title">Закінчився термін дії передплати</string>
+	<string name="already_download">Завантаження…</string>
+    <string name="download_complete">Завантаження завершене</string>
+    <string name="download_complete_start_install">Встановлення…</string>
+    <string name="download_start">Завантаження…</string>
+    <string name="to_mi_pay">Mi Credits</string>
 </resources>

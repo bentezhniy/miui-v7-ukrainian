@@ -253,4 +253,37 @@
     <string name="torrent_no_subfile">У цьому торренті немає файлів</string>
     <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
     <string name="xunlei_open_info">Використовувати Xunlei Engine для відкриття таких посилань?</string>
+	<string name="enter_search">Пошук</string>
+    <string name="search_clear_history_btn">Очищення історії пошуку</string>
+    <string name="search_clear_history_toast">Історію очищено</string>
+    <string name="search_history">Історія пошуку</string>
+    <string name="search_hotwords">Ключові фрази</string>
+    <string name="search_hotwords_switch">Перемкнути</string>
+    <string name="search_input_empty_toast">Пошук/URL</string>
+    <string name="search_input_hint">Пошук/URL</string>
+    <string name="search_nonetwork_prompt">Перевірте статус мережі</string>
+    <string name="search_nonetwork_refresh">Оновити</string>
+    <string name="sniff_bt_text">Файл torrent</string>
+    <string name="sniff_btn_text">Знайти джерело</string>
+    <string name="sniff_connect_error_page_tips">Не вдається вікрити URL</string>
+    <string name="sniff_connect_error_refresh">Оновити</string>
+    <string name="sniff_download_task_already_exist">Завантаження не існує</string>
+    <string name="sniff_download_task_create_success">Завантаження додано</string>
+    <string name="sniff_find_some_prefix">Знайдено:</string>
+    <string name="sniff_find_some_suffix">" "</string>
+    <string name="sniff_finding_resource_prompt">Пошук джерела…</string>
+    <string name="sniff_no_network_tip">Інтернет недоступний</string>
+    <string name="sniff_result_empty_prompt">Помилка пошуку джерела</string>
+    <string name="sniff_result_num_prefix">Знайдено:</string>
+    <string name="sniff_result_num_video_suffix">" "</string>
+    <string name="sniff_result_num_website_suffix">" "</string>
+    <string name="sniff_result_website_intro">усього: &lt;font color=\"#6699ff\">%1$d&lt;/font> | Джерело: %2$s</string>
+    <string name="sniff_sniffing_btn_text">Пошук джерела…</string>
+    <string name="sniff_terms_agree">Прийняти</string>
+    <string name="sniff_terms_msg">Перед використанням сервісу необхідно прийняти \"Умови використання\"</string>
+    <string name="sniff_terms_reject">Скасувати</string>
+    <string name="sniff_terms_title">Попередження</string>
+    <string name="sniff_text_sniff_next_page">Продовжити</string>
+    <string name="web_dialog_cancel">Скасувати</string>
+    <string name="web_dialog_confirm">ОК</string>
 </resources>

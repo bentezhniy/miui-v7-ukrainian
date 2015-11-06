@@ -97,4 +97,8 @@
     <string name="activate_popup_title_all_gateway_failed_send_sms">Не вдається надіслати SMS</string>
     <string name="activate_sms_postfix">[Ця SMS використовується для активації вашого пристрою]</string>
 	<string name="xiaomi_cloud_service">Mi Cloud</string>
+	<string name="activate_auto_sms_notification_desc_1_card">Щоб активувати функцію \"Пошук пристрою\" надіслане SMS</string>
+    <string name="activate_auto_sms_notification_desc_2_cards">Щоб активувати функцію \"Пошук пристрою\" надіслане SMS з SIM-карти %s</string>
+    <string name="activate_auto_sms_notification_title">Активація SIM-карти</string>
+    <string name="activate_popup_desc_find_device_postfix">SMS для активації буде відправлене після зміни SIM-карти</string>
 </resources>

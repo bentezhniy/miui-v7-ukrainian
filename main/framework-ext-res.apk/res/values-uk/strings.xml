@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="status_bar_toggle_ac">Доступ</string>
+	<string name="enable_livetalk">Увімкнути пакет поповнення</string>
+    <string name="livetalk_not_enable">Пакет поповнення не ввімкнено</string>
     <string name="status_bar_toggle_auto_brightness">Підсвічування</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
     <string name="status_bar_toggle_brightness">Яскравість</string>

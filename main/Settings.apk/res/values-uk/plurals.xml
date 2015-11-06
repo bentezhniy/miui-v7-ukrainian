@@ -58,4 +58,12 @@
        <item quantity="other">Декілька застосунків (%d) задають умови</item>
        <item quantity="one">%d застосунок задає умови</item>
     </plurals>
+	<plurals name="status_bar_settings_disabled_header_title">
+       <item quantity="other">Застосунків без сповіщень: %s</item>
+       <item quantity="one">Застосунків без сповіщень: %s</item>
+    </plurals>
+    <plurals name="status_bar_settings_enabled_header_title">
+       <item quantity="other">Застосунків зі сповіщенями: %s</item>
+       <item quantity="one">Застосунків зі сповіщенями: %s</item>
+    </plurals>
 </resources>
