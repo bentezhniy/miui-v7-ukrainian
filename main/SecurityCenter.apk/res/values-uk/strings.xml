@@ -813,4 +813,8 @@
     <string name="title_cloud_space_full">"Пам'ять у Mi Cloud заповнено. Синхронізацію припинено."</string>
     <string name="title_find_device">Увімкніть \"Пошук пристрою\"</string>
     <string name="title_live_talk_purchase">Поповнити</string>
+	<string name="activity_title_root_acquired">Суперкористувач</string>
+    <string name="activity_title_root_note">Інформація про суперкористувача</string>
+    <string name="pm_root_success_notification_title">Суперкористувача активовано</string>
+    <string name="prompt_input_time_illegal">Помилка налаштування часу</string>
 </resources>

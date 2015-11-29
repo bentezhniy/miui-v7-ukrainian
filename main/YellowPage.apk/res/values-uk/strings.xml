@@ -566,4 +566,5 @@
     <string name="yellowpage_navigation_network_location_not_enabled_title">Попередження</string>
     <string name="yuan">Юань</string>
 	<string name="follow_processing">Обробка</string>
+	<string name="open_installed_app">Відкрити</string>
 </resources>

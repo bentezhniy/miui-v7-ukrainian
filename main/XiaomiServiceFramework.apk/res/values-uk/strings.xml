@@ -101,4 +101,12 @@
     <string name="activate_auto_sms_notification_desc_2_cards">Щоб активувати функцію \"Пошук пристрою\" надіслане SMS з SIM-карти %s</string>
     <string name="activate_auto_sms_notification_title">Активація SIM-карти</string>
     <string name="activate_popup_desc_find_device_postfix">SMS для активації буде відправлене після зміни SIM-карти</string>
+	<string name="activate_feature_live_talk">Пакет поповнення</string>
+    <string name="activate_feature_register_xiaomi_account">Налаштування Mi акаунту</string>
+    <string name="activate_feature_verify_mx_token">Перевірка Mi акаунту</string>
+    <string name="activate_phone_cancel_notif_title">Активацію SIM-карти скасовано</string>
+    <string name="activate_phone_cancel_notif_title_msim">Активацію SIM-карти %s скасовано</string>
+    <string name="activate_phone_success_notif_title">SIM-карту активовано</string>
+    <string name="activate_phone_success_notif_title_msim">SIM-карту %s активовано</string>
+    <string name="activate_status_desc_completed_with_sms_sent">Для активації SIM-карти надіслане SMS</string>
 </resources>

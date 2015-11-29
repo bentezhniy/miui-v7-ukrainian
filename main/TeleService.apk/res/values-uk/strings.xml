@@ -1363,4 +1363,18 @@ sim карта буде очищена при невдалій спробі вв
     <string name="remain_mins_international">міжнародних залишилося</string>
     <string name="remain_mins_unit">хв.</string>
     <string name="use_range">Використання</string>
+	<string name="livetalk_about">Про застосунок</string>
+    <string name="livetalk_before_provision">"Необхыдно прийняти "</string>
+    <string name="livetalk_continue_button_creat_account">Створення акаунту…</string>
+    <string name="livetalk_welcome_description_text">"• 0.05 юанів за хвилину місцевих викликів та 0.03 юанів для міжнародних.
+• Дзвінки на будь-які номери в світі.
+• Увімкніть пакет поповнення та телефонуйте!"</string>
+    <string name="livetalk_welcome_notes_text">Кожен виклик використовує 1 Кб мобільного трафіку. Сервісні номери не підтримуються.</string>
+    <string name="no_sim_card">SIM-карта відсутня</string>
+    <string name="purchase_notes">Ви можете здійснювати міжнародні дзвінки</string>
+    <string name="quickly_verify">Перевірити</string>
+    <string name="top_up_first">Увімкнути пакет поповнення</string>
+    <string name="verified">Перевірено</string>
+    <string name="verify_fialed">Помилка</string>
+    <string name="verifying">Перевірка…</string>
 </resources>

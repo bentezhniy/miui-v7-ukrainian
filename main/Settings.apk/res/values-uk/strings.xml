@@ -4197,4 +4197,19 @@
     <string name="status_bar_settings_show_floating_notification">Спливаючі сповіщення</string>
     <string name="status_bar_settings_show_floating_notification_summary">Відображати сповіщення у спливаючому вікні</string>
     <string name="virtual_sim_search_title">Віртуальна SIM-карта</string>
+	<string name="check_find_device_status_failure_confirm">ОК</string>
+    <string name="checking_find_device_status">Тест пошуку пристрою…</string>
+    <string name="confirm_fingerprint_msg">Покладіть палець на сканер відбитків пальців</string>
+    <string name="failed_to_check_find_device_status_content">Помилка перевірки стану пристрою</string>
+    <string name="failed_to_check_find_device_status_title">Помилка перевірки статусу</string>
+    <string name="failed_to_shut_down_find_device_content">Не вдається вимкнути пошук пристрою</string>
+    <string name="failed_to_shut_down_find_device_title">Не вдається вимкнути пошук пристрою</string>
+    <string name="lock_settings_with_fingerprint">Екран блокування та пароль</string>
+    <string name="powersave_mode_settings">Економія заряду</string>
+    <string name="powersave_mode_settings_summary">Налаштування економії батареї</string>
+    <string name="security_patch">Патч безпеки</string>
+    <string name="shut_down_find_device_failure_confirm">ОК</string>
+    <string name="shut_down_find_device_network_failure_content">Не вдається вимкнути пошук пристрою</string>
+    <string name="shut_down_find_device_network_failure_title">Інтернет недоступний</string>
+    <string name="shuting_down_find_device">Вимкнення пошуку пристрою…</string>
 </resources>
