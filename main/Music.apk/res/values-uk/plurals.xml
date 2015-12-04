@@ -92,4 +92,16 @@
        <item quantity="other">Вже додано до обраних</item>
        <item quantity="one">Вже додано до обраних</item>
     </plurals>
+	<plurals name="Nalert_msg_vip_songs_for_download_limited">
+       <item quantity="other">Ви можете завантажити %d преміум треку цього місяця. Завантажити?</item>
+       <item quantity="one">Ви можете завантажити %d преміум трек цього місяця. Завантажити?</item>
+       <item quantity="few">Ви можете завантажити %d преміум трека цього місяця. Завантажити?</item>
+       <item quantity="many">Ви можете завантажити %d преміум треку цього місяця. Завантажити?</item>
+    </plurals>
+    <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
+       <item quantity="other">Ви можете завантажити %d преміум треків цього місяця</item>
+       <item quantity="one">Ви можете завантажити %d преміум трек цього місяця</item>
+       <item quantity="few">Ви можете завантажити %d преміум трека цього місяця</item>
+       <item quantity="many">Ви можете завантажити %d преміум треків цього місяця</item>
+    </plurals>
 </resources>

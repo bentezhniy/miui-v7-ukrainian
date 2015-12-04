@@ -235,4 +235,7 @@
     <string name="permdesc_sendSmsNoConfirmation">Дозволяє застосунку відправляти SMS повідомлення. Шкідливі можуть використовувати цей дозвіл для відправлення повідомлень на платні номери.</string>
 	<string name="web_sso_login_fail">Необхідно авторизуватися повторно</string>
     <string name="web_sso_login_message">Авторизація…</string>
+	<string name="hybrid_provider">Веб-сторінку представлено від %1$s</string>
+    <string name="no_network">Помилка підключення до Інтернету</string>
+    <string name="webview_reload">Повторити</string>
 </resources>

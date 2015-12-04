@@ -160,4 +160,12 @@
        <item quantity="few"> Файлів: %1$d</item>
        <item quantity="many"> Файлів: %1$d</item>
     </plurals>
+	<plurals name="file_notify_title_wechat_sticker">
+       <item quantity="other">%1$d нових стікерів WeChat сьогодні</item>
+       <item quantity="zero">%1$d нових стікерів WeChat сьогодні</item>
+       <item quantity="one">%1$d новий стікер WeChat сьогодні</item>
+       <item quantity="two">%1$d нових стікери WeChat сьогодні</item>
+       <item quantity="few">%1$d нових стікери WeChat сьогодні</item>
+       <item quantity="many">%1$d нових стікерів WeChat сьогодні</item>
+    </plurals>
 </resources>

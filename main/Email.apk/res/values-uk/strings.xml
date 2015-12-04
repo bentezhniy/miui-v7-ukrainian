@@ -1047,4 +1047,13 @@
     <string name="gmail_login_failed_non_proxy_title">Помилка доступу до серверу Gmail</string>
     <string name="gmail_server_authorization_deleted">Помилка авторизації на сервері Gmail</string>
     <string name="outbox_alert_description_fail_network">Помилка Інтернету</string>
+	<string name="att_download_failed_network_slow">"Повільне з'єднання"</string>
+    <string name="calendar_remind_dialog_title">Нагадування</string>
+    <string name="calendar_remind_gridview_month_later">Через місяць</string>
+    <string name="calendar_remind_gridview_nextweek">Через тиждень</string>
+    <string name="calendar_remind_gridview_pick_date">Оберіть дату</string>
+    <string name="calendar_remind_gridview_tomorrow">Завтра</string>
+    <string name="calendar_remind_gridview_tonight">Цієї ночі</string>
+    <string name="calendar_remind_gridview_weekend">На вихідних</string>
+    <string name="reply_add_bodycontent">Додати вміст швидкої відповіді до повідомлення?</string>
 </resources>

@@ -129,4 +129,8 @@
         <item quantity="other">Контактів: %1$d</item>
         <item quantity="one">Контактів: %1$d</item>
      </plurals>
+	 <plurals name="voip_contacts_count">
+       <item quantity="other">Контактів: %1$d</item>
+       <item quantity="one">Контактів: %1$d</item>
+    </plurals>
 </resources>

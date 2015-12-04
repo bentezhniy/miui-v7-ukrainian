@@ -843,4 +843,7 @@
 	<string name="contact_tip">Контакти</string>
     <string name="input_a_name">"Введіть ім'я"</string>
     <string name="input_or_select_a_name">"Введіть або оберіть ім'я"</string>
+	<string name="operation_add_secret_button">До прихованого альбому</string>
+    <string name="operation_remove_from_face_album_button">Перемістити</string>
+    <string name="operation_remove_secret_button">Прибрати з альбому</string>
 </resources>

@@ -408,4 +408,9 @@
     <string name="today_flight_event">Політ</string>
     <string name="today_train_event">Потяг</string>
     <string name="work_day_default_banner_title">За роботу!</string>
+	<string name="internet_connection_notification">Запит доступу до інтернету</string>
+    <string name="internet_connection_notification_descrip">Запитувати доступ до інтернету щоразу під час запуску застосунку</string>
+    <string name="notice_button_exit">Скасувати</string>
+    <string name="notice_declaration_ignore">"Запам'ятати"</string>
+    <string name="user_notice_online_agreement">Продовжуючи, Ви погоджуєтеся з %1$s та %2$s. Для нормальної роботи застосунку необхідне підключення до мережі. Продовжити?</string>
 </resources>

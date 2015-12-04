@@ -108,4 +108,14 @@
     <string name="set_password_action">Встановити пароль</string>
     <string name="set_password_message">Встановити новий пароль?</string>
     <string name="set_password_title">Встановіть пароль</string>
+	<string name="default_name">За замовчуванням</string>
+    <string name="enable_livetalk_summary">0.05 юанів за хвилину на місцеві виклики</string>
+    <string name="enable_livetalk_title">Увімкніть пакет поповнення</string>
+    <string name="group_name_contacts">Контакти</string>
+    <string name="group_name_coworkers">Колеги</string>
+    <string name="group_name_family">Родина</string>
+    <string name="group_name_friends">Друзі</string>
+    <string name="ignore_home_when_fingerprint_enrolling_msg">Покладіть палець на клавішу \"Додому\"</string>
+    <string name="maml_component_customization_title">Налаштування</string>
+    <string name="resource_select">Оберіть</string>
 </resources>

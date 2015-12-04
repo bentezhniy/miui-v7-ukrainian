@@ -592,4 +592,7 @@
     <string name="pref_camera_tilt_shift_title">Tilt Shift</string>
     <string name="simple_mode_button_text_fisheye">"Вимкнути риб'яче око"</string>
     <string name="simple_mode_button_text_tilt_shift">Вимкнути Tilt Shift</string>
+	<string name="pref_camera_snap_entry_off">Вимкнено</string>
+    <string name="pref_camera_snap_entry_take_movie">Зйомка відео утримуванням кнопки гучності вниз</string>
+    <string name="pref_camera_snap_entry_take_picture">Серійна зйомка утримуванням кнопки гучності вниз</string>
 </resources>

@@ -87,4 +87,5 @@ EEEE"</string>
 	<string name="fingerprint_not_identified_msg">Введіть пароль для розблокування пристрою</string>
     <string name="fingerprint_not_identified_title">Помилка сканування відбитку</string>
     <string name="fingerprint_try_again_text">Повторити</string>
+	<string name="set_lock_wallpaper_failed">Нових шпалер немає</string>
 </resources>

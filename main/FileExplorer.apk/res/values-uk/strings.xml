@@ -545,4 +545,22 @@
     <string name="type_not_support">Формат файлу не підтримується</string>
     <string name="ui_main_toast_favorite_added">Додано до обраних</string>
     <string name="weixin_not_installed">WeChat не встановлено</string>
+	<string name="add_private">Додати файли</string>
+    <string name="clean_hint">Натисніть для очищення</string>
+    <string name="create_shortcut_cancel">Скасувати</string>
+    <string name="create_shortcut_checkbox_hint">"Запам'ятати"</string>
+    <string name="create_shortcut_confirm">Створити</string>
+    <string name="create_shortcut_message">Ви використовуєте провідник дуже часто. Створити ярлик на стільниці для швидкого доступу?</string>
+    <string name="create_shortcut_success">Ярлик створено</string>
+    <string name="create_shortcut_title">Ярлик на стільницю</string>
+    <string name="encrypt_success_first_five">Шифрування завершено. Потягніть головну сторінку донизу для доступу до приватної теки.</string>
+    <string name="menu_item_sort_by_added_time">За датою додавання</string>
+    <string name="notification_wechat_sticker_hint">Показувати сповіщення, коли доступні нові стікери WeChat</string>
+    <string name="notification_wechat_sticker_switch_title">Сповіщення про стікери Wechat</string>
+    <string name="private_folder_no_file_hints">Натисніть та утримуйте файл або теку, щоб додати до приватних.</string>
+    <string name="private_folder_update">Оновлення приватних тек</string>
+    <string name="private_toast_hint1">Натисніть, щоб додати файли до приватної теки</string>
+    <string name="private_toast_hint2">Щоб приховати файл, натисніть на нього і утримуйте, потім оберіть \"До приватних\"</string>
+    <string name="private_toast_hint3">Потягніть донизу для доступу до приватних тек</string>
+    <string name="select_dest_folder">Оберіть теку</string>
 </resources>

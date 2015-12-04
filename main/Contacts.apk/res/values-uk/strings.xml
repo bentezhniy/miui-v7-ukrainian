@@ -1376,5 +1376,26 @@
 	<string name="emergency_number_label">Екстрений виклик</string>
     <string name="in_call_show_preview_reshoot">Повтор</string>
 	<string name="more_call_logs">Усі записи доступні на сайті i.mi.com</string>
-     <string name="voip_name">Mi Voice</string>
+    <string name="voip_name">Mi Voice</string>
+	<string name="calls_voip_prompt">VoIP</string>
+    <string name="contact_edit_save_error_empty">Введіть необхідні відомості</string>
+    <string name="create_voip_shortcut_success">Ярлик створено</string>
+    <string name="import_from_onekey_migrate">Імпорт через передачу</string>
+    <string name="in_call_show_filter_brannan">Світанок</string>
+    <string name="in_call_show_filter_earlybird">Осінь</string>
+    <string name="in_call_show_filter_jstyle">Японія</string>
+    <string name="in_call_show_filter_mono">Моно</string>
+    <string name="in_call_show_filter_nashvile">Індіго</string>
+    <string name="in_call_show_filter_none">Оригінал</string>
+    <string name="in_call_show_filter_process_error">Не вдалося обробити</string>
+    <string name="in_call_show_filter_processing">Обробка…</string>
+    <string name="in_call_show_filter_vivid">Яскраво</string>
+    <string name="no_voip_contacts">Немає контактів VoIP</string>
+    <string name="transfer_accounts">Передача акаунтів</string>
+    <string name="voip_contact_label">Mi VoIP</string>
+    <string name="voip_contacts_entry">Mi VoIP</string>
+    <string name="voip_contacts_entry_header">Хмарні повідомлення та Mi VoIP</string>
+    <string name="voip_loading_contact">Завантаження…</string>
+    <string name="voip_recommend_msg">Натисніть для використання VoIP</string>
+    <string name="voip_shortcut_name">Mi VoIP</string>
 </resources>

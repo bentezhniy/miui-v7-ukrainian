@@ -133,4 +133,21 @@
     <string name="package_delete_confirm_step_2">Видалення цього застосунку може вплинути на працездатність прошивки.</string>
     <string name="package_delete_confirm_step_3">Всі дані застосунку будуть також видалені.</string>
     <string name="reboot_time">Підготовка до перезавантаженя…(%1$s)</string>
+	<string name="btn_text_full_scan">Повне сканування</string>
+    <string name="btn_text_install_new_version">Нова версія</string>
+    <string name="btn_text_install_origin">Встановлена версія</string>
+    <string name="btn_text_install_security_version_in_appstore">Замінити на безпучну версію</string>
+    <string name="btn_text_scaning">Сканування…</string>
+    <string name="btn_text_security_install">Замінити на безпучну версію</string>
+    <string name="btn_text_security_scan">Сканер безпеки</string>
+    <string name="install_from_appstore_hint">Рекомендуємо встановити застосунок за допомогою &lt;u>&lt;font color=#91c727>App Store&lt;/font>&lt;/u></string>
+    <string name="message_apk_checking">Перевірка APK…</string>
+    <string name="message_appstore_verify_has_new_version">Встановити нову версію застосунку за допомогою App Store?</string>
+    <string name="message_appstore_verify_inconsistent">Підписи застосунків різняться. Ви можете встановити застосунок за допомогою App Store.</string>
+    <string name="message_appstore_verify_ok">Цей застосунок пройшов повну перевірку безпеки у App Store</string>
+    <string name="message_full_scanning">Повне сканування…</string>
+    <string name="message_install_in_market">Рекомендовано встановлювати застосунки з App Store</string>
+    <string name="message_quick_scanning">Швидке сканування…</string>
+    <string name="message_security_scaning">Сканування…</string>
+    <string name="waiting_tip">Завантаження…</string>
 </resources>

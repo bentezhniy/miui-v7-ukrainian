@@ -276,4 +276,7 @@
     <string name="trans_time_remained">, завершено.</string>
     <string name="trans_waiting_ensurance">Переконайтеся, що на притрої увімкнуто передачу</string>
     <string name="trans_waiting_for_sender">Очікування на підключення пристрою…</string>
+	<string name="backup_empty_info_onpad">Створюйте бекап даних</string>
+    <string name="backup_hint_onpad">Не вимикайте пристрій</string>
+    <string name="current_pad_location">Планшет</string>
 </resources>

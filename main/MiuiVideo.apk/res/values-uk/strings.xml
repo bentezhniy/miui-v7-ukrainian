@@ -593,4 +593,18 @@
     <string name="score_douban">Окуляри Douban %1$s</string>
 	<string name="app_charging_wifi_mode">Автооновлення</string>
     <string name="app_charging_wifi_mode_summary">Автоматично оновлювати застосунок, коли підключено мережу Wi-Fi та пристрій знаходиться на зарядці</string>
+	<string name="buy_vip">Купити VIP</string>
+    <string name="clubber">Клабер</string>
+    <string name="clubber_center">Центр клабер</string>
+    <string name="clubber_info">Інформація</string>
+    <string name="expire_time">Час спливає</string>
+    <string name="mibi">mibi</string>
+    <string name="no_pay_record">Платежів немає</string>
+    <string name="not_buy_vip">Немає VIP</string>
+    <string name="not_exist_openid">Отримання відомостей про акаунт...</string>
+    <string name="original_price">Вартість</string>
+    <string name="pay_record">Історія платежів</string>
+    <string name="vip_package">VIP пакет</string>
+    <string name="vp_app_download">Завантаження застосунку</string>
+    <string name="vp_download_apk_from_video_ad">Встановлення застосунку</string>
 </resources>

@@ -122,4 +122,6 @@
     <string name="all_terms">%1$s, %2$s</string>
     <string name="micloud_state_total_count">%1$s</string>
     <string name="notelist_string_info">…</string>
+	<string name="dlg_delete_message">Видалення…</string>
+    <string name="pref_title_recover_help">Відновлення нотаток</string>
 </resources>
