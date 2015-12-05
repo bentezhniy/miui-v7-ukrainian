@@ -326,4 +326,9 @@
     <string name="virus_scan">Антивірус</string>
     <string name="year_month_day_format">d MMMM</string>
     <string name="yesterday">Вчора</string>
+	<string name="cached_garbage">Кеш</string>
+    <string name="flow_rank_title">Трафік</string>
+    <string name="grabage_rank_title">Сьогодні очищено</string>
+    <string name="total_clean_text">Очищено</string>
+    <string name="unlike">Скасувати</string>
 </resources>

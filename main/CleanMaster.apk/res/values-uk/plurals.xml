@@ -77,4 +77,12 @@
     <plurals name="people_million">
        <item quantity="other">Завантажень: %1$d</item>
     </plurals>
+	<plurals name="view_num">
+       <item quantity="other">Переглядів: %1$d</item>
+       <item quantity="zero">Переглядів: %1$d</item>
+       <item quantity="one">Переглядів: %1$d</item>
+       <item quantity="two">Переглядів: %1$d</item>
+       <item quantity="few">Переглядів: %1$d</item>
+       <item quantity="many">Переглядів: %1$d</item>
+    </plurals>
 </resources>

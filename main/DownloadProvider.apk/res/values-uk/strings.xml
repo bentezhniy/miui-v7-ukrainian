@@ -109,4 +109,8 @@
     <string name="storage_usb">USB-накопичувач</string>
     <string name="version">Версія: %s</string>
 	<string name="mobile_recommended_title">Використовувати мобільні дані</string>
+	<string name="download_apk_desktop_installing">Встановлення…</string>
+    <string name="download_apk_desktop_pause">Пауза</string>
+    <string name="download_apk_desktop_pending">Очікування…</string>
+    <string name="download_apk_desktop_running">Завантаження…</string>
 </resources>
