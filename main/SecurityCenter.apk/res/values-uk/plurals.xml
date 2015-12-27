@@ -9,8 +9,8 @@
         <item quantity="one">%d г.</item>
     </plurals>
     <plurals name="power_center_battery_minute">
-        <item quantity="other">%d год.</item>
-        <item quantity="one">%d год.</item>
+        <item quantity="other">%d хв.</item>
+        <item quantity="one">%d хв.</item>
     </plurals>
     <plurals name="hints_auto_start_enable_title">
         <item quantity="other">Застосунки з автозапуском (%d)</item>
