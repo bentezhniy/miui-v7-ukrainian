@@ -345,7 +345,7 @@ sim карта буде очищена при невдалій спробі вв
     <string name="card_title_cugcall">Дзвінок закритій групі користувачів</string>
     <string name="card_title_outgoing_barred">Вихідні виклики заборонені</string>
     <string name="card_title_incoming_barred">Вхідні виклики заборонені</string>
-    <string name="card_title_clir_suppression_rejected">Приховання номеру заборонене</string>
+    <string name="card_title_clir_suppression_rejected">Приховування номеру заборонене</string>
     <string name="card_title_call_deflected">Виклик відхилений</string>
     <string name="card_title_MTcall_forwarding">Вхідний виклик переадресується</string>
     <string name="card_title_forwarded_MTcall">Вхідний переадресований виклик</string>
