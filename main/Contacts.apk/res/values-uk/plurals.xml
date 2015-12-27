@@ -133,4 +133,8 @@
        <item quantity="other">Контактів: %1$d</item>
        <item quantity="one">Контактів: %1$d</item>
     </plurals>
+	<plurals name="number_of_items_available">
+       <item quantity="other">Лишилося: %1$d</item>
+       <item quantity="one">Лишилося: %1$d</item>
+    </plurals>
 </resources>

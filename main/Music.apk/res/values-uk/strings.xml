@@ -557,4 +557,9 @@
     <string name="toast_vip_download_some_limit">Перевищено ліміт завантажень цього місяця. Ви можете завантажити більше музики у високій якості, отримавши пакет преміум музики наступного місяця.</string>
     <string name="upgrade_vip">Оновити пакет преміум музики</string>
     <string name="vip_required_with_song">Отримайте пакет преміум музики для прослуховування \"%s\"</string>
+	<string name="cloud_space_full">"Пам'ять заповнено"</string>
+    <string name="cloud_space_full_message">Недостатньо місця у Mi Cloud для завантаження нових треків. Отримайте більше місця.</string>
+    <string name="do_not_remind_again">"Запам'ятати"</string>
+    <string name="not_now">Скасувати</string>
+    <string name="upgrade_membership">Отримати</string>
 </resources>

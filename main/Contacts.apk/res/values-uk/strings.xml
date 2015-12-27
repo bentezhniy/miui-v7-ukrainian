@@ -1398,4 +1398,18 @@
     <string name="voip_loading_contact">Завантаження…</string>
     <string name="voip_recommend_msg">Натисніть для використання VoIP</string>
     <string name="voip_shortcut_name">Mi VoIP</string>
+	<string name="callrecordview_item_op_video">Відео</string>
+    <string name="callrecordview_menu_conference">Конференція</string>
+    <string name="miprofile_nick_name_divider">"  |  "</string>
+    <string name="miprofile_nick_name_edit_dialog_hint">Оберіть нік</string>
+    <string name="miprofile_nick_name_edit_dialog_message">Нік буде відображатися у журналі викликів та на сторінці контакту</string>
+    <string name="miprofile_nick_name_edit_dialog_title">Змінити нік</string>
+    <string name="multi_number_menu_call">Виклик</string>
+    <string name="multi_number_menu_delete">Видалити</string>
+    <string name="multi_number_menu_group">Нова група</string>
+    <string name="multi_number_menu_message">Повідомлення</string>
+    <string name="multi_number_title">Конференція</string>
+    <string name="phone_number_too_long_toast">Номер занадто довгий</string>
+    <string name="select_done">Більше неможна обрати</string>
+    <string name="video_call">Відовиклик</string>
 </resources>

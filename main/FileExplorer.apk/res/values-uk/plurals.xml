@@ -168,4 +168,12 @@
        <item quantity="few">%1$d нових стікери WeChat сьогодні</item>
        <item quantity="many">%1$d нових стікерів WeChat сьогодні</item>
     </plurals>
+	<plurals name="file_notify_title_wechat_video_auto_backup">
+       <item quantity="other">Для %1$d відео WeChat створено бекап</item>
+       <item quantity="zero">Для %1$d відео WeChat створено бекап</item>
+       <item quantity="one">Для %1$d відео WeChat створено бекап</item>
+       <item quantity="two">Для %1$d відео WeChat створено бекап</item>
+       <item quantity="few">Для %1$d відео WeChat створено бекап</item>
+       <item quantity="many">Для %1$d відео WeChat створено бекап</item>
+    </plurals>
 </resources>

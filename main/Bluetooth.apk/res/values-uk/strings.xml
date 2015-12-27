@@ -212,4 +212,19 @@
 	<string name="incoming_line1">Від</string>
     <string name="incoming_line2">"Ім'я файлу"</string>
     <string name="incoming_line3">Розмір</string>
+	<string name="bluetooth_map_settings_app_icon">Іконка застосунку</string>
+    <string name="bluetooth_map_settings_cancel">Скасувати</string>
+    <string name="bluetooth_map_settings_count">Залишилося слотів:</string>
+    <string name="bluetooth_map_settings_intro">Оберіть акаунти, якими хочете поділитися через Bluetooth. Ви все ще повинні прийняти будь-який доступ до акаунтів при підключенні.</string>
+    <string name="bluetooth_map_settings_no_account_slots_left">Неможна обрати акаунт. Лишилося 0 слотів.</string>
+    <string name="bluetooth_map_settings_save">Зберегти</string>
+    <string name="bluetooth_map_settings_title">Налаштування обміну Bluetooth</string>
+    <string name="bluetooth_sap_notif_disconnect_button">Вимкнути</string>
+    <string name="bluetooth_sap_notif_disconnecting">Очікування клієнта для вимкнення</string>
+    <string name="bluetooth_sap_notif_force_disconnect_button">Вимкнути</string>
+    <string name="bluetooth_sap_notif_message">Запитати клієнта про вимкнення?</string>
+    <string name="bluetooth_sap_notif_ticker">Доступ Bluetooth SIM</string>
+    <string name="bluetooth_sap_notif_title">Bluetooth SIM доступ</string>
+    <string name="permdesc_bluetoothAvrcpDataManager">Дозволити застосунку доступ до менеджера даних Bluetooth AVRCP та використовувати його для відображення у інтерфейсі</string>
+    <string name="permlab_bluetoothAvrcpDataManager">Доступ до метаданих avrcp</string>
 </resources>

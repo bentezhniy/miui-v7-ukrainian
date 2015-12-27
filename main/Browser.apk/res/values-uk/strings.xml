@@ -1235,4 +1235,6 @@
     <string name="retry_download">Повторити</string>
     <string name="search_sm">Яндекс</string>
     <string name="unknown_title">Невідомо</string>
+	<string name="go_supermarket_button">Відкрити</string>
+    <string name="go_supermarket_title">Використовуйте Mi Store для завантаження застосунків</string>
 </resources>

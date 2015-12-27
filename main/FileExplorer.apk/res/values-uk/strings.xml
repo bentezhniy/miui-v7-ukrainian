@@ -563,4 +563,10 @@
     <string name="private_toast_hint2">Щоб приховати файл, натисніть на нього і утримуйте, потім оберіть \"До приватних\"</string>
     <string name="private_toast_hint3">Потягніть донизу для доступу до приватних тек</string>
     <string name="select_dest_folder">Оберіть теку</string>
+	<string name="compress_fail_unknown">"Пам'ять заповнено. Не можливо створити архів."</string>
+    <string name="make_private_msg_1">Приховати цей файл?</string>
+    <string name="make_private_msg_2">Приховати ці файли?</string>
+    <string name="make_private_msg_3">Усі файли у цій теці буде приховано</string>
+    <string name="move_icon_to_desktop_hint">Створіть ярлик для провідника на стільниці для швидкого доступу до файлів</string>
+    <string name="move_to_confirm">Створити</string>
 </resources>

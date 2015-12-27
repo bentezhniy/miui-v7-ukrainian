@@ -101,4 +101,9 @@
        <item>Кожні 15 днів</item>
        <item>Кожні 30 днів</item>
     </string-array>
+	<string-array name="trash_clean_menu">
+       <item>Очистити</item>
+       <item>Файл</item>
+       <item>Додати до виключень</item>
+    </string-array>
 </resources>
