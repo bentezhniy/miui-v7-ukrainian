@@ -22,11 +22,11 @@
     <string name="perm_action_reject">Заборонити</string>
     <string name="unknown_installer">Невідомий встановник ПК</string>
     <string name="dlg_app_replacement_statement_with_version">"Застосунок: %1$s 
-встановленна версія: %3$s 
-версія оновлення: %2$s 
+Встановленна версія: %3$s 
+Версія оновлення: %2$s 
 
-всі користувацькі дані будуть збережені.
-продовжити встановлення?"</string>
+Всі користувацькі дані буде збережено.
+Продовжити встановлення?"</string>
     <string name="lift_ban">Зняти заборону</string>
     <string name="uninstall_confirm_question">Видалити цей застосунок?</string>
     <string name="uninstall_failed_retained_app_msg">Застосунок, змінений оператором, не може бути видаленим</string>
