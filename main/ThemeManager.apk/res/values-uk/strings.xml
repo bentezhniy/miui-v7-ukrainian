@@ -389,4 +389,11 @@
 	<string name="theme_precast_create_notification_content">Натисніть для перегляду</string>
     <string name="theme_precast_create_notification_title">Теми MIUI 7 оновлено</string>
 	<string name="theme_provision_oper_button_next">Далі</string>
+	<string name="resource_trial_days">(безкоштовно на %1$d дн.)</string>
+    <string name="resource_trial_days_hours">(безкоштовно на %1$d дн. %2$d г.)</string>
+    <string name="resource_trial_end_time">(безкоштовно до %1$s)</string>
+    <string name="resource_trial_end_time_format">hh:mm d MMM</string>
+    <string name="resource_trial_hours">(безкоштовно на %1$d г.)</string>
+    <string name="resource_trial_hours_minutes">(безкоштовно на %1$d г. %2$d хв.)</string>
+    <string name="resource_trial_minutes">(безкоштовно на %1$d хв.)</string>
 </resources>

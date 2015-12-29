@@ -109,4 +109,8 @@
     <string name="activate_phone_success_notif_title">SIM-карту активовано</string>
     <string name="activate_phone_success_notif_title_msim">SIM-карту %s активовано</string>
     <string name="activate_status_desc_completed_with_sms_sent">Для активації SIM-карти надіслане SMS</string>
+	<string name="activate_popup_confirm_error_device_id">Повторити</string>
+    <string name="activate_popup_desc_error_device_id">Наберіть *#06# для перевірки IMEI</string>
+    <string name="activate_popup_title_error_device_id">Помилка IMEI</string>
+    <string name="activate_status_desc_device_id_error">Помилка IMEI</string>
 </resources>

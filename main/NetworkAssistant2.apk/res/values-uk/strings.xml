@@ -597,4 +597,17 @@
     <string name="firewall_restrict_android_dialog_title">Попередження</string>
     <string name="kilobyte_per_second">Кб/с</string>
     <string name="megabyte_per_second">Мб/с</string>
+	<string name="sim_location_error_dialog_message">Ви використовуєте SIM-карту з %1$s. Ця локація відрізняється від %2$s. Змінити локацію SIM-карти на %3$s?</string>
+    <string name="sim_location_error_notify_message">Змінити SIM</string>
+    <string name="sim_location_error_notify_title">Помилка SIM-карти</string>
+    <string name="traffic_alert_auto_modify_notification_sumarry">Місячний трафік змінено на %s</string>
+    <string name="traffic_alert_auto_modify_notification_titile">Місячний трафік оновлено</string>
+    <string name="traffic_alert_auto_modify_package_summary">Автоматичне налаштування пакету трафіку відповідно до інформації оператора</string>
+    <string name="traffic_config_alert_auto_modify">Автооновлення трафіку</string>
+    <string name="traffic_config_alert_package">"
+Більше додаткового трафіку"</string>
+    <string name="traffic_limit_error_alert_package">"
+
+Залишок трафіку також містить трафік, який було перевищено минулого місяця"</string>
+    <string name="traffic_setting_fragment_loacation_alert_nomore">"Запам'ятати"</string>
 </resources>

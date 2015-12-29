@@ -88,4 +88,9 @@ EEEE"</string>
     <string name="fingerprint_not_identified_title">Помилка сканування відбитку</string>
     <string name="fingerprint_try_again_text">Повторити</string>
 	<string name="set_lock_wallpaper_failed">Нових шпалер немає</string>
+	<string name="input_password_after_boot_msg">Після перезавантаження пристрою необхідно буде ввести пароль</string>
+    <string name="invalid_sim_pin_hint">Введіть PIN-код з 4-8 цифр</string>
+    <string name="invalid_sim_puk_hint">PUK-код складаєтьсяз 8 цифр чи більше</string>
+    <string name="lock_screen_date_12">"d MMMM yyyy
+EEEE"</string>
 </resources>

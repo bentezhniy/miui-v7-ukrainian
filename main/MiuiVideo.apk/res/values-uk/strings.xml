@@ -607,4 +607,16 @@
     <string name="vip_package">VIP пакет</string>
     <string name="vp_app_download">Завантаження застосунку</string>
     <string name="vp_download_apk_from_video_ad">Встановлення застосунку</string>
+	<string name="app_upgrade_hint">Натисніть для перегляду відео онлайн</string>
+    <string name="app_upgrade_title">Застосунок \"Відео\" оновлено</string>
+    <string name="download_url_waiting_no_wifi">Очікування Wi-Fi мережі</string>
+    <string name="notification_default_title">Локальне відео</string>
+    <string name="notification_sub_title">Завантажено: %d</string>
+    <string name="notification_ticker_text">Натисніть для перегляду</string>
+    <string name="notification_title">Завантаження \"%s\" завершене</string>
+    <string name="search_snack_more">Детально</string>
+    <string name="search_snack_sniff">Завантажити</string>
+    <string name="sniff">Sniff</string>
+    <string name="vp_downloading_apk_title">Завантаження %1$s</string>
+    <string name="vp_notify_apk_installed">Застосунок %1$s встановлено</string>
 </resources>

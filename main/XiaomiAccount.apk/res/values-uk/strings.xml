@@ -590,4 +590,14 @@
 	<string name="passport_login_check_find_device">Тест пошуку пристрою…</string>
     <string name="passport_login_check_find_device_failed">Інтернет недоступний</string>
     <string name="passport_login_find_device_bind">"Цей пристрій вже прив'язано до існуючого Мі акаунту (%s)"</string>
+	<string name="activate_email_notice">Активуйте акаунт протягом 24 годин</string>
+    <string name="change_activate_email">Змінити Email</string>
+    <string name="confirm_activate_email">Перевірено</string>
+    <string name="input_email_address_notice">Email буде використано для активації Mi акаунту</string>
+    <string name="passport_xiaomi_account_sec_dspt2_vip">Для входу да Mi акаунту необхідне підключення до мережі. Доступ до локації, Mi Cloud, та Mi VIP буде увімкнено автоматично.</string>
+    <string name="resend_active_email">Повторити</string>
+    <string name="resend_email_reach_limit_message">Ви надіслали забагато запитів на Email. Перевірте теку зі спамом.</string>
+    <string name="resend_email_reach_limit_title">Помилка надсилання</string>
+    <string name="resend_email_success">Надіслано</string>
+    <string name="send_email_activate_message">Надіслано</string>
 </resources>

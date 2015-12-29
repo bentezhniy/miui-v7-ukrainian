@@ -817,4 +817,6 @@
     <string name="activity_title_root_note">Інформація про суперкористувача</string>
     <string name="pm_root_success_notification_title">Суперкористувача активовано</string>
     <string name="prompt_input_time_illegal">Помилка налаштування часу</string>
+	<string name="confirm_reject_all_permission">Заборонити усім застосункам використовувати цю функцію?</string>
+    <string name="reject_all">ОК</string>
 </resources>
