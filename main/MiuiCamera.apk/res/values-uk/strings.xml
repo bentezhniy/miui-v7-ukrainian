@@ -16,11 +16,11 @@
     <string name="access_sd_fail">Немає доступу до накопичувача</string>
     <string name="confirm_restore_title">Скидання налаштувань</string>
     <string name="confirm_restore_message">Відновити налаштування за замовчуванням?</string>
-    <string name="confirm_location_title">Зберігати місце розташування</string>
-    <string name="confirm_location_message">Зберігати місце розташування у відомостях про фото?</string>
-    <string name="confirm_location_alert">Інформація про місцерозташування</string>
+    <string name="confirm_location_title">Зберігати дані геолокації</string>
+    <string name="confirm_location_message">Зберігати дані геолокації у відомостях про фото?</string>
+    <string name="confirm_location_alert">Інформація про геолокацію</string>
     <string name="start_capture">Почати запис</string>
-    <string name="pref_camera_recordlocation_title">Зберігати місце розташування</string>
+    <string name="pref_camera_recordlocation_title">Зберігати дані геолокації</string>
     <string name="pref_camera_recordlocation_entry_off">Вимкнене</string>
     <string name="pref_camera_recordlocation_entry_on">Увімкнене</string>
     <string name="pref_camera_sound_title">Звук зйомки</string>
@@ -338,7 +338,7 @@
     <string name="model">Модель</string>
     <string name="orientation">Орієнтація</string>
     <string name="close">Закрити</string>
-    <string name="location">Місце розташування</string>
+    <string name="location">Геолокація</string>
     <string name="duration">Тривалість</string>
     <string name="flash">Спалах</string>
     <string name="save">ОК</string>
@@ -434,7 +434,7 @@
     <string name="group_by">Групувати</string>
     <string name="group_by_album">За альбомами</string>
     <string name="group_by_faces">По людях</string>
-    <string name="group_by_location">За місцем розташування</string>
+    <string name="group_by_location">За геолокацією</string>
     <string name="group_by_tags">За мітками</string>
     <string name="group_by_time">За часом</string>
     <string name="hand_night_exit_button_text">Вимкнути нічний режим</string>
@@ -448,7 +448,7 @@
     <string name="launch_wechat">Запустити Wechat</string>
     <string name="loading">Завантаження…</string>
     <string name="loading_video">Завантаження відео…</string>
-    <string name="locations">Місце розташування</string>
+    <string name="locations">Геолокація</string>
     <string name="maker">Виробник</string>
     <string name="manual">Ручна</string>
     <string name="measure_whitebalance_button">ОК</string>
