@@ -855,7 +855,7 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
     <string name="sport_running_kilometers">км</string>
     <string name="sport_running_per_kilometers">/км</string>
     <string name="sport_running_kilometers_per_hour">км/г</string>
-    <string name="sport_running_gps_locating">Визначення місцерозташування по GPS…</string>
+    <string name="sport_running_gps_locating">Визначення геолокації по GPS…</string>
     <string name="sport_running_set_pace">Задати темп</string>
     <string name="sport_running_lable_miles_fastest">км швидко</string>
     <string name="sport_running_lable_km_slowest">км повільно</string>
@@ -901,7 +901,7 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
     <string name="sport_running_get_history_no_more_data">Немає даних</string>
     <string name="sport_running_delete_track_item_confirm">Видалити запис?</string>
     <string name="sport_running_backgroud_notification">Побігли!</string>
-    <string name="watermark_search_location">\#визначення місцезнаходження#</string>
+    <string name="watermark_search_location">\#визначення геолокації#</string>
     <string name="watermark_btn_confirm">OK</string>
     <string name="watermark_guide_tips">Утримуйте для переміщення</string>
     <string name="no_bracelet_tips">(доступно тільки при активному підключенні Mi band)</string>
@@ -957,7 +957,7 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
     <string name="noti_bracelet_low_battery_content_none">Підключіть зарядний пристрій</string>
     <string name="start_use">Поїхали!</string>
     <string name="points_exchange">Обміняти окуляри</string>
-    <string name="unknown_location">Невідоме місцезнаходження:</string>
+    <string name="unknown_location">Невідома локація:</string>
     <string name="point">очок</string>
     <string name="unknown_mili">Мій</string>
     <string name="stat_steps">Кроків</string>
