@@ -88,7 +88,7 @@
 	<string name="location_usage_restricted_body">Натисніть для зняття обмежень</string>
     <string name="location_usage_restricted_title">Пошук місця розташування в фоні</string>
     <string name="permdesc_manageLocationPolicy">Дозволяє застосунку керувати політикою визначення місця розташування</string>
-    <string name="permlab_manageLocationPolicy">Керування місцем розташування</string>
+    <string name="permlab_manageLocationPolicy">Керування геолокацією</string>
 	<string name="fc_dialog_body">Надіслати звіт про помилку розробникам? Звіт може містити конфеденційну інформацію.</string>
     <string name="fc_dialog_jump_to_preview">Показати зміст</string>
     <string name="handy_mode_enter_dlg_msg">Увімкнути режим керування однією рукою?</string>
