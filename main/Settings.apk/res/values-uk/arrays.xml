@@ -194,15 +194,15 @@
         <item>Автоматично</item>
     </string-array>
     <string-array name="app_ops_categories">
-        <item>Місце розташування</item>
+        <item>Геолокація</item>
         <item>Особисті дані</item>
         <item>Повідомлення</item>
         <item>Медіа</item>
         <item>Обладнання</item>
     </string-array>
     <string-array name="app_ops_summaries">
-        <item>неточне визначення місця розташування</item>
-        <item>точне визначення місця розташування</item>
+        <item>неточне визначення геолокації</item>
+        <item>точне визначення геолокації</item>
         <item>GPS</item>
         <item>вібрація</item>
         <item>читання контактів</item>
@@ -242,13 +242,13 @@
         <item>гучність повідомлень</item>
         <item>гучність Bluetooth</item>
         <item>не виключати екран</item>
-        <item>визначення місця розташування</item>
-        <item>визначення точного місця розташування</item>
+        <item>визначення геолокації</item>
+        <item>визначення точного геолокації</item>
     </string-array>
     <string-array name="app_ops_labels">
-        <item>Місце розташування</item>
-        <item>Місце розташування</item>
-        <item>Місце розташування</item>
+        <item>Геолокація</item>
+        <item>Геолокація</item>
+        <item>Геолокація</item>
         <item>Вібрація</item>
         <item>Читання контактів</item>
         <item>Зміна контактів</item>
@@ -256,18 +256,18 @@
         <item>Зміна журналу викликів</item>
         <item>Читання календаря</item>
         <item>Зміна календаря</item>
-        <item>Місце розташування</item>
+        <item>Геолокація</item>
         <item>Повідомлення</item>
-        <item>Місце розташування</item>
+        <item>Геолокація</item>
         <item>Виклик</item>
-        <item>Одержання SMS/MMS</item>
+        <item>Отримання SMS/MMS</item>
         <item>Відправлення SMS/MMS</item>
-        <item>Одержання SMS/MMS</item>
-        <item>Одержання SMS/MMS</item>
-        <item>Одержання SMS/MMS</item>
-        <item>Одержання SMS/MMS</item>
+        <item>Отримання SMS/MMS</item>
+        <item>Отримання SMS/MMS</item>
+        <item>Отримання SMS/MMS</item>
+        <item>Отримання SMS/MMS</item>
         <item>Відправлення SMS/MMS</item>
-        <item>Одержання SMS/MMS</item>
+        <item>Отримання SMS/MMS</item>
         <item>Відправлення SMS/MMS</item>
         <item>Зміна налаштувань</item>
         <item>Малюнок зверху</item>
@@ -287,8 +287,8 @@
         <item>Гучність повідомлень</item>
         <item>Гучність Bluetooth</item>
         <item>Не виключати екран</item>
-        <item>Місце розташування</item>
-        <item>Місце розташування</item>
+        <item>Геолокація</item>
+        <item>Геолокація</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Невелика</item>
