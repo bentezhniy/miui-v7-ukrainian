@@ -1056,4 +1056,24 @@
     <string name="calendar_remind_gridview_tonight">Цієї ночі</string>
     <string name="calendar_remind_gridview_weekend">На вихідних</string>
     <string name="reply_add_bodycontent">Додати вміст швидкої відповіді до повідомлення?</string>
+	<string name="account_setup_failed_dlg_unknown_auth_message">Невідома помилка</string>
+    <string name="account_setup_options_mail_window_label_imap_or_pop3">Термін зберігання</string>
+    <string name="contact_edit_set_black_list_filtering">Додавання до чорного списку…</string>
+    <string name="contact_edit_set_black_list_title">Додати до чорного списку</string>
+    <string name="del_account_questionnair_hint">Зазначте, чому ви видаляєте акаунт?</string>
+    <string name="dialog_change_sync_lookback">Отриману %s тому пошту буде автоматично видалено. Натисніть, щоб змінити.</string>
+    <string name="fail_get_email_message">Не вдалося отримати повідомлення</string>
+    <string name="folder_junk_name_cn2">[Gmail]/Спам</string>
+    <string name="folder_junk_name_en2">Junk Mail</string>
+    <string name="folder_junk_name_en3">Junk E-Mail</string>
+    <string name="folder_junk_name_en4">Junk</string>
+    <string name="questionnair_body_invisibility">Повідомлення не відображаються</string>
+    <string name="questionnair_confirm_delete">Видалити</string>
+    <string name="questionnair_instability">Нестабільний застосунок</string>
+    <string name="questionnair_not_send">Не вдалося наіслати повідомлення</string>
+    <string name="questionnair_not_sync">Нестабільна синхронізація</string>
+    <string name="questionnair_other_reasons">Інша причина</string>
+    <string name="questionnair_title">Видалення акаунту</string>
+    <string name="questionnair_ui_not_pretty">Не подобається дизайн</string>
+    <string name="questionnair_waste_resource">"Видалення може звільнити пам'ять"</string>
 </resources>

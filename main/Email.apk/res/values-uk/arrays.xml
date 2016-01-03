@@ -137,4 +137,12 @@
        <item>\#</item>
        <item>∅</item>
     </string-array>
+	<string-array name="calendar_remind_string_array">
+       <item>Ввечорі</item>
+       <item>Завтра</item>
+       <item>Вихідні</item>
+       <item>Наступного тижня</item>
+       <item>Наступного місяця</item>
+       <item>Обрати дату</item>
+    </string-array>
 </resources>

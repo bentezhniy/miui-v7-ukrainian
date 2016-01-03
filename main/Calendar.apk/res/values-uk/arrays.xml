@@ -378,4 +378,8 @@
        <item>міс.</item>
        <item>р.</item>
     </string-array>
+	<string-array name="credential_usage">
+        <item>VPN та застосунки</item>
+        <item>Wi-Fi</item>
+    </string-array>
 </resources>

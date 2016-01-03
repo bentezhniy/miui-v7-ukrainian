@@ -314,4 +314,6 @@
     <string name="xl_privilege_storage_info">Тут недостатньо місця для ваших завантажень</string>
     <string name="xl_privilege_title">Підписка Xunlei</string>
     <string name="xl_validate_title">"Термін дії: "</string>
+	<string name="sniff_associate_text">Натисніть на ключове слово нижче, щоб знайти більше</string>
+    <string name="sniff_no_result_text">Нічого не знайдено</string>
 </resources>

@@ -133,4 +133,5 @@
     <string name="modem_tool_log_start_toast">Запущено зчитування звіту модема в %s</string>
     <string name="modem_tool_log_stop">Зупинити</string>
     <string name="modem_tool_log_stop_toast">Зупинено зчитування звіту модема із %s</string>
+	<string name="logo_title">Звіти про помилки</string>
 </resources>

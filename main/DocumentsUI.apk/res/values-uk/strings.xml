@@ -40,4 +40,14 @@
     <string name="menu_file_size_hide">Приховати розмір файлів</string>
     <string name="menu_file_size_show">Показати розмір файлів</string>
     <string name="menu_select">Оберіть \"^1\"</string>
+	<string name="button_copy">Копіювати</string>
+    <string name="button_select">Вибрати</string>
+    <string name="copy_failure_alert_content">Ці файли не скопійовано: %1$s</string>
+    <string name="copy_notification_title">Копіювання файлів…</string>
+    <string name="copy_preparing">Підготовка…</string>
+    <string name="copy_remaining">Залишилося: %s</string>
+    <string name="menu_copy">Копіювати до…</string>
+    <string name="menu_select_all">Обрати усе</string>
+    <string name="notification_touch_for_details">Натисніть для перегляду подробиць</string>
+    <string name="retry">Спробувати ще</string>
 </resources>

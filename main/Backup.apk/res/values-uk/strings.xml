@@ -279,4 +279,11 @@
 	<string name="backup_empty_info_onpad">Створюйте бекап даних</string>
     <string name="backup_hint_onpad">Не вимикайте пристрій</string>
     <string name="current_pad_location">Планшет</string>
+	<string name="trans_generate_qr_code_failed">Помилка створення QR-коду</string>
+    <string name="trans_operate_new_phone_tips">Відкрийте \"Трансфер\" на новому пристрої та натисніть \"Отримати\" для створення QR-коду</string>
+    <string name="trans_operate_old_phone_tips1">Відкрийте \"Трансфер\" на старому пристрої</string>
+    <string name="trans_operate_old_phone_tips2">Натисніть \"Надіслати\" для сканування QR-коду</string>
+    <string name="trans_scan_invalid_qrcode">Некоректний QR-код</string>
+    <string name="trans_scan_qr_code_tips">Скануйте QR-код з нового пристрою</string>
+    <string name="trans_show_qr_code_tips">Скануйте QR-код зі старого пристрою</string>
 </resources>

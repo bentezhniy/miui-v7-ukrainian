@@ -458,4 +458,11 @@ ID Вашого пристрою буде зашифровано і відпра
 Ваш ID Mi акаунту буде зашифровано та надіслано на сервер Xiaomi."</string>
     <string name="user_agreement_p5">"
 "</string>
+<string name="cloud_back_up_summary">Тільки при підключенні до Wi-Fi</string>
+    <string name="cloud_backup_have_data">Знайдено бекап Mi Cloud</string>
+    <string name="cloud_backup_select_recover">Оберіть бекап з Mi Cloud</string>
+    <string name="cloud_restore_title">Відновлення з бекапу</string>
+    <string name="header_cloud_backup_settings">Бекап та відновлення</string>
+    <string name="header_cloud_restore_summary">Перевстановити застосунки, відновити розташування стільниці та системні налаштування з бекапу у Mi Cloud</string>
+    <string name="header_find_device_settings">Пошук пристрою</string>
 </resources>

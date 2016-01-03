@@ -80,4 +80,20 @@
        <item>- Необхідно увімкнути функцію \"Безкоштовне прослуховування\" щоб використовувати сервіс, в іншому випадку оператор може стягувати додаткову сплату.</item>
        <item>- Підтримка: YunZhiXun, RonLianYunTongXun, LTSC</item>
     </string-array>
+	<string-array name="call_barring_incoming_display_values">
+       <item>Вимкнено</item>
+       <item>Роумінг</item>
+       <item>Усі</item>
+    </string-array>
+    <string-array name="call_barring_outgoing_display_values">
+       <item>Вимкнено</item>
+       <item>Міжнародні виклики у роумінгу</item>
+       <item>Міжнародні виклики</item>
+       <item>Вихідні виклики</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices_world_mode">
+       <item>Глобальний</item>
+       <item>LTE / CDMA</item>
+       <item>LTE / GSM / UMTS</item>
+    </string-array>
 </resources>
