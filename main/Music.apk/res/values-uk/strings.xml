@@ -562,4 +562,22 @@
     <string name="do_not_remind_again">"Запам'ятати"</string>
     <string name="not_now">Скасувати</string>
     <string name="upgrade_membership">Отримати</string>
+	<string name="buy_other_flow">Додатково</string>
+    <string name="buy_traffic">Придбати трафік</string>
+    <string name="current_version">Поточна версія</string>
+    <string name="music_traffic">Музичний тариф</string>
+    <string name="music_traffic_summary">Прослуховування та завантаження музики без використання мобільного трафіку</string>
+    <string name="notification_des_next_song">Наступний трек: %s</string>
+    <string name="notification_des_no_song">Mi музика</string>
+    <string name="notification_headset_custom">Скасування</string>
+    <string name="notification_headset_info">Натисніть для налаштування</string>
+    <string name="notification_headset_settings">Навушники підключено</string>
+    <string name="notification_title_no_song">Немає треків</string>
+    <string name="settings_notification_text">Показувати віджет плеєра в панелі сповіщень</string>
+    <string name="settings_notification_title">Віджет в панелі сповіщень</string>
+    <string name="sub_explanation">Інструкція для замовлення</string>
+    <string name="sub_explanation_message">Ексклюзивний пакет музики лише для користувачів China Unicom. Ваш номер телефону не підтримує надання послуги.</string>
+    <string name="toast_download_in_process">Завантаження…</string>
+    <string name="traffic_free_to_play">Використовувати музичний тариф</string>
+    <string name="version_info">Версія</string>
 </resources>

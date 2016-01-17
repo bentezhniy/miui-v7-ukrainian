@@ -444,4 +444,15 @@
     <string name="ticket_card_dialog_positive_button_text">ОК</string>
     <string name="ticket_card_lunar">Луна: %1$s</string>
     <string name="ticket_card_phase">- перший період: %1$s</string>
+	<string name="user_notice_button_exit">Вихід</string>
+    <string name="user_notice_button_ok">ОК</string>
+    <string name="user_notice_declaration_ignore">"Запам'ятати"</string>
+    <string name="user_notice_message">Перед використанням необхідно прийняти %1$s и %2$s. Для роботи застосунка необхідне підключення до мережі.</string>
+    <string name="user_notice_title">Сповіщення користувача</string>
+    <string name="user_notification">Сповіщення користувача</string>
+    <string name="user_notification_descrip">Показувати сповіщення щоразу під час запуску застосунка</string>
+	<string name="set_as_wallpaper">Встановити як шпалери</string>
+	<string name="network_not_available">Не вдається підключитися до мережі</string>
+    <string name="no_network_btn">Повторити</string>
+	<string name="download">Завантажити</string>
 	</resources>

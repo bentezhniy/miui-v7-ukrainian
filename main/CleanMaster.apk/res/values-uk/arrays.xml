@@ -106,4 +106,9 @@
        <item>Файл</item>
        <item>Додати до виключень</item>
     </string-array>
+	<string-array name="video_clean_menu">
+       <item>Видалити</item>
+       <item>Відтворити</item>
+       <item>Додати до винятків</item>
+    </string-array>
 </resources>

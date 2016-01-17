@@ -1076,4 +1076,11 @@
     <string name="questionnair_title">Видалення акаунту</string>
     <string name="questionnair_ui_not_pretty">Не подобається дизайн</string>
     <string name="questionnair_waste_resource">"Видалення може звільнити пам'ять"</string>
+	<string name="account_setup_failed_dlg_bar_title">Авторизація %s</string>
+    <string name="account_setup_failed_dlg_error_code">Код помилки: %s</string>
+    <string name="account_setup_failed_dlg_todo1">Налаштуйте акаунт за інструкцією або спробуйте увійти через Exchange</string>
+    <string name="account_setup_failed_dlg_todo2">Налаштуйте акаунт за інструкцією</string>
+	<string name="email_netease">Пошта NetEase</string>
+	<string name="email_qq">Пошта QQ</string>
+    <string name="email_sina">Пошта Sina</string>
 </resources>

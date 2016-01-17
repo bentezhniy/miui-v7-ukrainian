@@ -465,4 +465,15 @@ ID Вашого пристрою буде зашифровано і відпра
     <string name="header_cloud_backup_settings">Бекап та відновлення</string>
     <string name="header_cloud_restore_summary">Перевстановити застосунки, відновити розташування стільниці та системні налаштування з бекапу у Mi Cloud</string>
     <string name="header_find_device_settings">Пошук пристрою</string>
+	<string name="micloud_main_message_not_synced">Несинхронізованих даних: %s</string>
+    <string name="micloud_main_title_not_synced">Не синхронізовано</string>
+    <string name="micloud_notif_content_battery_low">Батарею розряджено</string>
+    <string name="micloud_notif_content_master_depend_wifi">Потрібно підключитися до мережі Wi-Fi</string>
+    <string name="micloud_notif_content_memory_low">"Недостатньо пам'яті"</string>
+    <string name="micloud_notif_content_sync_with_off">Натисніть для синхронізації</string>
+    <string name="micloud_notif_title_battery_low">Не вдається синхронізувати дані</string>
+    <string name="micloud_notif_title_master_depend_wifi">Не вдається синхронізувати дані</string>
+    <string name="micloud_notif_title_memory_low">Не вдається синхронізувати дані</string>
+    <string name="micloud_notif_title_sync_with_off">Синхронізація з Mi Cloud</string>
+    <string name="micloud_unlogin_for_time_summary" />
 </resources>

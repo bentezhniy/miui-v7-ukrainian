@@ -569,4 +569,7 @@
     <string name="make_private_msg_3">Усі файли у цій теці буде приховано</string>
     <string name="move_icon_to_desktop_hint">Створіть ярлик для провідника на стільниці для швидкого доступу до файлів</string>
     <string name="move_to_confirm">Створити</string>
+	<string name="backup_checkbox_msg">Створювати бекап та показувати сповіщення</string>
+    <string name="notification_wechat_auto_backup_hint">Натисніть для перегляду</string>
+    <string name="notification_wechat_auto_backup_switch_title">Бекап відео WeChat</string>
 </resources>

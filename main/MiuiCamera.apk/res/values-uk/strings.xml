@@ -596,4 +596,11 @@
     <string name="pref_camera_snap_entry_take_movie">Зйомка відео утримуванням кнопки гучності вниз</string>
     <string name="pref_camera_snap_entry_take_picture">Серійна зйомка утримуванням кнопки гучності вниз</string>
 	<string name="pref_camera_age_watermark_title">Показувати стать та вік на фото</string>
+	<string name="accessibility_audio_shutter_bg">Фон аудіозйомки</string>
+    <string name="accessibility_countdown">Кнопка таймера</string>
+    <string name="accessibility_peak">Кнопка відображення фокусу</string>
+    <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Не можна використовувати зйомку при заблокованому екрані, якщо увімкнено пробудження екрану клавішами гучності.</string>
+    <string name="pref_camera_snap_value_off">Вимкнено</string>
+    <string name="pref_camera_snap_value_take_movie">Відео</string>
+    <string name="pref_camera_snap_value_take_picture">Фото</string>
 </resources>

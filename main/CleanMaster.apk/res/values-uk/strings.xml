@@ -362,4 +362,25 @@
     <string name="label_preserve_the_best_image">Зберегти якісні фото</string>
     <string name="see_more">Ще</string>
     <string name="sponsored">Рекламні</string>
+	<string name="activity_title_deep_apk">Пакет інсталяції APK</string>
+    <string name="activity_title_video">Відео</string>
+    <string name="deepclean_apk_content">Видалення пакетів інсталяції APK</string>
+    <string name="deepclean_apk_summary_empty">Очищення не потрібне</string>
+    <string name="deepclean_apk_version_error">невідома</string>
+    <string name="deepclean_video_content">Видалення відео</string>
+    <string name="deepclean_video_summary_empty">Очищення не потрібне</string>
+    <string name="empty_title_video">Немає відео​</string>
+    <string name="hints_cache_msd_desc">Видалення оновлень застосунків</string>
+    <string name="hints_cache_msd_title">Видалення Delta оновлення</string>
+    <string name="hints_installed_app_fewer">Рідко використовувані</string>
+    <string name="hints_installed_app_near">Нещодавно використовувані</string>
+    <string name="hints_installed_app_never">Невикористовувані</string>
+    <string name="hints_video_camera">Зняті відео</string>
+    <string name="hints_video_download">Завантажені відео</string>
+    <string name="preference_key_apps_cleanup_auto_check_size">key_apps_cleanup_auto_check_size</string>
+    <string name="preference_key_apps_cleanup_auto_check_time">key_apps_cleanup_auto_check_time</string>
+    <string name="preference_key_checkbox_apps_auto_clean_and_alert">key_checkbox_apps_auto_clean_content</string>
+    <string name="summary_delete_apk">Завжди видаляти обрані APK?</string>
+    <string name="summary_delete_video">Завжди видаляти вибрані відео?</string>
+    <string name="title_delete_deepclean">Видалити</string>
 </resources>

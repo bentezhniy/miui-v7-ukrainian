@@ -47,4 +47,46 @@
         <item>Звичайні</item>
         <item>Довгі</item>
     </string-array>
+	<string-array name="gsm_umts_network_preferences_choices">
+       <item>2G/3G (авто)</item>
+       <item>лише 3G</item>
+       <item>лише 2G</item>
+    </string-array>
+    <string-array name="language_list_values">
+       <item>Усі мови</item>
+       <item>Німецька</item>
+       <item>Англійська</item>
+       <item>Італійська</item>
+       <item>Французька</item>
+       <item>Іспанська</item>
+       <item>Голандська</item>
+       <item>Шведська</item>
+       <item>Датська</item>
+       <item>Португальська</item>
+       <item>Фінська</item>
+       <item>Норвезька</item>
+       <item>Грецька</item>
+       <item>Турецька</item>
+       <item>Угорська</item>
+       <item>Польська</item>
+       <item>Інші</item>
+       <item>Чеська</item>
+       <item>Іврит</item>
+       <item>Арабська</item>
+       <item>Російська</item>
+       <item>Ісландська</item>
+    </string-array>
+    <string-array name="lte_sim_prefer_network_mode_choices">
+       <item>3G/2G(Авто)</item>
+       <item>Лише 2G</item>
+    </string-array>
+    <string-array name="lte_usim_prefer_network_mode_choices">
+       <item>4G/3G/2G(Авто)</item>
+       <item>3G/2G(Авто)</item>
+       <item>Лише 2G</item>
+    </string-array>
+    <string-array name="umts_network_preferences_choices">
+       <item>2G/3G (авто)</item>
+       <item>лише 3G</item>
+    </string-array>
 </resources>

@@ -316,4 +316,23 @@
     <string name="xl_validate_title">"Термін дії: "</string>
 	<string name="sniff_associate_text">Натисніть на ключове слово нижче, щоб знайти більше</string>
     <string name="sniff_no_result_text">Нічого не знайдено</string>
+	<string name="ad_title">Рекомендуємо завантажувати за допомогою %1$s </string>
+    <string name="app_size">%1$s</string>
+    <string name="download_list_title_browser">Завантаження</string>
+    <string name="download_num_size">Завантажень: %1$s | %2$s</string>
+    <string name="get_data_failed">Не вдається отримати інформацію</string>
+    <string name="install_failed">Не вдається інсталювати %1$s</string>
+    <string name="jump_rank_hint">Перегляньте рейтинг завантажень ></string>
+    <string name="load_finish_hint">Ви можете продовжити перегляд завтра</string>
+    <string name="loading">Завантаження…</string>
+    <string name="menu_title_fileexplore">Провідник</string>
+    <string name="net_error">Не вдається підключитися до мережі</string>
+    <string name="rank">Рейтинг</string>
+    <string name="rank_data_empty">Немає завантажень</string>
+    <string name="rank_guide_confirm">Продовжити</string>
+    <string name="rank_guide_content">Рейтинг популярних завантажень оновлюється щодня</string>
+    <string name="rank_guide_title">Популярні застосунки</string>
+    <string name="sniff_shortcut_exist">Ярлик вже створено</string>
+    <string name="sniff_shortcut_failed">Не вдається створити ярлик</string>
+    <string name="valid_date">Термін дії:  %s</string>
 </resources>

@@ -1412,4 +1412,27 @@
     <string name="phone_number_too_long_toast">Номер занадто довгий</string>
     <string name="select_done">Більше неможна обрати</string>
     <string name="video_call">Відовиклик</string>
+	<string name="config_export_dir">/mnt/sdcard</string>
+    <string name="config_export_extensions_to_consider" />
+    <string name="config_export_file_extension">vcf</string>
+    <string name="config_export_file_prefix" />
+    <string name="config_export_file_suffix" />
+    <string name="config_export_vcard_type">v30_generic</string>
+    <string name="config_import_vcard_type">default</string>
+    <string name="config_prohibited_phone_number_regexp" />
+    <string name="miprofile_contact_add">Додати</string>
+    <string name="miprofile_contact_added">Додано</string>
+    <string name="miprofile_contact_header">Контакти з візитівками</string>
+    <string name="miprofile_contact_meaasge">Локальні контакти</string>
+    <string name="miprofile_contact_verifying">Перевірка</string>
+    <string name="miprofile_find_miprofile_title">Додати візитівку</string>
+    <string name="miprofile_find_profile_batch_add">Додати всі візитівки</string>
+    <string name="miprofile_find_profile_batch_finish">Готово</string>
+    <string name="miprofile_find_profile_batch_request_failed">Не вдається додати візитівку</string>
+    <string name="miprofile_find_profile_loading">Завантаження</string>
+    <string name="miprofile_find_profile_no_recommend">Немає візитівок</string>
+    <string name="miprofile_find_profile_subtitle">Додайте фото та інформацію</string>
+    <string name="miprofile_finding_label">Пошук візитівки</string>
+    <string name="miprofile_request_deleted_or_not_added">Візитівку видалено вбо не додано</string>
+    <string name="miprofile_request_header">Обмін запитами (автоматично вийшов за тиждень)</string>
 </resources>

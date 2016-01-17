@@ -4227,4 +4227,5 @@
     <string name="print_enable">Увімкнути службу друку</string>
     <string name="print_remind">Увімкніть службу друку</string>
     <string name="resolver_settings_label">Сортування</string>
+	<string name="free_xiaomi_wifi_connect_summary">Натисніть для підключення %1$s</string>
 </resources>

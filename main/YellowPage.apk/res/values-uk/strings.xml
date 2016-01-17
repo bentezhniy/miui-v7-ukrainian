@@ -567,4 +567,18 @@
     <string name="yuan">Юань</string>
 	<string name="follow_processing">Обробка</string>
 	<string name="open_installed_app">Відкрити</string>
+	<string name="agree_to_continue">Продовжити</string>
+    <string name="agree_to_turn_on">Я погоджуюся використовувати цю функцію</string>
+    <string name="colon">": "</string>
+    <string name="express_info_divider">" / "</string>
+    <string name="express_inquiry_data_owner_suffix" />
+    <string name="group_name_banner" />
+    <string name="group_name_basic" />
+    <string name="group_name_enroll" />
+    <string name="group_name_title" />
+    <string name="homepage_barcode_prompt">Скануйте для доступу на головну сторінку</string>
+    <string name="turn_off_hint_title">Попередження</string>
+    <string name="turn_off_phone_event_hint">Відключити функцію? Ви не можете приймати сервісні повідомлення.</string>
+    <string name="turn_off_smart_antispam_hint">Відключити захист від спаму?</string>
+    <string name="turn_on_phone_event_dialog_title">Оновлення умов визначення номера</string>
 </resources>
