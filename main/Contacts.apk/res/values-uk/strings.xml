@@ -1435,4 +1435,13 @@
     <string name="miprofile_finding_label">Пошук візитівки</string>
     <string name="miprofile_request_deleted_or_not_added">Візитівку видалено вбо не додано</string>
     <string name="miprofile_request_header">Обмін запитами (автоматично вийшов за тиждень)</string>
+	<string name="back_view_description">Натисніть для повернення</string>
+    <string name="description_image_button_comma">кома</string>
+    <string name="description_image_button_dial">виклик</string>
+    <string name="description_image_button_plus">плюс</string>
+    <string name="description_image_button_sim1_dial">виклик з sim 1</string>
+    <string name="description_image_button_sim2_dial">виклик з sim 2</string>
+    <string name="dialer_menu_description">Відкрити меню виклику</string>
+    <string name="voip_audio_description">Здійснити виклик VoIP</string>
+    <string name="voip_video_description">Здійснити VoIP відеовиклик</string>
 </resources>

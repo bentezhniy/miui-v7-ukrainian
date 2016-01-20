@@ -4228,4 +4228,12 @@
     <string name="print_remind">Увімкніть службу друку</string>
     <string name="resolver_settings_label">Сортування</string>
 	<string name="free_xiaomi_wifi_connect_summary">Натисніть для підключення %1$s</string>
+	<string name="close_miui_optimization_title">Вимкнення оптимізації MIUI</string>
+    <string name="close_miui_optimization_warning_message">Пристрій перезавантажиться для застосування змін. Увімкнення цієї функції може створити серйозні зміни розташування та інших елементів користувацького інтерфейсу.</string>
+    <string name="miui_experience_optimization">Оптимізація MIUI</string>
+    <string name="open_miui_optimization_title">Оптимізація MIUI</string>
+    <string name="open_miui_optimization_warning_message">Для застосування змін необхідне перезавантаження</string>
+    <string name="optimization_cancel">Скасувати</string>
+    <string name="optimization_close">Вимкнути</string>
+    <string name="optimization_open">Увімкнути</string>
 </resources>

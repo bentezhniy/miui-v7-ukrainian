@@ -600,4 +600,5 @@
     <string name="resend_email_reach_limit_title">Помилка надсилання</string>
     <string name="resend_email_success">Надіслано</string>
     <string name="send_email_activate_message">Надіслано</string>
+	<string name="account_vip_achievements">Досягнення</string>
 </resources>

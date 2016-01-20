@@ -286,4 +286,25 @@
     <string name="trans_scan_invalid_qrcode">Некоректний QR-код</string>
     <string name="trans_scan_qr_code_tips">Скануйте QR-код з нового пристрою</string>
     <string name="trans_show_qr_code_tips">Скануйте QR-код зі старого пристрою</string>
+	<string name="button_send">Надіслати</string>
+    <string name="local_select_audio">Аудіо</string>
+    <string name="local_select_doc">Документи</string>
+    <string name="local_select_image">Фото</string>
+    <string name="local_select_video">Відео</string>
+    <string name="size_byte">б</string>
+    <string name="size_giga_byte">Гб</string>
+    <string name="size_kilo_byte">Кб</string>
+    <string name="size_mega_byte">Мб</string>
+    <string name="trans_operate_func_one">Спосіб 1</string>
+    <string name="trans_operate_func_two">Спосіб 2</string>
+    <string name="trans_receiver_time_remained">Залишилося: %s. Не вимикайте точку доступу Wi-Fi.</string>
+    <string name="trans_select_data">Оберіть дані</string>
+    <string name="trans_select_data_no_space">"Вільно %s на новому пристрої.
+Необхідно звільнити пам'ять."</string>
+    <string name="trans_select_data_tips">"Оберіть файли для надсилання.
+Однакові файли будуть перезаписані."</string>
+    <string name="trans_sender_time_remained">Залишилося: %s. Не вимикайте Wi-Fi мережу.</string>
+    <string name="trans_show_qr_code_label">Підключення старого пристрою</string>
+    <string name="trans_time_spent">Час надсилання: %s</string>
+    <string name="trans_wait_trans_data">Очікування надсилання…</string>
 </resources>

@@ -580,4 +580,5 @@
     <string name="toast_download_in_process">Завантаження…</string>
     <string name="traffic_free_to_play">Використовувати музичний тариф</string>
     <string name="version_info">Версія</string>
+	<string name="disallow_add_to_fm">FM-радіо доступне лише для прослуховування</string>
 </resources>

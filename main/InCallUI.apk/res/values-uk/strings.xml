@@ -1088,4 +1088,5 @@
     <string name="select_sim_hint">Неможливо використовувати SIM-карту %2$d, бо зараз використовується SIM-карта %1$d</string>
     <string name="video_call_not_allowed_if_tty_enabled">Спочатку вимкніть режим TTY</string>
     <string name="video_switch_to_voice_call_prompt">Перемкнути на голосовий виклик</string>
+	<string name="conference_call_single_description" formatted="false">%s і т. ін. | Усього %s</string>
 </resources>

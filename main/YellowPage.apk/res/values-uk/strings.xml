@@ -581,4 +581,21 @@
     <string name="turn_off_phone_event_hint">Відключити функцію? Ви не можете приймати сервісні повідомлення.</string>
     <string name="turn_off_smart_antispam_hint">Відключити захист від спаму?</string>
     <string name="turn_on_phone_event_dialog_title">Оновлення умов визначення номера</string>
+	<string name="miuishare_account_activate_confirmation">Запит активації</string>
+    <string name="miuishare_account_activate_ok">Активувати</string>
+    <string name="miuishare_account_login_cancel">Скасувати</string>
+    <string name="miuishare_account_login_confirmation">Запит авторизації</string>
+    <string name="miuishare_account_login_ok">Увійти</string>
+    <string name="miuishare_account_need_activate">Для надсилання у Weibo необіхідно активувати Mi акаунт</string>
+    <string name="miuishare_account_need_login">Для надсилання у Weibo необіхідно авторизувати Mi акаунт</string>
+    <string name="miuishare_app_name">MiuiShare</string>
+    <string name="miuishare_no_network">Інтернет недоступний</string>
+    <string name="miuishare_publish">Надіслати</string>
+    <string name="miuishare_share_done">Надіслано</string>
+    <string name="miuishare_share_editor_title">Надіслати</string>
+    <string name="miuishare_title_more">Ще</string>
+    <string name="miuishare_title_share">Надіслати</string>
+    <string name="miuishare_wechat_timeline_title">Записи Wechat</string>
+    <string name="miuishare_weibo_title">Weibo</string>
+    <string name="share">Надіслати</string>
 </resources>

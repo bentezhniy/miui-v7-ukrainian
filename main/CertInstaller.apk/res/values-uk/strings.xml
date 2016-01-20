@@ -37,4 +37,38 @@
     <string name="one_wapi_ascrt">один WAPI AS сертифікат</string>
     <string name="one_wapi_usercrt">один WAPI сертифікат користувача</string>
     <string name="sdcard_not_present_sd">SD-карта відсутня</string>
+	<string name="done_label">Готово</string>
+    <string name="install_done">%1$s повноважень, які були додані до збережених Wi-Fi мереж</string>
+    <string name="install_done_title">Повноваження встановлено</string>
+    <string name="wifi_cancel_label">Скасувати</string>
+    <string name="wifi_config_text">"Ім'я: %1$s
+FQDN: %2$s
+Роумінг консорциумів: %3$s
+Сфера: %4$s
+Метод аутен.: EAP-%5$s
+"</string>
+    <string name="wifi_detail_label">Детально</string>
+    <string name="wifi_detail_title">Детально про %s</string>
+    <string name="wifi_dismiss_label">Відхилити</string>
+    <string name="wifi_install_label">Інсталювати</string>
+    <string name="wifi_installer_detail">Інсталюйте Wi-Fi облікові дані для підключення до мереж, доступних через %1$s</string>
+    <string name="wifi_installer_download_error">Завантажений файл має проблеми й не може бути інстальований. Переконайтеся, що Ви завантажили файл з відповідного джерела.</string>
+    <string name="wifi_installer_fail">Помилка інсталяції Wi-Fi повноважень. Завантажте файли знову.</string>
+    <string name="wifi_installer_fail_no_wifi">Увімкніть Wi-Fi та спробуйте знову</string>
+    <string name="wifi_installer_fail_no_wifi_title">Інсталяцію скасовано</string>
+    <string name="wifi_installer_fail_title">Не вдалося інсталювати</string>
+    <string name="wifi_installing_label">Інсталяція</string>
+    <string name="wifi_no_config">Порожньо</string>
+    <string name="wifi_sim_config_text">"SIM: %s
+"</string>
+    <string name="wifi_title">Профіль Wi-Fi</string>
+    <string name="wifi_tls_config_text">"Сертифікат кліента:
+%1$s
+Ключ: %2$s
+"</string>
+    <string name="wifi_trust_config_text">"Довірений сертифікат:
+%s
+"</string>
+    <string name="wifi_ttls_config_text">"Ім'я користувача: %s
+"</string>
 </resources>

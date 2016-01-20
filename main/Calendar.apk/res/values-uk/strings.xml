@@ -455,4 +455,8 @@
 	<string name="network_not_available">Не вдається підключитися до мережі</string>
     <string name="no_network_btn">Повторити</string>
 	<string name="download">Завантажити</string>
+	<string name="download_finished">Завантаження завершене</string>
+    <string name="downloaded">Завантажене</string>
+    <string name="downloading">Завантаження…</string>
+    <string name="downloading_wallpaper">Завантаження шпалер…</string>
 	</resources>

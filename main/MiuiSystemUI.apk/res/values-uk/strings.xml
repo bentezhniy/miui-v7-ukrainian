@@ -286,4 +286,6 @@ d MMMM yyyy"</string>
     <string name="screen_pinning_positive">ОК</string>
     <string name="screen_pinning_title">Екран заблоковано</string>
 	<string name="task_access_locked_app_msg">"Вміст застосунку приховано"</string>
+	<string name="accessibility_managed_profile">Робочий профіль</string>
+    <string name="managed_profile_foreground_toast">Використовується робочий профіль</string>
 </resources>

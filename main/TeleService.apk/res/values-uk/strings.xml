@@ -1841,4 +1841,15 @@ sim карта буде очищена при невдалій спробі вв
     <string name="vt_voice_connecting">Очікування голосового виклику</string>
     <string name="vt_wait_voice">Очікування голосового виклику</string>
     <string name="which_call_to_activate">Який виклик активувати?</string>
+	<string name="anc_off">ANC вимкнено</string>
+    <string name="anc_on">ANC увімкнено</string>
+    <string name="anc_title">Активне шумозаглушення</string>
+    <string name="fdn_puk_need_tips">PIN2 заблоковано. Змініть PIN2 та спробуйте знову.</string>
+    <string name="loading_order">Завантаження…</string>
+    <string name="magi_conference_summary">Покращення якості голосового виклику</string>
+    <string name="magi_conference_title">Magi Конференція</string>
+    <string name="notification_network_selection_without_operator">Обрана мережа недоступна</string>
+    <string name="notification_voicemail_text">Оберіть для перегляду голосової пошти</string>
+    <string name="sim_card_num">SIM %s</string>
+    <string name="sim_card_summary_no_sim_card">Вставте SIM-карту</string>
 </resources>
