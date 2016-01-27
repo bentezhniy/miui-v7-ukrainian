@@ -605,9 +605,9 @@ sim карта буде очищена при невдалій спробі вв
     <string name="add">Додати</string>
     <string name="undefined">Невідомо</string>
     <string name="remove">Видалити</string>
-    <string name="telocation_setting">Місце розташування</string>
+    <string name="telocation_setting">Геолокація</string>
     <string name="telocation_show_settings">Відображення</string>
-    <string name="telocation_enable_title">Показувати місце розташування</string>
+    <string name="telocation_enable_title">Показувати геолокацію</string>
     <string name="telocation_custom_location_title">Коди регіонів</string>
     <string name="telocation_custom_location_summary">Керування кодами регіонів і країн</string>
     <string name="telocation_call_assistant">Телефонний помічник</string>
@@ -662,7 +662,7 @@ sim карта буде очищена при невдалій спробі вв
     <string name="autoip_setting">Автонабір IP</string>
     <string name="autoip_summary">Додавати префікс IP для міжміських номерів</string>
     <string name="autoip_current_areacode">Поточний код регіону:</string>
-    <string name="autoip_current_areacode_summary">Код вашого поточного місця розташування</string>
+    <string name="autoip_current_areacode_summary">Код Вашої поточної локації</string>
     <string name="autoip_support_local_numbers">Завжди використовувати префікс IP</string>
     <string name="autoip_add_zero_prefix">Додати префікс 0 для мобільних</string>
     <string name="autoip_exception">Виключення</string>
@@ -843,12 +843,12 @@ sim карта буде очищена при невдалій спробі вв
     <string name="select_voice_call_sim">Виберіть SIM карту</string>
     <string name="general_setting">Загальні</string>
     <string name="call_record_setting">Запис викликів</string>
-    <string name="preference_telocation_title">Місце розташування</string>
+    <string name="preference_telocation_title">Геолокація</string>
     <string name="cloud_antispam_title">Визначення невідомих номерів</string>
     <string name="preference_auto_ip_summary_disable">Вимкнене</string>
     <string name="preference_dial_pad_touch_tone_title">Звук при наборі номера</string>
-    <string name="preference_telocation_summary_teloc_off">Приховувати місце розташування</string>
-    <string name="preference_telocation_summary_teloc_on">Показувати місце розташування</string>
+    <string name="preference_telocation_summary_teloc_off">Приховувати геолокацію</string>
+    <string name="preference_telocation_summary_teloc_on">Показувати геолокацію</string>
     <string name="preference_telocation_summary_countrycode_on">набирати код країни</string>
     <string name="preference_dial_pad_touch_tone_default">За замовчуванням</string>
     <string name="preference_dial_pad_touch_tone_piano">Піаніно</string>

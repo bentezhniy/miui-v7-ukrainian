@@ -14,7 +14,7 @@
     <string name="network_unavaliable">Мережа недоступна. Будь ласка, перевірте налаштування мережі.</string>
     <string name="service_unavailiable">Мережа недоступна. Повторіть спробу пізніше.</string>
     <string name="data_error">Сервіс недоступний. Повторіть спробу пізніше.</string>
-    <string name="locating_fail">Помилка визначення місця розташування, перевірте параметри служби.</string>
+    <string name="locating_fail">Помилка визначення геолокації, перевірте параметри служби.</string>
     <string name="no_more_result">Нічого не знайдено</string>
     <string name="downloading">Завантаження...</string>
     <string name="download_completed">Завантаження завершене (%s)</string>
@@ -250,7 +250,7 @@
     <string name="express_contact_phone">Введіть свій номер телефону</string>
     <string name="express_contact_phone_finding">Отримання номера телефону...</string>
     <string name="express_contact_address">Введіть свою адресу</string>
-    <string name="express_contact_address_finding">Пошук розташування...</string>
+    <string name="express_contact_address_finding">Пошук геолокації...</string>
     <string name="express_dest_city_label">Пункт призначення</string>
     <string name="express_select_city">Вибрати місто</string>
     <string name="express_company_phone_prefix">Контакт:</string>
@@ -273,7 +273,7 @@
     <string name="balance_inquiry_send_sms_fail_hint">Помилка надсилання SMS. Перевірте стан SIM карти.</string>
     <string name="navigation_search_default_hint">Пошук</string>
     <string name="navigation_search_automatically_positioned_city">Поточне місто</string>
-    <string name="navigation_search_positioning">Пошук розташування...</string>
+    <string name="navigation_search_positioning">Пошук геолокації...</string>
     <string name="navigation_search_positioning_failed">Виберіть місто</string>
     <string name="navigation_search_no_city_list">Немає результатів</string>
     <string name="navigation_search_hot_cities">Популярні</string>
@@ -519,7 +519,7 @@
     <string name="express_copied">Номер відстеження скопійовано</string>
     <string name="express_copy_number">Копіювати</string>
     <string name="express_inquiry_logistics_prefix">"Кур'єри: %s"</string>
-    <string name="express_location_failed">Місце розташування не знайдено. Введіть адресу.</string>
+    <string name="express_location_failed">Геолокацію не визначено. Введіть адресу.</string>
     <string name="express_order_state">%1$s / %2$s</string>
     <string name="express_send_mms">Надіслати</string>
     <string name="express_send_mms_format">Посилка відправлена по %1$s. Номер відстеження: %2$s.</string>
@@ -561,8 +561,8 @@
     <string name="view_orders">Показати замовлення</string>
     <string name="yellowpage_navigation_network_location_enable">Дозволити</string>
     <string name="yellowpage_navigation_network_location_enable_later">Скасувати</string>
-    <string name="yellowpage_navigation_network_location_enabled">Доступ до місця розташування дозволено</string>
-    <string name="yellowpage_navigation_network_location_not_enabled_summary">Дозволити доступ до вашого місця розташування для поліпшення сервісів пошуку?</string>
+    <string name="yellowpage_navigation_network_location_enabled">Доступ до геолокації дозволено</string>
+    <string name="yellowpage_navigation_network_location_not_enabled_summary">Дозволити доступ до Вашої геолокації для поліпшення сервісів пошуку?</string>
     <string name="yellowpage_navigation_network_location_not_enabled_title">Попередження</string>
     <string name="yuan">Юань</string>
 	<string name="follow_processing">Обробка</string>

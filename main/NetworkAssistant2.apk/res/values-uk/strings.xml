@@ -507,7 +507,7 @@
     <string name="notify_daily_traffic_saving_title">Сьогодні використано: %s</string>
     <string name="notify_setting_pkg_title_for_slotnum">Встановити місячний межа для %s</string>
     <string name="open_now">Дозволити застосунку використати мобільний інтернет</string>
-    <string name="operator_setted_error_dialog_message">Ви використовуєте SIM карту із %1$s. Це відрізняється від місця розташування, яке встановлене вручну (%2$s). Змінити місце розташування SIM карти на %3$s?</string>
+    <string name="operator_setted_error_dialog_message">Ви використовуєте SIM карту із %1$s. Це відрізняється від геолокації, встановленої вручну (%2$s). Змінити геолокацію SIM карти на %3$s?</string>
     <string name="operator_setted_error_notify_message">Натисніть для зміни SIM</string>
     <string name="operator_setted_error_notify_title">Помилка SIM карти</string>
     <string name="other_exception_summary">Інтернет недоступний</string>

@@ -5,13 +5,13 @@
     <string name="act_find_city_hint">Пошук з 2400 міст (Chinese/Pinyin)</string>
     <string name="act_find_city_hot_title">Популярні міста</string>
     <string name="act_find_city_null_data">Запитуване місто не знайдене</string>
-    <string name="act_find_city_title">Додаті місце розташовання</string>
+    <string name="act_find_city_title">Додати локацію</string>
     <string name="act_set_city_delete_city">Ви впевнені, що хочете видалити %s?</string>
-    <string name="act_set_city_delete_title">Видалити місце розташування</string>
+    <string name="act_set_city_delete_title">Видалити локацію</string>
     <string name="act_set_city_find_side">Перепозиціонування…</string>
     <string name="act_set_city_find_side_error">Не знайдено</string>
     <string name="act_set_city_find_side_on">Увімкнути GPS</string>
-    <string name="act_set_city_title">Змінити місце знаходження</string>
+    <string name="act_set_city_title">Змінити локацію</string>
     <string name="act_weather_cycle_add_city">Зберегти позицію</string>
     <string name="act_weather_cycle_offreport">Ні</string>
     <string name="act_weather_cycle_update">Оновлення…</string>
@@ -24,8 +24,8 @@
     <string name="address">Адреса:</string>
     <string name="alarm">Нагадування</string>
     <string name="alarming">Додано ​​нагадування:%1$s %2$s</string>
-    <string name="alert_provider_message">Дозволити застосунку використовувати Ваше поточне місце розташування?</string>
-    <string name="alert_provider_title">Повідомлення місця розташування</string>
+    <string name="alert_provider_message">Дозволити застосунку використовувати Ваше поточну геолокацію?</string>
+    <string name="alert_provider_title">Повідомлення локації</string>
     <string name="all_resources">Всі</string>
     <string name="app_def_city">Пекін</string>
     <string name="app_del">Видалити</string>
@@ -57,7 +57,7 @@
     <string name="app_w_1x4">Погода 1x4</string>
     <string name="app_w_1x4_color">Погода 1x4</string>
     <string name="app_w_2x4">Погода 2x4</string>
-    <string name="app_weather_friend_1">Відкрити поточне місце розташуванн, щоб нагадати</string>
+    <string name="app_weather_friend_1">Відкрити поточну геолокацію, щоб нагадати</string>
     <string name="app_weather_friend_2">Повідомляти про раптову погоду (дощ, сніг, холодно)</string>
     <string name="app_weather_friend_btn">Додати контакт</string>
     <string name="app_weather_friend_delete_title">Видалити контакт</string>
@@ -136,7 +136,7 @@
     <string name="menu_cycle">Прогноз погоди</string>
     <string name="menu_detail">Детальніше</string>
     <string name="menu_long_press_launch">Довго натисніть МЕНЮ, щоб запустити</string>
-    <string name="menu_new">Місцезнаходження</string>
+    <string name="menu_new">Геолокація</string>
     <string name="menu_range">Погода</string>
     <string name="menu_reload">Оновлення</string>
     <string name="menu_report_off">Звіт вимкнений</string>
@@ -404,7 +404,7 @@
     <string name="today_date">%1$s, %2$s</string>
     <string name="tts_voice_effect">Голосовий ефект</string>
     <string name="unknown_artist">Невідомий виконавець</string>
-    <string name="unknown_location">Не можу визначити місце розташування</string>
+    <string name="unknown_location">Не можу визначити геолокацію</string>
     <string name="unknown_num">Невідомий номер</string>
     <string name="unknown_website">Не можу знайти адресу веб-сайту</string>
     <string name="user_upload_success">Адресна книга успішно завантажена</string>

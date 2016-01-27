@@ -758,13 +758,13 @@
     <string name="international_dialing_add_country_code" formatted="false">"Схоже, що ви набираєте номер іншої країни: %s. Додати код країни (+%s)?"</string>
     <string name="international_dialing_add_country_code_and_area_code">"Схоже, що ви набираєте номер іншої країни: %1$s, %2$s. Додати код країни та код міста (+%3$s)?"</string>
     <string name="international_dialing_add_country_code_and_area_code_without_prefix">Додати код країни та код міста?</string>
-    <string name="international_dialing_add_country_code_default_input_area_code" formatted="false">"Схоже, що ви набираєте номер іншої країни: %s. Якщо ваше місце розташування не: %s, введіть код країни."</string>
+    <string name="international_dialing_add_country_code_default_input_area_code" formatted="false">"Схоже, що ви набираєте номер іншої країни: %s. Якщо Ваша геолокація не: %s, введіть код країни."</string>
     <string name="international_dialing_add_country_code_input_area_code">"Схоже, що ви набираєте номер іншої країни: %s. Якщо це так, будь ласка, введіть код країни."</string>
     <string name="international_dialing_area_code">Код країни</string>
     <string name="international_dialing_call_button">Дзвінок</string>
     <string name="international_dialing_change_country_prefix">"Схоже, що ви не вірно набираєте номер %s. Додати префікс міжнародного виклику '+'?"</string>
     <string name="international_dialing_click_below_button">Натисніть на кнопку нижче, щоб змінити код країни.</string>
-    <string name="international_dialing_confirm_area_code">Якщо ваше місце розташування не %s, введіть код країни або код міста.</string>
+    <string name="international_dialing_confirm_area_code">Якщо Ваша геолокація не %s, введіть код країни або код міста.</string>
     <string name="international_dialing_dialed_number">Набір номера:</string>
     <string name="international_dialing_input_area_code">Введіть код країни</string>
     <string name="international_dialing_invalid_number">Некоректний номер. Все одно продовжити виклик?</string>

@@ -28,8 +28,8 @@
     <string name="error_data_in_transfer">Ваші дані передаються. Залишилось годин: %s.</string>
     <string name="activate">Активувати</string>
     <string name="no_sim">SIM-карта не виявлена</string>
-    <string name="find_device_status_ok">Пошук місця розташування вашого пристрою на сайті: i.mi.com</string>
-    <string name="find_device_status_ok_international">Пошук вашеого пристрою через сайт www.mi.com/micloud</string>
+    <string name="find_device_status_ok">Визначення гелокації Вашого пристрою на сайті: i.mi.com</string>
+    <string name="find_device_status_ok_international">Пошук Вашого пристрою через сайт www.mi.com/micloud</string>
     <string name="account">Аккаунт</string>
     <string name="verify">Перевірити</string>
     <string name="next">Далі</string>
@@ -275,7 +275,7 @@ ID Вашого пристрою буде зашифровано і відпра
     <string name="buy_space_sulotion_renew_message">Дійсно до %s</string>
     <string name="buy_space_sulotion_auto_renew">Автопоповнення</string>
     <string name="buy_space_sulotion_not_auto_renew">Не оновлювати автоматично</string>
-    <string name="cloud_space_upgrade_title">Отриайте місце</string>
+    <string name="cloud_space_upgrade_title">Отримайте місце</string>
     <string name="cloud_space_upgrade_message">Натисніть, щоб отримати %s Гб безкоштовно у цьому місяці.</string>
     <string name="cloud_space_upgrade_no_quota_info">Невірні дані. Повторіть ще раз.</string>
     <string name="micloud_other_product_price">Інші аналогічні ціни:</string>

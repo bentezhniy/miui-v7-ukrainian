@@ -15,37 +15,37 @@
 	<string name="weather_unit_with_c">C</string>
 	<string name="view_aqi_time_format">d.MM.yyyy HH:mm</string>
 	<string name="app_name">Погода</string>
-	<string name="location_management">Розташування</string>
-	<string name="gps_hint">Поточне місце розташування</string>
+	<string name="location_management">Геолокація</string>
+	<string name="gps_hint">Поточна локація</string>
 	<string name="add_city">Додати</string>
 	<string name="edit_city">Змінити</string>
-	<string name="network_unavailable">Не вдається підключитися до інтернету</string>
+	<string name="network_unavailable">Не вдається підключитися до Інтернету</string>
 	<string name="act_find_city_hot_title">Додати</string>
 	<string name="act_find_city_hint">Пошук (англ.)</string>
-	<string name="act_set_city_find_side">Пошук розташування...</string>
-	<string name="act_set_city_find_side_error">Не вдається знайти місце розташування</string>
-	<string name="menu_location">Розташування</string>
+	<string name="act_set_city_find_side">Визначення геолокації...</string>
+	<string name="act_set_city_find_side_error">Не вдається визначити локацію</string>
+	<string name="menu_location">Геолокація</string>
 	<string name="button_allow">OK</string>
-	<string name="button_abandon">редагувати</string>
+	<string name="button_abandon">Редагувати</string>
 	<string name="button_not_allow">Скасувати</string>
-	<string name="location_allow_err">Не вдається знайти місце розташування</string>
+	<string name="location_allow_err">Не вдається знайти локацію</string>
 	<string name="view_aqi_title">Якість повітря</string>
-	<string name="act_weather_find_city_net_no_good">Не вдається підключитися до інтернету</string>
+	<string name="act_weather_find_city_net_no_good">Не вдається підключитися до Інтернету</string>
 	<string name="act_weather_find_city_click_retry">Повтор</string>
-	<string name="act_weather_find_city_connect_net">Не вдається підключитися до інтернету</string>
+	<string name="act_weather_find_city_connect_net">Не вдається підключитися до Інтернету</string>
 	<string name="act_weather_find_city_searching">Пошук...</string>
 	<string name="loading_weather">Завантаження...</string>
 	<string name="act_weather_cycle_link_china">WeatherChina</string>
 	<string name="menu_add">Додати</string>
 	<string name="menu_more">Інформація</string>
-	<string name="location_tag">Розташування</string>
+	<string name="location_tag">Геолокація</string>
 	<string name="act_weather_find_city_no_result">Немає результатів</string>
 	<string name="act_weather_find_city_added">Додано</string>
 	<string name="view_aqi_source">Китайський національний центр дослідження навколишнього середовища</string>
 	<string name="view_aqi_pubtime">Оновлено %1$s</string>
 	<string name="view_aqi_pubtime_format">HH:mm, dd MMMM</string>
-	<string name="activity_weathermain_locationg">Пошук розташування...</string>
-	<string name="activity_weathermain_locationg_error">Не вдалось знайти місце розташування</string>
+	<string name="activity_weathermain_locationg">Пошук локації...</string>
+	<string name="activity_weathermain_locationg_error">Не вдалось знайти локацію</string>
 	<string name="view_indexes_title_humidity">Вологість (%)</string>
 	<string name="view_indexes_title_visibility">Видимість (км)</string>
 	<string name="view_indexes_title_uv">Індекс УФ</string>
@@ -61,11 +61,11 @@
 	<string name="activity_main_update_time">Оновлено %1$s</string>
 	<string name="activity_main_update_time_right_now">тільки що</string>
 	<string name="activity_main_refresh_timeout">Час вичерпано</string>
-	<string name="activity_main_refresh_fail">Не вдається підключитися до інтернету</string>
+	<string name="activity_main_refresh_fail">Не вдається підключитися до Інтернету</string>
 	<string name="activity_find_city_dialog_cancel">Скасувати</string>
 	<string name="activity_find_city_dialog_set">Налаштування</string>
-	<string name="activity_find_city_dialog_title">Розташування</string>
-	<string name="activity_find_city_dialog_message">Служба розташування</string>
+	<string name="activity_find_city_dialog_title">Геолокація</string>
+	<string name="activity_find_city_dialog_message">Служба геолокації</string>
 	<string name="view_sun_titile">Схід і захід</string>
 	<string name="data_source_time_fromat">"dd.MM.yyyy'T'HH:mm:ss"</string>
 	<string name="activity_main_time_format">d MMM</string>
@@ -76,7 +76,7 @@
 		</sup>
 	</string>
 	<string name="view_aqi_detail_title">Інформація ІКВ</string>
-	<string name="first_start_network_msg">Для отримання прогнозу погоди необхідно підключення до інтернету</string>
+	<string name="first_start_network_msg">Для отримання прогнозу погоди необхідно підключення до мережі</string>
 	<string name="first_start_network_title">Попередження</string>
 	<string name="international_detail_menu_title">Інформація</string>
 	<string name="share_menu_title">Поділитися</string>
@@ -89,8 +89,6 @@
 	<string name="share_weather_desc_split">", "</string>
 	<string name="share_weather_desc">\#Погода MIUI #Сьогодні: %1$s %2$s</string>
 	<string name="share_weather_desc_alert">%1$s%2$s</string>
-
-
 	<string name="view_realtime_clear_substitution">Ясно</string>
 	<string name="act_weather_find_city_china">Китай</string>
 	<string name="edit_alert_city_title">Налаштування попереджень</string>
@@ -113,7 +111,7 @@
     <string name="loading">Завантаження…</string>
     <string name="loading_resource_detail_fail">Не вдалося завантажити ресурс</string>
     <string name="loading_resource_detail_info">Завантаження…</string>
-    <string name="online_no_network">"Не вдається під'єднатися до інтернету"</string>
+    <string name="online_no_network">"Не вдається під'єднатися до Інтернету"</string>
     <string name="online_search_hint">Введіть ключові слова</string>
     <string name="resource_account_abnormal_state">Помилка облікового запису. Спробуйте пізніше.</string>
     <string name="resource_account_fail_to_add">Не вдалося додати обліковий запис</string>
@@ -226,7 +224,7 @@
     <string name="resource_mute">Без звуку</string>
     <string name="resource_my">Локальні</string>
     <string name="resource_no_match_app">Тип файла не підтримується</string>
-    <string name="resource_no_network_text">"Не вдається під'єднатися до інтернету"</string>
+    <string name="resource_no_network_text">"Не вдається під'єднатися до Інтернету"</string>
     <string name="resource_no_result">Немає результатів</string>
     <string name="resource_notification_default">Сповіщення</string>
     <string name="resource_on_trial">Застосування пробної версії: %1$s</string>
