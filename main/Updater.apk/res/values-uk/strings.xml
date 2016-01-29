@@ -10,7 +10,7 @@
     <string name="get_current">Завантажити поточну прошивку</string>
     <string name="check_new_version">Перевірити нову версію</string>
     <string name="download_diff">Завантажити інкрементне оновлення</string>
-    <string name="download_full">Скачати повну прошивку</string>
+    <string name="download_full">Завантажити повну прошивку</string>
     <string name="download_cancel">Скасувати завантаження</string>
     <string name="install">Встановити</string>
     <string name="install_local">Вибрати файл прошивки</string>
@@ -33,7 +33,7 @@
     <string name="apply_title">Оновлення %s</string>
     <string name="timer_title">Перезавантаження через %d сек.</string>
     <string name="progress_title_checking">Перевірка оновлень…</string>
-    <string name="menu_title_download_current_rom">Скачати повну прошивку</string>
+    <string name="menu_title_download_current_rom">Завантажити повну прошивку</string>
     <string name="menu_title_pick_rom_file">Вибрати файл прошивки</string>
     <string name="menu_title_recovery">Перезавантаження в Recovery</string>
     <string name="menu_title_current_version_log">Список змін</string>
@@ -61,7 +61,7 @@
     <string name="notification_updating">Оновлення системи…</string>
     <string name="set_network_title">Інтернет недоступний</string>
     <string name="set_network_msg">Перевірте параметри завантаження оновлень</string>
-    <string name="set_installfail_title">Скачати повну прошивку?</string>
+    <string name="set_installfail_title">Завантажити повну прошивку?</string>
     <string name="set_installfail_msg">При завантаженні оновлення може стягуватися додаткова плата</string>
     <string name="set_installfail_title_full">Помилка оновлення</string>
     <string name="set_installfail_full_msg">Не вдалося встановити оновлення. Відправити звіт розроблювачам?</string>
@@ -72,13 +72,13 @@
     <string name="space_not_enough_msg">Недостатньо місця для завантаження прошивки</string>
     <string name="clean_up_button">Очистити</string>
     <string name="no_wifi_title">Попередження</string>
-    <string name="no_wifi_msg">Розмір прошивки занадто великий, рекомендується скачати його по мережі Wi-Fi. Продовжити завантаження через мобільний інтернет?</string>
+    <string name="no_wifi_msg">Розмір прошивки занадто великий, рекомендується завантажити його по мережі Wi-Fi. Продовжити завантаження через мобільний інтернет?</string>
     <string name="go_on_download">Завантажити</string>
     <string name="pause">Пауза</string>
     <string name="repeat">Повтор</string>
     <string name="user_begin">ОК</string>
     <string name="validate_pkg_failed_title">Помилка перевірки</string>
-    <string name="validate_pkg_failed_msg">Завантажена прошивка не з офіційного сайту. Рекомендуємо скачати повторно.</string>
+    <string name="validate_pkg_failed_msg">Завантажена прошивка не з офіційного сайту. Рекомендуємо завантажити повторно.</string>
     <string name="user_intertup_download_title">Продовжити завантаження?</string>
     <string name="user_intertup_download_msg">Завантаження оновлення зупинене</string>
     <string name="check_update_when_wifi_available_sum">Перевіряти оновлення тільки по мережі Wi-Fi</string>
@@ -225,7 +225,7 @@
     <string name="finish_download">Завантаження завершене</string>
     <string name="install_email">Будь ласка, встановіть програмне забезпечення для електронної пошти</string>
     <string name="install_rom_from_sd">Вибрати прошивку</string>
-    <string name="install_whole_rom">Рекомендується скачати повну прошивку</string>
+    <string name="install_whole_rom">Рекомендується завантажити повну прошивку</string>
     <string name="kernel_upgrade_link" />
     <string name="kernel_upgrade_version" />
     <string name="md5_check_cancelled">Перевірка MD5 скасована</string>
@@ -282,7 +282,7 @@
     <string name="verify_and_apply_dialog_message">Перевірка контрольної суми</string>
     <string name="verify_and_apply_dialog_title">Перевірка цілісності файлу</string>
     <string name="view_install_log">Перегляд журналу</string>
-    <string name="wifi_not_available_body">Файл прошивки занадто великий, рекомендується скачати його через Wi-Fi. Ваш Wi-Fi зараз вимкнений, ви прагнете продовжити завантаження через мобільну мережу?</string>
+    <string name="wifi_not_available_body">Файл прошивки занадто великий, рекомендується завантажити його через Wi-Fi. Ваш Wi-Fi зараз вимкнений, ви прагнете продовжити завантаження через мобільну мережу?</string>
     <string name="wifi_not_available_title">Wi-Fi вимкнений</string>
     <string name="button_text_reboot_now">Перезавантаження</string>
     <string name="download_rom_update_timer">Завантаження прошивання через %d сек.</string>

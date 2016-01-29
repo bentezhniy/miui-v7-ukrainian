@@ -295,4 +295,9 @@
 	<string name="add_screen">Додати екранну клавішу</string>
     <string name="delete_screen">Видалити екранну клавішу</string>
     <string name="screen_number">Екран %d</string>
+	<string name="apply">Застосувати</string>
+    <string name="like">Подобається</string>
+    <string name="liked">Сподобалося</string>
+    <string name="settings">Налаштування</string>
+    <string name="share">Надіслати</string>
 </resources>

@@ -846,4 +846,7 @@
 	<string name="operation_add_secret_button">До прихованого альбому</string>
     <string name="operation_remove_from_face_album_button">Перемістити</string>
     <string name="operation_remove_secret_button">Прибрати з альбому</string>
+	<string name="beautyphone">Snapseed</string>
+    <string name="dcim_opaipic">Viber</string>
+    <string name="qsbk_save">Photo Collada</string>
 </resources>

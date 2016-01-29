@@ -167,4 +167,8 @@
     <string name="paste">Вставити</string>
     <string name="vernal_equinox">Весняне рівнодення</string>
     <string name="winter_solstice">Зимове сонцестояння</string>
+	<string name="vip_achievements">Досягнення</string>
+    <string name="vip_level">LV %d</string>
+    <string name="vip_not_login">Вхід не здійснено</string>
+    <string name="vip_sign">Підпис:</string>
 </resources>

@@ -4236,4 +4236,9 @@
     <string name="optimization_cancel">Скасувати</string>
     <string name="optimization_close">Вимкнути</string>
     <string name="optimization_open">Увімкнути</string>
+	<string name="battery_light_summary">Вмикати під час зарядки</string>
+    <string name="battery_light_title">Індикатор заряду батареї</string>
+    <string name="managed_profile_location_category">Робочий профіль</string>
+    <string name="managed_profile_location_switch_lockdown">Вимкнено Вашою компанією</string>
+    <string name="managed_profile_location_switch_title">Локація робочого профілю </string>
 </resources>

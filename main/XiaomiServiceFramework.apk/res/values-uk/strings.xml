@@ -113,4 +113,10 @@
     <string name="activate_popup_desc_error_device_id">Наберіть *#06# для перевірки IMEI</string>
     <string name="activate_popup_title_error_device_id">Помилка IMEI</string>
     <string name="activate_status_desc_device_id_error">Помилка IMEI</string>
+	<string name="activate_history_cancelled">Скасовано</string>
+    <string name="activate_history_multisim_overview">Активація SIM карти %3$d %1$s функцією \"%2$s\"</string>
+    <string name="activate_history_overview">Активація SIM карти %1$s функцією \"%2$s\"</string>
+    <string name="activate_history_sms">Під час активації надіслане SMS</string>
+    <string name="activate_history_success">Готово</string>
+    <string name="activate_history_title">Активація SIM карти</string>
 </resources>

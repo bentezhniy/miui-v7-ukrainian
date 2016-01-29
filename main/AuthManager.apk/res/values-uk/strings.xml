@@ -401,4 +401,8 @@
     <string name="screen_overlay_button">Налаштування</string>
     <string name="screen_overlay_message">Для зміни цього дозволу потрібно вимкнути накладання екрану в налаштуваннях</string>
     <string name="screen_overlay_title">Виявлення накладань екрану</string>
+	<string name="HIPS_Perm_install_shortcut">Інсталяція ярликів</string>
+    <string name="HIPS_Perm_install_shortcut_Desc">Додати ярлик на стільницю</string>
+    <string name="HIPS_Perm_process_nfc">NFC</string>
+    <string name="HIPS_Perm_process_nfc_Desc">Доступ до обладнання NFC</string>
 </resources>

@@ -572,4 +572,5 @@
 	<string name="backup_checkbox_msg">Створювати бекап та показувати сповіщення</string>
     <string name="notification_wechat_auto_backup_hint">Натисніть для перегляду</string>
     <string name="notification_wechat_auto_backup_switch_title">Бекап відео WeChat</string>
+	<string name="encrypt_prefix">Приховане</string>
 </resources>
