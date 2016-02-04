@@ -246,4 +246,7 @@
     <string name="unknown_apps_admin_dlg_text">Адміністратор не дозволяє інсталяцію застосунків, отриманих з невідомих джерел</string>
     <string name="v7_preference_off">Вимк.</string>
     <string name="v7_preference_on">Увімк.</string>
+	<string name="unknown_apps_dlg_text1">"На пристрої заблоковано інсталяцію застосунків з невідомих джерел. Ви можете вимкнути цю функцію у "</string>
+    <string name="unknown_apps_dlg_text2">\"Налаштуваннях\"</string>
+    <string name="unknown_apps_dlg_text3">.</string>
 </resources>

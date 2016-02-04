@@ -9,4 +9,5 @@
     <string name="default_cateogry_intermediary">Посередник</string>
     <string name="default_cateogry_meal_delivery">Доставка їжі</string>
     <string name="default_cateogry_sales">Продажі</string>
+	<string name="siminfo_default_name">SIM %d</string>
 </resources>

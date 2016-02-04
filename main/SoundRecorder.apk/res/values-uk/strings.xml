@@ -117,4 +117,5 @@
     <string name="cloud_status_full_dialog_msg">"Хмарне сховище заповнене, синхронізувати записи неможливо. Оновіть свій акаунт, щоб отримати більше вільного місця."</string>
     <string name="cloud_status_full_dialog_ok">Оновити</string>
     <string name="cloud_status_full_dialog_title">Сховище Mi Cloud заповнено</string>
+	<string name="record_name_minute" />
 </resources>

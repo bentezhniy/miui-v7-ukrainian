@@ -598,4 +598,5 @@
     <string name="miuishare_wechat_timeline_title">Записи Wechat</string>
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="share">Надіслати</string>
+	<string name="yellow_page_details">Детальна інформація</string>
 </resources>

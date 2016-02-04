@@ -1852,4 +1852,14 @@ sim карта буде очищена при невдалій спробі вв
     <string name="notification_voicemail_text">Оберіть для перегляду голосової пошти</string>
     <string name="sim_card_num">SIM %s</string>
     <string name="sim_card_summary_no_sim_card">Вставте SIM-карту</string>
+	<string name="operator_first_mins_hint">xx хв.</string>
+    <string name="operator_first_mins_none_summary">Спочатку поповніть пакет</string>
+    <string name="operator_first_mins_none_title">Усі хвилини використано</string>
+    <string name="operator_first_no_set">Не встановлено</string>
+    <string name="operator_first_set_failed">Не вдалося</string>
+    <string name="operator_first_sim_card_changed_summary">Ануляція пакету операторських хвилин</string>
+    <string name="operator_first_sim_card_changed_title">Зміна SIM-карти</string>
+    <string name="operator_first_title">Спочатку оператор</string>
+    <string name="operator_remain_mins">Пакет операторських хвилин</string>
+    <string name="operator_remain_mins_value">%1$s хв.</string>
 </resources>

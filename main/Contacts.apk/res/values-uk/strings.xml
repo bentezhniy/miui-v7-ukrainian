@@ -1445,4 +1445,5 @@
     <string name="voip_audio_description">Здійснити виклик VoIP</string>
     <string name="voip_video_description">Здійснити VoIP відеовиклик</string>
 	<string name="group_detail_label_placeholder"> </string>
+	<string name="menu_newContactButton">Додати</string>
 </resources>
