@@ -554,8 +554,8 @@
     <string name="free">Вільно</string>
     <string name="square">Площа</string>
     <string name="original_scale">Початковий розмір</string>
-    <string name="impunity_declaration_title">Дозволити застосунку доступ до інтернету?</string>
-    <string name="impunity_declaration">При використанні хмарних альбомів потрібен доступ до інтернету</string>
+    <string name="impunity_declaration_title">Попередження</string>
+    <string name="impunity_declaration">Використовуючи цей сервіс, Ви погоджуєтеся з %1$s і %2$s. Для нормальної роботи потрібне підключення до мережі.</string>
     <string name="impunity_declaration_ignore">"Запам'ятати"</string>
     <string name="impunity_declaration_positive_text">Продовжити</string>
     <string name="impunity_declaration_settings">Запитувати доступ до інтернету</string>
