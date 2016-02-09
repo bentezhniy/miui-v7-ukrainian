@@ -946,7 +946,7 @@
     <string name="ringLabelsGroup">Мелодія</string>
     <string name="default_ringtone">Мелодія за замовчуванням</string>
     <string name="recent_number">Останній</string>
-    <string name="cloud_antispam_mark">Помітити</string>
+    <string name="cloud_antispam_mark">Мітка</string>
     <string name="antispam_mark_my_contribution">Показувати іншим користувачам, що я відмітив цей номер.</string>
     <string name="antispam_provider_format">Підтримка: %s</string>
     <string name="type_mx_msg">Хмарні повідомлення</string>

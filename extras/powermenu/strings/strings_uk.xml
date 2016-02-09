@@ -5,4 +5,6 @@
     <string name="label_shutdown">Вимкнення</string>
     <string name="label_alert_reboot">Натисніть, щоб перезавантажити</string>
     <string name="label_alert_shutdown">Натисніть, щоб вимкнути</string>
+	<string name="label_alert_recovery">Recovery</string>
+    <string name="label_alert_bootloader">Bootloader</string>
 </resources>

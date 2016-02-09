@@ -155,7 +155,7 @@
     <string name="power_settings_title">Налаштування батареї</string>
     <string name="power_settings_category_title">Індикатор батареї</string>
     <string name="power_settings_shape">Графічний</string>
-    <string name="power_settings_number">Процентний</string>
+    <string name="power_settings_number">Відсотки заряду</string>
     <string name="power_settings_top">Смуга в рядку стану</string>
     <string name="power_save_on_time_goout_title">Режим по закінченню періоду</string>
     <string name="power_save_choose_recovery_mode">Режим</string>

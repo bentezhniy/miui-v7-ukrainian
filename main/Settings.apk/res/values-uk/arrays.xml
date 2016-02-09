@@ -453,7 +453,7 @@
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Графічний</item>
-        <item>Процентний</item>
+        <item>Відсоток заряду</item>
         <item>Смуга в рядку стану</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
