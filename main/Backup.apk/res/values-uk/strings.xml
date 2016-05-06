@@ -307,4 +307,38 @@
     <string name="trans_show_qr_code_label">Підключення старого пристрою</string>
     <string name="trans_time_spent">Час надсилання: %s</string>
     <string name="trans_wait_trans_data">Очікування надсилання…</string>
+	<string name="guarded_mode_dialog_backup_message">Резервне копіювання недоступне у гостьовому режимі</string>
+    <string name="guarded_mode_dialog_transfer_message">Неможна використовувати Mi Mover у гостьовому режимі</string>
+    <string name="multi_user_mode_dialog_message">Неможна використовувати Mi Move у режимі декількох користувачів. Вимкніть цей режим для продовження.</string>
+    <string name="multi_user_mode_dialog_title">Багатокористувацький режим</string>
+    <string name="notif_trans_receiving_completed">Дані отримано</string>
+    <string name="notif_trans_sending_completed">Дані надіслано</string>
+    <string name="trans_calculating">Сканування…</string>
+    <string name="trans_calculating_app_sd_size">Розрахування розміру. Скановано: %s</string>
+    <string name="trans_calculating_base_size">Розрахунок розміру застосунків</string>
+    <string name="trans_connect_failed_message">Помилка підключення. Спробуйте знову, або перезавантажте обидва пристрої.</string>
+    <string name="trans_connect_failed_title">Помилка підключення</string>
+    <string name="trans_connection_failed">Пристрій від'єднано</string>
+    <string name="trans_native_no_space">Звільніть на пристрої %s</string>
+    <string name="trans_please_waiting">Завантаження…</string>
+    <string name="trans_progress_subdescript_br_sender_finish">Резервне копіювання завершене %s, очікування надсилання…</string>
+    <string name="trans_progress_subdescript_transing_receiver_finish">Отримано %s, очікування відновлення…</string>
+    <string name="trans_progress_subdescript_transingsddata_receiver">Отримання %1$s, завершено: %2$s</string>
+    <string name="trans_progress_subdescript_transingsddata_sender">Надсилання %1$s, завершено: %2$s</string>
+    <string name="trans_retry">Повтор</string>
+    <string name="trans_start_failed_message">Повторіть спробу, або перезавантажте обидва пристрої</string>
+    <string name="trans_start_failed_title">Помилка запуску</string>
+    <string name="user_notice_declaration_ignore">Больше не показувати</string>
+    <string name="user_notice_message">Для роботи деяких функцій необхідне Інтернет-підключення</string>
+    <string name="user_notice_title">Сповіщення</string>
+    <string name="xiaomi_bytes_unit">%1$s Б</string>
+    <string name="xiaomi_connect_download_manager_fail">Помилка підключення</string>
+    <string name="xiaomi_external_storage_unavailable">"Пам'ять недоступна"</string>
+    <string name="xiaomi_kilobytes_unit">%1$s Кб</string>
+    <string name="xiaomi_megabytes_unit">%1$s Мб</string>
+    <string name="xiaomi_update_dialog_message">"Нова версія: %1$s\u000d
+Розмір: %2$s"</string>
+    <string name="xiaomi_update_dialog_message_diff">"Нова версія: %1$s\u000d
+Розмір оновлення: %2$s"</string>
+    <string name="xiaomi_update_dialog_title">Доступна нова версія!</string>
 </resources>

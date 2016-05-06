@@ -68,4 +68,12 @@
        <item quantity="other">Будильник буде вимкнено через %d хв.</item>
        <item quantity="one">Будильник буде вимкнено через %d хв.</item>
     </plurals>
+	<plurals name="delete_alarm_confirm">
+       <item quantity="other">Видалити будильники?</item>
+       <item quantity="one">Видалити будильник?</item>
+    </plurals>
+    <plurals name="delete_timezone_confirm">
+       <item quantity="other">Видалити часові пояси?</item>
+       <item quantity="one">Видалити часовий пояс?</item>
+    </plurals>
 </resources>

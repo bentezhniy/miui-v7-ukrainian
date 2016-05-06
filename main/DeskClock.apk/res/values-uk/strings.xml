@@ -252,4 +252,14 @@
     <string name="tomorrow">Завтра</string>
     <string name="turn_off_a_repeat_alarm">Вимкнути повтор будильнику</string>
     <string name="turn_off_this_repeat_alarm">Вимкнути повтор цього будильнику</string>
+	<string name="legal_off_day">Святкові дні</string>
+    <string name="legal_off_day_message">" (вимкнено у робочі дні)"</string>
+    <string name="oneshot_alarm">Видалити після сигналу</string>
+    <string name="stat_repeat_everyday">Щодня</string>
+    <string name="stat_repeat_legal_off_day">Святкові дні</string>
+    <string name="stat_repeat_legal_workday">Робочі дні</string>
+    <string name="stat_repeat_none">Один раз</string>
+    <string name="stat_repeat_self_define">Користувацький</string>
+    <string name="stat_repeat_weekdays">Будні</string>
+    <string name="stat_repeat_weekends">Вихідні</string>
 </resources>

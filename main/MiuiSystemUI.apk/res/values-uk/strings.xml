@@ -288,4 +288,8 @@ d MMMM yyyy"</string>
 	<string name="task_access_locked_app_msg">"Вміст застосунку приховано"</string>
 	<string name="accessibility_managed_profile">Робочий профіль</string>
     <string name="managed_profile_foreground_toast">Використовується робочий профіль</string>
+	<string name="account_info">Вхід не здійснено</string>
+    <string name="notification_header_title">Сповіщення</string>
+    <string name="notification_hidden_text">Зміст приховано</string>
+    <string name="status_bar_date_format_12">"EEEE d MMMM"</string>
 </resources>

@@ -113,4 +113,8 @@
     <string name="download_apk_desktop_pause">Пауза</string>
     <string name="download_apk_desktop_pending">Очікування…</string>
     <string name="download_apk_desktop_running">Завантаження…</string>
+	<string name="xl_speedup_experience_notify_context">Збільшення швидкості завантаження завдяки сервісу Xunlei</string>
+    <string name="xl_speedup_experience_notify_title">Сервіс прискорення</string>
+    <string name="xl_speedup_notify_button_experience">Спробувати</string>
+    <string name="xl_speedup_notify_button_member">Придбати</string>
 </resources>

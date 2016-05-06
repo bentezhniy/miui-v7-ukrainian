@@ -1267,4 +1267,25 @@
     <string name="secureaccess_cancel">Скасувати</string>
     <string name="switch_proxy_dialog_msg">Виявлено мережеву атаку. Використовуйте додаток \"Безпека\" для сканування вірусів.</string>
     <string name="switch_proxy_dialog_title">Мережева атака</string>
+	<string name="action_menu_account_not_login">Вхід не виконано</string>
+    <string name="action_menu_account_not_login_hint">Використовувати налаштування Mi Cloud під час входу</string>
+    <string name="action_menu_bookshelf">Книжкова полиця</string>
+    <string name="action_menu_toolbox">Інструменти</string>
+    <string name="action_menu_useful_page">Додати до корисного</string>
+    <string name="action_menu_useful_page_added">Додано до корисного</string>
+    <string name="autofill_popup_content_description">Відображення спливаючого вікна автозаповнення</string>
+    <string name="comment_app_menu">Коментарі</string>
+    <string name="comment_menu">Коментарі</string>
+    <string name="custom_head_card_text">"Завжди сподівайтеся і вірте, що щось
+прекрасне скоро станеться"</string>
+    <string name="custom_head_card_text_incognito">"Лише Богові та Вам відомо,
+що в цьому приватному вікні"</string>
+    <string name="login_failed_toast">Не вдалося увійти, будь ласка, оновіть.</string>
+    <string name="password_generation_popup_content_description">Відображення спливаючого вікна паролів</string>
+    <string name="pref_accessibility">Спеціальні можливості</string>
+    <string name="reply_comment_title">Відповідей: %s</string>
+    <string name="send_comment_button">Надіслати</string>
+    <string name="send_comment_title">Коментарі</string>
+    <string name="video_buffering_percent">"Буферизація "</string>
+    <string name="video_play_error">Помилка відтворення відео</string>
 </resources>

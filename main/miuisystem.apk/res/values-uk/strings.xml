@@ -171,4 +171,5 @@
     <string name="vip_level">LV %d</string>
     <string name="vip_not_login">Вхід не здійснено</string>
     <string name="vip_sign">Підпис:</string>
+	<string name="vip_login">Натисніть для входу</string>
 </resources>

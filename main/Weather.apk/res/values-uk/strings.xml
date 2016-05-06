@@ -122,4 +122,6 @@
      <string name="view_indexes_wind_unit">км/г</string>
      <string name="view_indexes_wind_unit_ms">" м/с"</string>
      <string name="weather_unit">°</string>
+	 <string name="act_set_city_swipe_hint">Свайп ліворуч для видалення міста</string>
+     <string name="app_version">Версія: %s</string>
 </resources>

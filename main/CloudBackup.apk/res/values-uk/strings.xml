@@ -112,4 +112,7 @@
     <string name="restore_from_this_device">Відновити з цього бекапу</string>
     <string name="restore_home_screen_apps">Відновлення з Mi Cloud</string>
     <string name="success_open_cloudbackup">Бекап увімкнено для застосунків стільниці</string>
+	<string name="backup_finished_notification_content">Бекап застосунків робочого столу, системних налаштувань, тощо.</string>
+    <string name="cloud_backup_have_data">Знайдено бекап у Mi Cloud</string>
+    <string name="cloud_backup_select_recover">Оберіть бекап з Mi Cloud</string>
 </resources>

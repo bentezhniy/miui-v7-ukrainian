@@ -476,4 +476,14 @@ ID Вашого пристрою буде зашифровано і відпра
     <string name="micloud_notif_title_memory_low">Не вдається синхронізувати дані</string>
     <string name="micloud_notif_title_sync_with_off">Синхронізація з Mi Cloud</string>
     <string name="micloud_unlogin_for_time_summary" />
+	<string name="account_related">Ваш пристрій пов'язано з існуючим Mi акаунтом (%s). Підключіться до мережі для перевірки пристрою.</string>
+    <string name="activate_finddevice">Підключіться до мережі для активації пристрою</string>
+    <string name="connect_network">Підключіться до Wi-Fi мережі або вставте SIM-карту</string>
+    <string name="connect_wlan">Підключіться до Wi-Fi мережі</string>
+    <string name="detect_sim_card">Повторний пошук SIM-карти</string>
+    <string name="micloud_notif_content_clipboard_push">Скопійовано</string>
+    <string name="micloud_notif_title_clipboard_push">Буфер обміну</string>
+    <string name="soundrecorder_sync_only_in_wifi">Лише за допомогою Wi-Fi мережі</string>
+    <string name="soundrecorder_sync_only_in_wifi_summary">Не використовувати мобільний інтернет для синхронізації</string>
+    <string name="soundrecorder_sync_records">Синхронизація з Mi Cloud</string>
 </resources>
