@@ -476,7 +476,7 @@ ID Вашого пристрою буде зашифровано і відпра
     <string name="micloud_notif_title_memory_low">Не вдається синхронізувати дані</string>
     <string name="micloud_notif_title_sync_with_off">Синхронізація з Mi Cloud</string>
     <string name="micloud_unlogin_for_time_summary" />
-	<string name="account_related">Ваш пристрій пов'язано з існуючим Mi акаунтом (%s). Підключіться до мережі для перевірки пристрою.</string>
+    <string name="account_related">"Ваш пристрій пов'язано з існуючим Mi акаунтом (%s). Підключіться до мережі для перевірки пристрою."</string>
     <string name="activate_finddevice">Підключіться до мережі для активації пристрою</string>
     <string name="connect_network">Підключіться до Wi-Fi мережі або вставте SIM-карту</string>
     <string name="connect_wlan">Підключіться до Wi-Fi мережі</string>
