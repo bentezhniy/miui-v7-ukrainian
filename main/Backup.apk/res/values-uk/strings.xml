@@ -318,7 +318,7 @@
     <string name="trans_calculating_base_size">Розрахунок розміру застосунків</string>
     <string name="trans_connect_failed_message">Помилка підключення. Спробуйте знову, або перезавантажте обидва пристрої.</string>
     <string name="trans_connect_failed_title">Помилка підключення</string>
-    <string name="trans_connection_failed">Пристрій від'єднано</string>
+    <string name="trans_connection_failed">"Пристрій від'єднано"</string>
     <string name="trans_native_no_space">Звільніть на пристрої %s</string>
     <string name="trans_please_waiting">Завантаження…</string>
     <string name="trans_progress_subdescript_br_sender_finish">Резервне копіювання завершене %s, очікування надсилання…</string>
