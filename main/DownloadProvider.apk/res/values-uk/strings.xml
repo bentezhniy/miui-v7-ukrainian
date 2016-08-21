@@ -121,4 +121,5 @@
     <string name="notify_install_guide_msg">Відкрити</string>
     <string name="notify_install_guide_title">%s встановлено</string>
     <string name="notify_only_wifi_download">Очікування мережі Wi-Fi</string>
+	<string name="notify_install_guide_forward_text">Відкрити</string>
 </resources>

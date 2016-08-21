@@ -1258,4 +1258,9 @@
     <string name="welcome_to_micloud">Ласкаво просимо в Mi Cloud</string>
     <string name="welcome_to_slim">Ласкаво просимо в оптимізацію альбому</string>
     <string name="xiaomi_account_not_exists_toast">Mi акаунт не існує</string>
+	<string name="add_to_album_tip">Фото у Mi Cloud</string>
+    <string name="picker_no_network_message">Інтернет недоступний</string>
+    <string name="set_as_wallpaper_description">Це зображення є ескізом. Завантажити фото оригінального розміру?</string>
+    <string name="set_as_wallpaper_title">Встановити як шпалери</string>
+    <string name="share_app_is_launching">Застосунок запущено</string>
 </resources>

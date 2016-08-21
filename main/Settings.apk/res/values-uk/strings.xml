@@ -5327,4 +5327,11 @@ SD карта \"^1\" буде працювати тільки на цьому п
     <string name="zen_mode_summary_combination">%1$s: %2$s</string>
     <string name="zen_schedule_rule_enabled_toast">Налаштовано правило увімкнення режиму \"Не турбувати\" у вказаний час</string>
     <string name="zen_schedule_rule_type_name">Час</string>
+	<string name="forbidden_switch_apn_string">Обрані налаштування APN не відповідають поточному типу мережі</string>
+    <string name="max_cpu2_info">"Два ядра по "</string>
+    <string name="no_connected_devices">"Немає під'єднаних пристроїв"</string>
+    <string name="show_connected_devices_summary">"Перегляд під'єднаних пристроїв"</string>
+    <string name="show_connected_devices_title">"Під'єднані пристрої"</string>
+    <string name="tether_devices_management_title">Керування пристроями</string>
+    <string name="tether_settings_disabled">Вимкнено</string>
 </resources>

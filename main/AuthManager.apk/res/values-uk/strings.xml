@@ -413,4 +413,8 @@
     <string name="Su_Package_Forbidden2">Немає ROOT доступу</string>
     <string name="permisson_reject_notice_toast_text2">Немає дозволу %1$s</string>
     <string name="wakepath_confirm_start_activity">Дозволити \"%1$s\" відкривати %2$s?</string>
+	<string name="HIPS_Perm_background_start_activity">Запуск у фоновому режимі</string>
+    <string name="HIPS_Perm_background_start_activity_Desc">Запуск у фоновому режимі</string>
+    <string name="HIPS_Perm_show_when_locked">Відображениня на екрані блокування</string>
+    <string name="HIPS_Perm_show_when_locked_Desc">Відображення на екрані блокування</string>
 </resources>

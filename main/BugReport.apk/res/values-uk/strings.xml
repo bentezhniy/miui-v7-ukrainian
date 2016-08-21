@@ -299,4 +299,11 @@
     <string name="try_again">Повторіть спробу</string>
     <string name="warning_field_empty">Введіть %1$s</string>
     <string name="warning_field_invalid">Введіть правильний %1$s</string>
+	<string name="bugreport_dialog_not_show_again">"Запам'ятати"</string>
+    <string name="bugreport_dialog_submit_content">Ваш звіт може містити особисті дані</string>
+    <string name="default_text_view">TextView</string>
+    <string name="feedback_submitting">Надсилання…</string>
+    <string name="michat_artificial_customer_phone">4001005678</string>
+    <string name="michat_message_error_network">Інтернет недоступний</string>
+    <string name="michat_message_send_error_network">Не вдається надіслати</string>
 </resources>

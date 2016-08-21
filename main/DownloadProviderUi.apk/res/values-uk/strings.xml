@@ -453,4 +453,11 @@
     <string name="xl_vip_pay">Продовжити</string>
     <string name="xl_vip_quarter">Квартал: %1$s Mi Credits × 3 місяця</string>
     <string name="xl_vip_semiannual">Півроку: %1$s Mi Credits × 6 місяців</string>
+	<string name="download_status_continue">Продовжити</string>
+    <string name="download_status_fail">Повтор</string>
+    <string name="download_status_paused">Пауза</string>
+    <string name="force_touch_newdownload">Додати завантаження</string>
+    <string name="force_touch_rank">Рейтинг</string>
+    <string name="force_touch_search">Пошук в Інтернеті</string>
+    <string name="notify_install_guide_forward_text">Відкрити</string>
 </resources>

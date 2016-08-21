@@ -1146,4 +1146,14 @@
     <string name="wipe_account_fail_description">Дозволити</string>
     <string name="wipe_account_fail_title">Не вдається видалити особисті дані</string>
     <string name="yidianzixun">yidianzixun</string>
+	<string name="ad_merge">"Об'єднувати рекламу та об'яви"</string>
+    <string name="eas_hotmail_email">hotmail.com</string>
+    <string name="eas_outlook_email">outlook.com</string>
+    <string name="quick_reply_hint_reply_only_from">Швидка відповідь (тільки відправнику)</string>
+    <string name="ser_resp_err_map_landing_more_failure">Забагато невдалих спроб авторизації</string>
+    <string name="ser_resp_err_map_landing_too_frequently">Занадто часті спроби авторизації</string>
+    <string name="ser_resp_err_map_mailbox_locked">Email захищено паролем</string>
+    <string name="ser_resp_err_map_mailbox_not_open">Немає акаунтів email</string>
+    <string name="ser_resp_err_map_max_connections">Забагато спроб підключення</string>
+    <string name="topic_merge">"Об'єднувати теми"</string>
 </resources>

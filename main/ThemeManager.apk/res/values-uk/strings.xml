@@ -434,4 +434,5 @@
     <string name="title_my_wallpaper_resource">Шпалери</string>
     <string name="title_system_audio_resource">Системні мелодії</string>
     <string name="title_system_wallpaper_resource">Системні шпалери</string>
+	<string name="resource_data_empty">Немає вмісту</string>
 </resources>

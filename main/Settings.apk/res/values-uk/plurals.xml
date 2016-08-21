@@ -123,4 +123,10 @@
        <item quantity="other">Зміна сигналу тільки протягом %1$d хвилин до %2$s</item>
        <item quantity="one">Зміна сигналу тільки протягом %1$d хвилини до %2$s</item>
     </plurals>
+	<plurals name="connected_devices_number">
+       <item quantity="other">%d пристроїв</item>
+       <item quantity="one">%d пристрій</item>
+       <item quantity="few">%d пристрої</item>
+       <item quantity="many">%d пристроїв</item>
+    </plurals>
 </resources>

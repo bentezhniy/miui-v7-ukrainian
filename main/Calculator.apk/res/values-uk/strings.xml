@@ -318,4 +318,14 @@
     <string name="unit_year_format">Рік %s</string>
     <string name="unit_yuan">юань</string>
     <string name="wf_word_figure">Фінансові символи</string>
+	<string name="city">Місто</string>
+    <string name="combine_loan">Комбінований кредит</string>
+    <string name="commercial_loan">Комерційний кредит</string>
+    <string name="cos">cos</string>
+    <string name="cosDesc">cosine</string>
+    <string name="cos_mathematical_value">cos</string>
+    <string name="current_rate_remind_commercial" />
+    <string name="current_rate_remind_fund" />
+    <string name="dateformat">d,MM,yyyy</string>
+    <string name="day">день</string>
 </resources>

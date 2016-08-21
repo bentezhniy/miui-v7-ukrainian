@@ -298,12 +298,24 @@
     </plurals>
     <plurals name="sync_off">
        <item quantity="other">"Синхронізація відключена. 
-%1$d файлів очікують синхронізацію."</item>
+%1$d файлів очікують на синхронізацію."</item>
        <item quantity="one">"Синхронізація відключена. 
-%1$d файл очікує синхронізацію."</item>
+%1$d файл очікує на синхронізацію."</item>
        <item quantity="few">"Синхронізація відключена. 
-%1$d файли очікують синхронізацію."</item>
+%1$d файли очікують на синхронізацію."</item>
        <item quantity="many">"Синхронізація відключена. 
-%1$d файлів очікують синхронізацію."</item>
+%1$d файлів очікують на синхронізацію."</item>
+    </plurals>
+	<plurals name="add_to_album_cloud_photo_count_tip">
+       <item quantity="other">Додано %d фото до Mi Cloud. Вимкніть функцію \"Тільки локальні альбоми\" для перегляду.</item>
+       <item quantity="one">Додано %d фото до Mi Cloud. Вимкніть функцію \"Тільки локальні альбоми\" для перегляду.</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_image_confirm_message">
+       <item quantity="other">"Не вдається завантажити %1$d фото. Необхідно під'єднатися до Інтернету."</item>
+       <item quantity="one">"Не вдається завантажити %1$d фото. Необхідно під'єднатися до Інтернету."</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_origin_confirm_message">
+       <item quantity="other">"Не вдається завантажити %1$d фото (%2$d Мб). Необхідно під'єднатися до Інтернету."</item>
+       <item quantity="one">"Не вдається завантажити %1$d фото (%2$d Мб). Необхідно під'єднатися до Інтернету."</item>
     </plurals>
 </resources>

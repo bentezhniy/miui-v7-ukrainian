@@ -355,4 +355,13 @@
     <string name="phone">Телефон</string>
     <string name="sip_phone">SIP телефон</string>
     <string name="website">Сайт</string>
+	<string name="MALICIOUS_URL">Шкідливе посилання</string>
+    <string name="antispam_xpace_text">Перейдіть в режим першого користувача для налаштування чорного списку</string>
+    <string name="info_antispam_current_mode">%s</string>
+    <string name="mark_courier">"Блокування кур'єрів"</string>
+    <string name="mark_courier_block">"Відзначено як кур'єр"</string>
+    <string name="mark_courier_block_large">"Кур'єр"</string>
+    <string name="mark_courier_time_setting">"Блокувати номери, які були декілька разів відзначені як кур'єри."</string>
+    <string name="mark_number_courier">"Кур'єр"</string>
+    <string name="mark_time_text">%d</string>
 </resources>

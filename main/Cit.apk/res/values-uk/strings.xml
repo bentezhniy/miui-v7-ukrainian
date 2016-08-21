@@ -340,4 +340,27 @@
 	<string name="cit_tool_log_dmesg">DMESG</string>
     <string name="cit_tool_modem_mbn">Змінити налаштування модему</string>
     <string name="cit_x5_audio_lb_topmic_to_speaker_title">Тест верхнього мікрофону</string>
+	<string name="cit_apk_signature_failed">Помилка підпису APK</string>
+    <string name="cit_apk_signature_passed">Підпис APK підтверджено</string>
+    <string name="cit_audio_lb_frontmic_to_speaker_title">Перевірка переднього мікрофона</string>
+    <string name="cit_audio_lb_summary_frontmic_to_speaker">"Перевірка переднього мікрофона на зворотний зв'язок. Говоріть в передній мікрофон і ви повинні почути свій голос з динаміка."</string>
+    <string name="cit_blue_torch_on">Увімкнути холодний спалах</string>
+    <string name="cit_build_finger_failed">Помилка перевірки відбитка пальця</string>
+    <string name="cit_build_finger_passed">Відбиток пальця підтверджений</string>
+    <string name="cit_button_light_writein">Яскравість клавіші запису</string>
+    <string name="cit_finger_check_title">Перевірка сканера відбитків</string>
+    <string name="cit_fpc_checkerboard_test">Перевірка сканера</string>
+    <string name="cit_fpc_selftest">Самоперевірка</string>
+    <string name="cit_fpc_sensor_check_summary">Натисніть на сканер і дочекайтесь зеленого індикатору</string>
+    <string name="cit_fpc_sensor_check_title">Сканер відбитків пальців</string>
+    <string name="cit_get_signature_failed">Помилка отримання підпису</string>
+    <string name="cit_left_button_light">Підсвічування лівої клавіші</string>
+    <string name="cit_minus_one">Мінус 1</string>
+    <string name="cit_plus_one">Плюс 1</string>
+    <string name="cit_recovery_signature_failed">Помилка підпису Recovery</string>
+    <string name="cit_recovery_signature_passed">Підпис Recovery підтверджено</string>
+    <string name="cit_right_button_light">Підсвічування правої клавіші</string>
+    <string name="cit_signature_check_label">Перевірка підпису:</string>
+    <string name="cit_tool_enable_display_3A_log">Відображати журнал 3А</string>
+    <string name="cit_yellow_torch_on">Увімкнути теплий спалах</string>
 </resources>

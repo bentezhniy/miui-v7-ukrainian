@@ -940,4 +940,12 @@
     <string name="wxcircle_platform">Moments</string>
     <string name="xiaomi_btn_str">Mi</string>
     <string name="zero_comment">Немає відгуків</string>
+	<string name="download_fail">Не вдається завантажити</string>
+    <string name="flow_setting">Налаштування</string>
+    <string name="hot_app">Популярні застосунки</string>
+    <string name="install_fail">Не вдається встановити</string>
+    <string name="only_wifi">Завантаження тільки через Wi-Fi</string>
+    <string name="open_app">Відкрити</string>
+    <string name="recent_show">Нещодавні</string>
+    <string name="select_volume">"Оберіть об'єм"</string>
 </resources>
