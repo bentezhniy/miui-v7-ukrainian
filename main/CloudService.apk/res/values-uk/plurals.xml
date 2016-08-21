@@ -16,4 +16,44 @@
         <item quantity="other">%d фото</item>
         <item quantity="one">%d фото</item>
     </plurals>
+	<plurals name="dirty_blocklist_count">
+       <item quantity="other">%d записів чорного списку</item>
+       <item quantity="one">%d запис чорного списку</item>
+       <item quantity="few">%d записи чорного списку</item>
+       <item quantity="many">%d записів чорного списку</item>
+    </plurals>
+    <plurals name="dirty_browser_count">
+       <item quantity="other">%d даних браузера</item>
+       <item quantity="one">%d дані браузера</item>
+    </plurals>
+    <plurals name="dirty_calendar_count">
+       <item quantity="other">%d записів календаря</item>
+       <item quantity="one">%d запис календаря</item>
+       <item quantity="few">%d записи календаря</item>
+       <item quantity="many">%d записів календаря</item>
+    </plurals>
+    <plurals name="dirty_callog_count">
+       <item quantity="other">%d записів журналу викликів</item>
+       <item quantity="one">%d запис журналу викликів</item>
+       <item quantity="few">%d записи журналу викликів</item>
+       <item quantity="many">%d записів журналу викликів</item>
+    </plurals>
+    <plurals name="dirty_music_count">
+       <item quantity="other">%d треків</item>
+       <item quantity="one">%d трек</item>
+       <item quantity="few">%d треки</item>
+       <item quantity="many">%d треків</item>
+    </plurals>
+    <plurals name="dirty_recorder_count">
+       <item quantity="other">%d записів</item>
+       <item quantity="one">%d запис</item>
+       <item quantity="few">%d записи</item>
+       <item quantity="many">%d записей</item>
+    </plurals>
+    <plurals name="dirty_wlan_count">
+       <item quantity="other">%d мереж Wi-Fi</item>
+       <item quantity="one">%d мережа Wi-Fi</item>
+       <item quantity="few">%d мережі Wi-Fi</item>
+       <item quantity="many">%d мереж Wi-Fi</item>
+    </plurals>
 </resources>

@@ -300,4 +300,25 @@
     <string name="liked">Сподобалося</string>
     <string name="settings">Налаштування</string>
     <string name="share">Надіслати</string>
+	<string name="change_wallpaper">Змінити</string>
+    <string name="children_mode_tips_message">Немає застосунків із батьківським контролем</string>
+    <string name="children_mode_tips_title">Оберіть застосунки</string>
+    <string name="cloud_state_disabled">Синхронізацію з Mi Cloud вимкнено</string>
+    <string name="cloud_state_finished">Синхронізовано з Mi Cloud</string>
+    <string name="cloud_state_syncing">Синхронізовано з Mi Cloud</string>
+    <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Клоновані застосунки будуть видалені разом з цими</string>
+    <string name="confirm_uninstall_dialog_has_xspace_app_msg">Клонований застосунок буде видалено разом з цим</string>
+    <string name="confirm_uninstall_dialog_title">Обрані клоновані застосунки буде видалено</string>
+    <string name="default_folder_title_claro">Claro</string>
+    <string name="default_folder_title_telcel">Telcel</string>
+    <string name="home_screen">Стільниця</string>
+    <string name="lock_screen">Екран блокування</string>
+    <string name="lock_screen_wallpaper">Шпалери екрана блокування</string>
+    <string name="no_detail_page">Немає інформації</string>
+    <string name="normal_wallpaper">Шпалери стільниці</string>
+    <string name="recommend_apps_notice_nodata">Рекомендації (немає даних)</string>
+    <string name="uninstall_with_xspace_dialog_message">Клонований застосунок буде видалено з усіма даними</string>
+    <string name="uninstall_xspace_dialog_message">Будуть очищені всі дані клонованого застосунка</string>
+    <string name="uninstall_xspace_dialog_title_format">Видалити клон \"%s\"?</string>
+    <string name="wallpaper_scroll_type_tips">Прокручування шпалер</string>
 </resources>

@@ -382,4 +382,13 @@
         <item>VPN та застосунки</item>
         <item>Wi-Fi</item>
     </string-array>
+	<string-array name="fortune_gender">
+       <item>Чоловіча</item>
+       <item>Жіноча</item>
+    </string-array>
+    <string-array name="prefentries_alerts_vibrateWhen">
+       <item>Завжди</item>
+       <item>У режимі \"Без звуку\"</item>
+       <item>Ніколи</item>
+    </string-array>
 </resources>

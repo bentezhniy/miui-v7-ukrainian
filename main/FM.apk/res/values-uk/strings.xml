@@ -162,4 +162,8 @@
     <string name="default_station">FM</string>
     <string name="frequency_string" />
     <string name="type_rd" />
+	<string name="using_recorder_cancel">Скасувати</string>
+    <string name="using_recorder_confirm">ОК</string>
+    <string name="using_recorder_dialog_message">Дозволити застосунку використовувати служби запису звуку?</string>
+    <string name="using_recorder_dialog_title">Попередження</string>
 </resources>

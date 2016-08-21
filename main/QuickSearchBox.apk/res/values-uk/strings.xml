@@ -56,4 +56,31 @@
     <string name="xiaomi_hint">http://api.miuipro.ru/search/hint</string>
     <string name="xiaomi_hot_query">http://api.miuipro.ru/search/hotquery</string>
 	<string name="default_hint">Пошук</string>
+	<string name="baidu_search_url">https://www.google.com.ua/search?q=%s&amp;tn=ins</string>
+    <string name="baidu_search_url_from_default">https://www.google.com.ua/search?q=%s&amp;tn=ins</string>
+    <string name="baidu_search_url_from_input">https://www.google.com.ua/search?q=%s&amp;tn=ins</string>
+    <string name="baidu_search_url_from_launcher">https://www.google.com.ua/search?q=%s&amp;tn=ins</string>
+    <string name="baidu_search_url_from_systemui">https://www.google.com.ua/search?q=%s&amp;tn=ins</string>
+    <string name="baidu_suggest_base">http://www.google.com/m?hl=%s</string>
+    <string name="common_setting">Загальні</string>
+    <string name="connect_and_retry">Підключіться до Інтернету і повторіть спробу</string>
+    <string name="hot_words">[{\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"Xiaomi\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"MIUI\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"Відео\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"Музика\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"Новини\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"Погода\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"Спілкування\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"Android\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"Серіали\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"Курс валют\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"Книги\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"Свята\",\"type\":\"unknown\",\"url\":\"\"}]</string>
+    <string name="network_unavailable">Немає підключення до Інтернету</string>
+    <string name="recent_apps">Нещодавні застосунки</string>
+    <string name="search_apps">Пошук застосунків</string>
+    <string name="search_apps_url">market://search?q=%s&amp;ref=migs</string>
+    <string name="search_group_fold">Приховати</string>
+    <string name="search_group_unfold">Показати ще</string>
+    <string name="search_keyword_quicksearchbox">Пошук</string>
+    <string name="search_path_quicksearchbox">Налаштування > Усі застосунки > Пошук</string>
+    <string name="search_suggestion">Ключові запити</string>
+    <string name="search_videos">Пошук відео</string>
+    <string name="search_videos_url">https://www.youtube.com/results?search_query=%s</string>
+    <string name="show_hot_words">Ключові запити</string>
+    <string name="suggest_open_app_failed">Не вдається запустити застосунок</string>
+    <string name="web_search_results">Результати пошуку</string>
+    <string name="xiaomi_homepage_hint">localhost</string>
+    <string name="xiaomi_homepage_suggest">localhost</string>
+    <string name="xiaomi_search_url">localhost</string>
+    <string name="xiaomi_source_url">localhost</string>
 </resources>

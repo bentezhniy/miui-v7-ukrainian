@@ -405,4 +405,12 @@
     <string name="HIPS_Perm_install_shortcut_Desc">Додати ярлик на стільницю</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">Доступ до обладнання NFC</string>
+	<string name="HIPS_Perm_get_tasks">Отримувати завдання</string>
+    <string name="HIPS_Perm_get_tasks_Desc">Отримання завдань</string>
+    <string name="HIPS_Perm_read_notification_sms">Сервісні SMS</string>
+    <string name="HIPS_Perm_read_notification_sms_Desc">Читання сервісних SMS</string>
+    <string name="HIPS_Securityprompt_Acceptroot">Дозволити</string>
+    <string name="Su_Package_Forbidden2">Немає ROOT доступу</string>
+    <string name="permisson_reject_notice_toast_text2">Немає дозволу %1$s</string>
+    <string name="wakepath_confirm_start_activity">Дозволити \"%1$s\" відкривати %2$s?</string>
 </resources>

@@ -341,4 +341,5 @@
     <string name="xiaomi_update_dialog_message_diff">"Нова версія: %1$s\u000d
 Розмір оновлення: %2$s"</string>
     <string name="xiaomi_update_dialog_title">Доступна нова версія!</string>
+	<string name="multi_user_mode_backup_message">Неможливо використовувати бекап в режимі другого користувача. Видаліть режим другого користувача перед використанням бекапу.</string>
 </resources>

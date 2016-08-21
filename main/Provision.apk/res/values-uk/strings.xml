@@ -58,4 +58,17 @@
     <string name="desc_fingerprint">Використовуйте відбиток пальцю для розблокування присторою, підтвердження оплати та інших можливостей.</string>
     <string name="next_fingerprint">Далі</string>
     <string name="title_fingerprint">Відбиток пальцю</string>
+	<string name="agree_terms">Я прочитав та згоден з умовами користування</string>
+    <string name="alert_dialog_btn_close">Вимкнути</string>
+    <string name="alert_dialog_btn_open">Скасувати</string>
+    <string name="alert_dialog_msg">Деякі функції можуть не працювати належним чином без необхідних дозволів (наприклад пристрій не зможе відобразити контактну інформацію під час розмови). Після вимкнення цих дозволів, система буде запитувати їх індивідуально для кожної функції.</string>
+    <string name="alert_dialog_title">Попередження</string>
+    <string name="back">Назад</string>
+    <string name="congratulation_title">Налаштування завершене</string>
+    <string name="content_description_complete">Готово</string>
+    <string name="content_description_start">Почати</string>
+    <string name="desc_extra_international_fingerprint" />
+    <string name="desc_international_fingerprint">Використовуйте сканер відбитків пальців для розблокування пристрою, застосунків і сервісів.</string>
+    <string name="other_settings_permission">Дозволи сервісів MIUI</string>
+    <string name="other_settings_permission_summary">Включити системні сервіси, які необхідні для коректної роботи дозволу</string>
 </resources>

@@ -104,4 +104,26 @@
        <item quantity="few">Ви можете завантажити %d преміум трека цього місяця</item>
        <item quantity="many">Ви можете завантажити %d преміум треків цього місяця</item>
     </plurals>
+	<plurals name="comment_count">
+       <item quantity="other">%d відгуків</item>
+       <item quantity="one">%d відгук</item>
+       <item quantity="few">%d відгуки</item>
+       <item quantity="many">%d відгуків</item>
+    </plurals>
+    <plurals name="download_finished">
+       <item quantity="other">Завантажено %d треків</item>
+       <item quantity="one">Завантажено %d трек</item>
+       <item quantity="few">Завантажено %d треки</item>
+       <item quantity="many">Завантажено %d треків</item>
+    </plurals>
+    <plurals name="download_running">
+       <item quantity="other">Завантаження %d треків…</item>
+       <item quantity="one">Завантаження %d треків…</item>
+    </plurals>
+    <plurals name="reader_count">
+       <item quantity="other">%d читачів</item>
+       <item quantity="one">%d читач</item>
+       <item quantity="few">%d читачі</item>
+       <item quantity="many">%d читачів</item>
+    </plurals>
 </resources>

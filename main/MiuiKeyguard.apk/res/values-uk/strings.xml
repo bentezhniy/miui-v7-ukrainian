@@ -93,4 +93,13 @@ EEEE"</string>
     <string name="invalid_sim_puk_hint">PUK-код складаєтьсяз 8 цифр чи більше</string>
     <string name="lock_screen_date_12">"d MMMM yyyy
 EEEE"</string>
+    <string name="accessibility_enter_lock_wallpaper">Натисніть на шпалери екрану блокування</string>
+    <string name="fingerprint_enter_second_psw_msg">Введіть пароль другого користувача після перезавантаження пристрою для використання сканера відбитків</string>
+    <string name="fingerprint_enter_second_psw_title">Пароль другого користувача</string>
+    <string name="fingerprint_lockout_msg">Спробуйте розблокувати за допомогою відбитка пальця через хвилину</string>
+    <string name="input_pattern_hint_text">Введіть ключ</string>
+    <string name="left_action_default_hint_text">Телефон</string>
+    <string name="lock_wallpaper_enter">Введення</string>
+    <string name="lock_wallpaper_learn_more">Ще ></string>
+    <string name="lock_wallpaper_see_more">Ще ></string>
 </resources>

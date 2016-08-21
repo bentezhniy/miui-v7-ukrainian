@@ -115,4 +115,14 @@
 	<string name="backup_finished_notification_content">Бекап застосунків робочого столу, системних налаштувань, тощо.</string>
     <string name="cloud_backup_have_data">Знайдено бекап у Mi Cloud</string>
     <string name="cloud_backup_select_recover">Оберіть бекап з Mi Cloud</string>
+	<string name="account_error">Помилка акаунта</string>
+    <string name="backup_now">Створити бекап</string>
+    <string name="backup_size_summary">Розмір: %1$s</string>
+    <string name="backup_successfully">Створення бекапу завершено</string>
+    <string name="btn_back">Назад</string>
+    <string name="btn_continue">Продовжити</string>
+    <string name="btn_skip">Пропустити</string>
+    <string name="provision_arrow_back">&lt;</string>
+    <string name="provision_arrow_next">></string>
+    <string name="restore_task_unfinished">Дочекайтеся завершення відновлення</string>
 </resources>

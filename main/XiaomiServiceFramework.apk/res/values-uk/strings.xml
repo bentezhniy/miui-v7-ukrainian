@@ -119,4 +119,9 @@
     <string name="activate_history_sms">Під час активації надіслане SMS</string>
     <string name="activate_history_success">Готово</string>
     <string name="activate_history_title">Активація SIM карти</string>
+	<string name="activate_feature_default_name">Mi сервіси</string>
+    <string name="activate_feature_remote_assist">Віддалений помічник</string>
+    <string name="explain_send_sms_permission_button">Перевірка</string>
+    <string name="explain_send_sms_permission_msg">Увімкніть %s, Xiaomi Service Framework відправить SMS для перевірки номера телефону.</string>
+    <string name="explain_send_sms_permission_title">Перевірка номера телефону</string>
 </resources>

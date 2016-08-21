@@ -262,4 +262,9 @@
     <string name="stat_repeat_self_define">Користувацький</string>
     <string name="stat_repeat_weekdays">Будні</string>
     <string name="stat_repeat_weekends">Вихідні</string>
+	<string name="force_touch_add_alarm">Додати будильник</string>
+    <string name="force_touch_enter_stopwatch">Секундомір</string>
+    <string name="force_touch_enter_timer">Таймер</string>
+    <string name="more_settings">Налаштування будильника</string>
+    <string name="timer_clock_alert_text">Встановіть таймер</string>
 </resources>

@@ -610,4 +610,60 @@
 
 Залишок трафіку також містить трафік, який було перевищено минулого місяця"</string>
     <string name="traffic_setting_fragment_loacation_alert_nomore">"Запам'ятати"</string>
+	<string name="brand_diagnostic">Діагностика типу оператора</string>
+    <string name="correction_attention_dialog_message">Виконується налаштування. Дочекайтесь закінчення процесу та спробуйте ще.</string>
+    <string name="diagnostic_attention_dialog_message">Виконується діагностика %1$s. Дочекайтесь закінчення процесу та спробуйте ще.</string>
+    <string name="operator_diagnostic">Діагностика оператора</string>
+    <string name="sim_location_diagnostic">Діагностика місцезнаходження</string>
+    <string name="start_diagnostic_botton">Почати</string>
+    <string name="tc_diagnostic_all_error_notification_summary">Натисніть щоб надіслати звіт</string>
+    <string name="tc_diagnostic_all_error_notification_title">Не вдається закінчити діагностику</string>
+    <string name="tc_diagnostic_brand_error_notification_summary">Натисніть для вибору типу мережі</string>
+    <string name="tc_diagnostic_brand_error_notification_title">Неправильний тип мережі</string>
+    <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>Результат: неправильне ім'я оператора&lt;br/>
+&lt;br/>Введіть ім'я: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>
+&lt;br/>Поточне ім'я: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
+    <string name="tc_diagnostic_complete">Виконано</string>
+    <string name="tc_diagnostic_fragment_default">"Про діагностику 1. Пристрій повинен бути під'єднаний до мережі оператора, надішліть безкоштовне повідомлення та дочекайтеся відповіді оператора. Це може зайняти приблизно 5 хвилин. 2. Ви можете приховати діагностику до фонового режиму."</string>
+    <string name="tc_diagnostic_location_error_notification_summary">Натисніть для налаштування місцезнаходження</string>
+    <string name="tc_diagnostic_location_error_notification_title">Неправильне місцезнаходження</string>
+    <string name="tc_diagnostic_notification_sumarry">Натисніть для перегляду</string>
+    <string name="tc_diagnostic_notification_summary">Натисніть для діагностики</string>
+    <string name="tc_diagnostic_notification_title">Діагностика оператора</string>
+    <string name="tc_diagnostic_onekey_repair_botton">Виправити</string>
+    <string name="tc_diagnostic_operator_error_notification_summary">Натисніть для налаштування оператора</string>
+    <string name="tc_diagnostic_operator_error_notification_title">Неправильний оператор</string>
+    <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>Результат: неправильний оператор&lt;br/>
+&lt;br/>Встановіть оператора: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>
+&lt;br/>Поточний оператор: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font>"</string>
+    <string name="tc_diagnostic_repair_and_continue">Виправити та продовжити</string>
+    <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'>Діагностика закінчена. Помилки виправлені.&lt;/font>"</string>
+    <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'>Діагностика закінчена. Виправлені помилки місцезнаходження та оператора.&lt;/font>"</string>
+    <string name="tc_diagnostic_repair_success_toast">Готово</string>
+    <string name="tc_diagnostic_result">"&lt;font color='#CC0000'>Результат: не вдається закінчити діагностику&lt;br/>
+&lt;br/>Надіслати звіт про помилку розробникам MIUI.&lt;/font>"</string>
+    <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>Результат: неправильне місцезнаходження&lt;br/>
+&lt;br/>Встановіть місцезнаходження: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>
+&lt;br/>Поточне місцезнаходження: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
+    <string name="tc_diagnostic_status_error_brand">Мережу не знайдено</string>
+    <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'>Помилка&lt;/font>"</string>
+    <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'>Немає з'єднання з мережею&lt;/font>"</string>
+    <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'>Не вдається отримати інформацію&lt;/font>"</string>
+    <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'>Виправлено&lt;/font>"</string>
+    <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'>Мережу підключено&lt;/font>"</string>
+    <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'>Час вийшов&lt;/font>"</string>
+    <string name="tc_diagnostic_status_updating">Тестування…</string>
+    <string name="tc_diagnostic_success_notification_summary">Надішліть звіт про помилку розробникам MIUI</string>
+    <string name="tc_diagnostic_success_notification_title">"Тип та ім'я оператора коректні"</string>
+    <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>Результат: тип та ім'я оператора коректні&lt;br/>&lt;br/>
+Не вдається закінчити наналаштування:&lt;br/>
+1. Статистика оператора може бути неточною на початку або у кінці місяця.&lt;br/>
+2. Мережевого помічника не оновлено.&lt;br/>&lt;br/>
+Надішліть звіт про помилку розробникам MIUI&lt;/font>"</string>
+    <string name="tc_diagnostic_title">Діагностика оператора</string>
+    <string name="tc_diagnostic_upload_button">Надіслати</string>
+    <string name="tc_diagnostic_upload_no_network">Звіт буде надіслано при підключенні до інтернету</string>
+    <string name="tc_diagnostic_upload_success">Дакуємо за звіт!</string>
+    <string name="text_button">ОК</string>
+    <string name="updating_diagnostic_botton">Аналіз даних…</string>
 </resources>

@@ -828,4 +828,74 @@
        <item>Екран блокування</item>
        <item>Дитячий режим</item>
     </string-array>
+	<string-array name="color_picker">
+       <item>Сино-зелений</item>
+       <item>Синій</item>
+       <item>Індіго</item>
+       <item>Фіолетовий</item>
+       <item>Рожевий</item>
+       <item>Червоний</item>
+    </string-array>
+    <string-array name="description_primary">
+       <item>Snapdragon 801</item>
+       <item>Гб</item>
+       <item>Гб</item>
+       <item>5 дюймів</item>
+       <item>3G</item>
+       <item>13 Мп</item>
+    </string-array>
+    <string-array name="description_secondary">
+       <item>4 ядра по 2.5 ГГц</item>
+       <item>"Внутрішня пам'ять"</item>
+       <item>"Пам'ять LPDDR3"</item>
+       <item>Екран Full HD</item>
+       <item>Інтернет</item>
+       <item>Роздільна здатність камери</item>
+    </string-array>
+    <string-array name="eap_method_without_sim_auth">
+       <item>PEAP</item>
+       <item>TLS</item>
+       <item>TTLS</item>
+       <item>PWD</item>
+    </string-array>
+    <string-array name="enable_OpenGL_traces_entries">
+       <item>Немає</item>
+       <item>Журнал Logcat</item>
+       <item>Systrace (графіка)</item>
+       <item>Список викликів в glgeterror</item>
+    </string-array>
+    <string-array name="haptic_feedback_level_texts">
+       <item>Вимкнено</item>
+       <item>Слабкий</item>
+       <item>Середній</item>
+       <item>Сильний</item>
+    </string-array>
+    <string-array name="miui_entries_font_size">
+       <item>XS</item>
+       <item>S</item>
+       <item>M</item>
+       <item>L</item>
+       <item>XL</item>
+       <item>XXL</item>
+    </string-array>
+    <string-array name="screen_key_position_action">
+       <item>Клавіша \"Меню\" зліва | Клавіша \"Назад\" справа</item>
+       <item>Клавіша \"Назад\" зліва | Клавіша \"Меню\" справа</item>
+    </string-array>
+    <string-array name="status_bar_style_entries">
+       <item>Одна сторінка</item>
+       <item>Дві вкладки</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+       <item>@string/usb_use_charging_only</item>
+       <item>MTP (протокол передачі мультимедіа)</item>
+       <item>PTP (протокол передачі зображень)</item>
+       <item>RNDIS (USB Ethernet)</item>
+       <item>Джерело звуку</item>
+       <item>MIDI</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices">
+       <item>Мережа Wi-Fi</item>
+       <item>Мобільна мережа</item>
+    </string-array>
 </resources>

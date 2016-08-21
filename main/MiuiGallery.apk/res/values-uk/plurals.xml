@@ -168,4 +168,142 @@
        <item quantity="other">Користувачів: %1$d</item>
        <item quantity="one">Користувачів: %1$d</item>
     </plurals>
+	<plurals name="age_day">
+       <item quantity="other">%d днів</item>
+       <item quantity="one">%d день</item>
+       <item quantity="few">%d дня</item>
+       <item quantity="many">%d днів</item>
+    </plurals>
+    <plurals name="age_month">
+       <item quantity="other">%d місяців</item>
+       <item quantity="one">%d місяць</item>
+       <item quantity="few">%d місяці</item>
+       <item quantity="many">%d місяців</item>
+    </plurals>
+    <plurals name="age_year">
+       <item quantity="other">%d років</item>
+       <item quantity="one">%d рік</item>
+       <item quantity="few">%d роки</item>
+       <item quantity="many">%d років</item>
+    </plurals>
+    <plurals name="album_already_share_user_count">
+       <item quantity="other">%d користувачів</item>
+       <item quantity="one">%d користувач</item>
+       <item quantity="few">%d користувачі</item>
+       <item quantity="many">%d користувачів</item>
+    </plurals>
+    <plurals name="album_count">
+       <item quantity="other">%d фото</item>
+       <item quantity="one">%d фото</item>
+    </plurals>
+    <plurals name="album_count_and_size">
+       <item quantity="other">%1$d файлів | %2$s</item>
+       <item quantity="one">%1$d файл | %2$s</item>
+       <item quantity="few">%1$d файли | %2$s</item>
+       <item quantity="many">%1$d файлів | %2$s</item>
+    </plurals>
+    <plurals name="album_item_msg_format">
+       <item quantity="other">, включаючи %d файлів</item>
+       <item quantity="one">, включаючи %d файл</item>
+       <item quantity="few">, включаючи %d файли</item>
+       <item quantity="many">, включаючи %d файлів</item>
+    </plurals>
+    <plurals name="backup_waiting">
+       <item quantity="other">%1$d файлів очікують синхронізацію</item>
+       <item quantity="one">%1$d файл очікує синхронізацію</item>
+       <item quantity="few">%1$d файли очікують синхронізацію</item>
+       <item quantity="many">%1$d файлів очікують синхронізацію</item>
+    </plurals>
+    <plurals name="backuped">
+       <item quantity="other">Синхронізовано %1$d файлів</item>
+       <item quantity="one">Синхронізовано %1$d файл</item>
+       <item quantity="few">Синхронізовано %1$d файли</item>
+       <item quantity="many">Синхронізовано %1$d файлів</item>
+    </plurals>
+    <plurals name="cloud_space_full">
+       <item quantity="other">"Пам'ять в Mi Cloud заповнена. 
+%1$d файлів очікують синхронізацію."</item>
+       <item quantity="one">"Пам'ять в Mi Cloud заповнена. 
+%1$d файл очікує синхронізацію."</item>
+       <item quantity="few">"Пам'ять в Mi Cloud заповнена. 
+%1$d файли очікують синхронізацію."</item>
+       <item quantity="many">"Пам'ять в Mi Cloud заповнена. 
+%1$d файлів очікують синхронізацію."</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+       <item quantity="other">Обрано: %d</item>
+       <item quantity="one">Обрано: %d</item>
+    </plurals>
+    <plurals name="delete_media_msg_format">
+       <item quantity="other">Видалити %1$d файлів %2$s?</item>
+       <item quantity="one">Видалити %1$d файл %2$s?</item>
+       <item quantity="few">Видалити %1$d файли %2$s?</item>
+       <item quantity="many">Видалити %1$d файлів %2$s?</item>
+    </plurals>
+    <plurals name="delete_photo_msg_format">
+       <item quantity="other">Видалити %1$d фото %2$s?</item>
+       <item quantity="one">Видалити %1$d фото %2$s?</item>
+    </plurals>
+    <plurals name="delete_video_msg_format">
+       <item quantity="other">Видалити %1$d відео %2$s?</item>
+       <item quantity="one">Видалити %1$d відео %2$s?</item>
+    </plurals>
+    <plurals name="download_error">
+       <item quantity="other">Помилка завантаження %1$d файлів</item>
+       <item quantity="one">Помилка завантаження %1$d файлу</item>
+    </plurals>
+    <plurals name="local_space_full">
+       <item quantity="other">"Пам'ять пристрою заповнена. 
+%1$d файл очікує синхронізацію."</item>
+       <item quantity="one">"Пам'ять пристрою заповнена. 
+%1$d файл очікує синхронізацію."</item>
+       <item quantity="few">"Пам'ять пристрою заповнена. 
+%1$d файли очікують синхронізацію."</item>
+       <item quantity="many">"Пам'ять пристрою заповнена. 
+%1$d файлів очікують синхронізацію."</item>
+    </plurals>
+    <plurals name="network_unsatisfied">
+       <item quantity="other">"Помилка підключення. 
+%1$d файлів очікують синхронізацію."</item>
+       <item quantity="one">"Помилка підключення. 
+%1$d файл очікує синхронізацію."</item>
+       <item quantity="few">"Помилка підключення. 
+%1$d файли очікують синхронізацію."</item>
+       <item quantity="many">"Помилка підключення. 
+%1$d файлів очікують синхронізацію."</item>
+    </plurals>
+    <plurals name="picker_all_image_need_download">
+       <item quantity="other">"Обрані фото відсутні в пам'яті пристрою, завантажити через мобільний інтернет?"</item>
+       <item quantity="one">"Обране фото відсутнє в пам'яті пристрою, завантажити через мобільний інтернет?"</item>
+    </plurals>
+    <plurals name="picker_all_image_will_download">
+       <item quantity="other">"Обрані фото відсутні в пам'яті пристрою. Завантаження…"</item>
+       <item quantity="one">"Обране фото відсутні в пам'яті пристрою. Завантаження…"</item>
+    </plurals>
+    <plurals name="picker_all_origin_need_download">
+       <item quantity="other">"Обрані фото відсутні в пам'яті пристрою (%d Мб), завантажити через мобільний інтернет?"</item>
+       <item quantity="one">"Обране фото відсутні в пам'яті пристрою (%d Мб), завантажити через мобільний інтернет?"</item>
+    </plurals>
+    <plurals name="picker_cancel_confirm_message">
+       <item quantity="other">Скасувати завантаження %d залишку фото?</item>
+       <item quantity="one">Скасувати завантаження %d останнього фото?</item>
+    </plurals>
+    <plurals name="picker_retry_image_confirm_message">
+       <item quantity="other">Помилка завантаження %1$d фото. Завантажити повторно?</item>
+       <item quantity="one">Помилка завантаження %1$d фото. Завантажити повторно?</item>
+    </plurals>
+    <plurals name="picker_retry_origin_confirm_message">
+       <item quantity="other">Помилка завантаження %1$d фото (%2$d Мб). Завантажити повторно?</item>
+       <item quantity="one">Помилка завантаження %1$d фото (%2$d Мб). Завантажити повторно?</item>
+    </plurals>
+    <plurals name="sync_off">
+       <item quantity="other">"Синхронізація відключена. 
+%1$d файлів очікують синхронізацію."</item>
+       <item quantity="one">"Синхронізація відключена. 
+%1$d файл очікує синхронізацію."</item>
+       <item quantity="few">"Синхронізація відключена. 
+%1$d файли очікують синхронізацію."</item>
+       <item quantity="many">"Синхронізація відключена. 
+%1$d файлів очікують синхронізацію."</item>
+    </plurals>
 </resources>

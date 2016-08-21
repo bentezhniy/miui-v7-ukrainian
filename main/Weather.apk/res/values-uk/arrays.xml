@@ -78,4 +78,55 @@
         <item>%s</item>
         <item>%s</item>
      </string-array>
+	 <string-array name="aqi_title_prefix">
+       <item>ІЯП %1$s</item>
+       <item>ІЯП %1$s</item>
+       <item>ІЯП %1$s</item>
+       <item>ІЯП %1$s</item>
+       <item>ІЯП %1$s</item>
+       <item>ІЯП %1$s</item>
+    </string-array>
+    <string-array name="hot_city">
+       <item>Пекін</item>
+       <item>Шанхай</item>
+       <item>Гонконг</item>
+       <item>Тайбей</item>
+       <item>Джакарта</item>
+       <item>Делі</item>
+       <item>Мумбаї</item>
+       <item>Столиця Московії</item>
+       <item>Хідерабад</item>
+       <item>Ченнаї</item>
+       <item>Стамбул</item>
+       <item>Ріо-де-Жанейро</item>
+       <item>Сінгапур</item>
+       <item>Берлін</item>
+       <item>Рим</item>
+       <item>Нью-Йорк</item>
+       <item>Лос-Анджелес</item>
+       <item>Чікаго</item>
+       <item>Токіо</item>
+       <item>Париж</item>
+       <item>Бангкок</item>
+       <item>Сеул</item>
+       <item>Куала-Лумпур</item>
+    </string-array>
+    <string-array name="moon_desc">
+       <item>Новий місяць</item>
+       <item>Молодий місяць</item>
+       <item>Перша чверть</item>
+       <item>Зростаючий місяць</item>
+       <item>Повний місяць</item>
+       <item>Спадаючий місяць</item>
+       <item>Остання чверть</item>
+       <item>Спадаючий місяць</item>
+       <item>Старий місяць</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+       <item>Низький</item>
+       <item>Середній</item>
+       <item>Помірний</item>
+       <item>Високий</item>
+       <item>Небезпечний</item>
+    </string-array>
 </resources>
