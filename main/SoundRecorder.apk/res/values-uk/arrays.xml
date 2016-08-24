@@ -24,4 +24,8 @@
        <item>MP3, 100 Кбіт/с, 45 Мб/г</item>
        <item>MP3, 75 Кбіт/с, 32 Мб/г</item>
     </string-array>
+	<string-array name="record_type_entries">
+       <item>MP3</item>
+       <item>AMR</item>
+    </string-array>
 </resources>

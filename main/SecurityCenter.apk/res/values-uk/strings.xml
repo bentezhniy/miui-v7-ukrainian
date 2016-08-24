@@ -2016,4 +2016,14 @@
     <string name="xiaomi_traffic_pass_used">Використовується пакет %s</string>
     <string name="xiaomi_traffic_pass_warning">Слабий сигнал підключення</string>
     <string name="xiaomi_traffic_return">Назад</string>
+	<string name="antivirus_update_db">%s</string>
+    <string name="apps_item_virus_summary_installed">Встан. застосунок</string>
+    <string name="menu_item_notification_garbage_text">%s</string>
+    <string name="operator_name_cmcc">China Mobile</string>
+    <string name="operator_name_telcom">China Telecom</string>
+    <string name="operator_name_unicom">China Unicom</string>
+    <string name="operator_number_cmcc">10086</string>
+    <string name="operator_number_telcom">10000</string>
+    <string name="operator_number_unicom">10010</string>
+    <string name="power_save_on_time_default_time_na">00:00</string>
 </resources>

@@ -321,4 +321,8 @@
     <string name="uninstall_xspace_dialog_message">Будуть очищені всі дані клонованого застосунка</string>
     <string name="uninstall_xspace_dialog_title_format">Видалити клон \"%s\"?</string>
     <string name="wallpaper_scroll_type_tips">Прокручування шпалер</string>
+	<string name="default_shortcut_title_10086">10086.cn</string>
+    <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
+    <string name="durationformatshort">%2$2d:%5$02d</string>
+    <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
 </resources>

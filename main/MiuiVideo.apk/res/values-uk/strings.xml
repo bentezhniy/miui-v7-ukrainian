@@ -646,4 +646,16 @@
     <string name="vp_ad_skip_at">Пропустити рекламу через %1$d</string>
     <string name="vp_more_show_video">Показувати рекламу</string>
     <string name="vp_select_tv">Канали</string>
+	<string name="cnlive">cnlive</string>
+    <string name="download_progress_0p">0%</string>
+    <string name="icntv">iCNTV</string>
+    <string name="lekan">Lekan</string>
+    <string name="letv">Letv</string>
+    <string name="percent_status">%.1f%%</string>
+    <string name="qiyi">iQiyi</string>
+    <string name="vertical_line">\" | \"</string>
+    <string name="vp_time_separator">/</string>
+    <string name="wasu">Wasu</string>
+    <string name="yinyuetai">YinYueTai</string>
+    <string name="youku">Youku</string>
 </resources>

@@ -1992,4 +1992,5 @@ sim карта буде очищена при невдалій спробі вв
     <string name="wifi_only">Тільки по Wi-Fi</string>
     <string name="wifi_pref_none">Не вибрано</string>
     <string name="wifi_preferred">Переважно Wi-Fi</string>
+	<string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
 </resources>

@@ -237,4 +237,7 @@
     <string name="bluetooth_map_email_settings_title">Налаштування повідомлень Bluetooth</string>
     <string name="empty_sub_name">Слот SIM %1$d</string>
 	<string name="security_center_permission_deny">Дозвіл на передачу файлів за допомогою Bluetooth вимкнено</string>
+	<string name="bt_enable_title" />
+    <string name="process" />
+    <string name="sharedUserId" />
 </resources>

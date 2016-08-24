@@ -584,4 +584,21 @@
     <string name="settings_calendar">Календар</string>
     <string name="sms_import_description">Зручне керування заходами з повідомлень</string>
     <string name="swipe_up_guide_hint_text">Ще</string>
-	</resources>
+	<string name="add_topic_success">Успішно додано \"%s\"</string>
+    <string name="adding_calendar">Підписка…</string>
+    <string name="alert_reminder_divider">|</string>
+    <string name="anniversary_metric" />
+    <string name="birthday_event_description_detail_leap" />
+    <string name="birthday_metric" />
+    <string name="birthday_notification_age_term" />
+    <string name="birthday_notification_type_term_lunar">Лунний календар</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
+    <string name="delete_topic_dialog_title">Відписатися від \"%s\"?</string>
+    <string name="delete_topic_success">Підписку \"%s\" видалено</string>
+    <string name="deleting_calendar">Видалення…</string>
+    <string name="event_lunar_month" />
+    <string name="huangli_label">Хуан Лі</string>
+    <string name="preferences_default_reminder_default">10</string>
+    <string name="preferences_week_start_day_default">-1</string>
+    <string name="repeat_lunar_yearly" />
+</resources>

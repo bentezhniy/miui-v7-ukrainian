@@ -1263,4 +1263,6 @@
     <string name="set_as_wallpaper_description">Це зображення є ескізом. Завантажити фото оригінального розміру?</string>
     <string name="set_as_wallpaper_title">Встановити як шпалери</string>
     <string name="share_app_is_launching">Застосунок запущено</string>
+	<string name="quotation">%s</string>
+    <string name="welcome_to_auto_backup">Ласкаво просимо до Mi Cloud</string>
 </resources>

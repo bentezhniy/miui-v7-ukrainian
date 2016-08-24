@@ -460,4 +460,7 @@
     <string name="force_touch_rank">Рейтинг</string>
     <string name="force_touch_search">Пошук в Інтернеті</string>
     <string name="notify_install_guide_forward_text">Відкрити</string>
+	<string name="unit_en_billion">Б</string>
+    <string name="unit_en_million">М</string>
+    <string name="unit_en_thounsand">Т</string>
 </resources>

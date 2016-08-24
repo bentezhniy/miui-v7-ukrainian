@@ -668,4 +668,25 @@
     <string name="simple_mode_button_text_stereo_mode">Вимкнути режим стерео</string>
     <string name="spaceIsLow_content_external_storage_priority">"На зовнішньому накопичувачі закінчується пам'ять"</string>
     <string name="spaceIsLow_content_primary_storage_priority">"На USB накопичувачі закінчується пам'ять"</string>
+	<string name="accessibility_camera_module_picker">CameraModulePicker</string>
+    <string name="accessibility_video_module_picker">VideoModulePicker</string>
+    <string name="face_beauty_age_alias_0_7">0-7</string>
+    <string name="face_beauty_age_alias_18_30">18-30</string>
+    <string name="face_beauty_age_alias_31_44">31-44</string>
+    <string name="face_beauty_age_alias_45_60">45-60</string>
+    <string name="face_beauty_age_alias_60_m">60+</string>
+    <string name="face_beauty_age_alias_8_17">8-17</string>
+    <string name="pref_camera_hfr_entry_2x">60</string>
+    <string name="pref_camera_hfr_entry_3x">90</string>
+    <string name="pref_camera_hfr_entry_4x">120</string>
+    <string name="pref_camera_iso_entry_iso100">ISO100</string>
+    <string name="pref_camera_iso_entry_iso1600">ISO1600</string>
+    <string name="pref_camera_iso_entry_iso200">ISO200</string>
+    <string name="pref_camera_iso_entry_iso3200">ISO3200</string>
+    <string name="pref_camera_iso_entry_iso400">ISO400</string>
+    <string name="pref_camera_iso_entry_iso800">ISO800</string>
+    <string name="pref_video_quality_entry_fwvga">FWVGA</string>
+    <string name="pref_video_quality_entry_vga">VGA</string>
+    <string name="pref_video_quality_entry_wqvga">WQVGA</string>
+    <string name="pref_video_quality_entry_wvga">WVGA</string>
 </resources>

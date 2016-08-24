@@ -363,4 +363,8 @@ http://miui.su/mi-pc-suite"</string>
     <string name="set_network_root_msg">Для отримання ROOT доступу увімкніть мережу Wi-Fi</string>
     <string name="updater_service_busy_msg">Ця програма використовує службу оновлення, щоб отримати доступ до кореневої системи необхідних вихідних файлів.</string>
     <string name="updater_service_busy_title">Служба оновлення зайнята</string>
+	<string name="notification_uncrypt_summary_hm">Натисніть, щоб перезавантажити пристрій</string>
+    <string name="notification_uncrypt_title_hm">Необхідне перезавантаження</string>
+    <string name="notification_uncrypting">Шифрування оновлення</string>
+    <string name="uncrypt_title">Шифрування (%s)</string>
 </resources>

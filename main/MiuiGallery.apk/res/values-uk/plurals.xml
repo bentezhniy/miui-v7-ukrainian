@@ -318,4 +318,12 @@
        <item quantity="other">"Не вдається завантажити %1$d фото (%2$d Мб). Необхідно під'єднатися до Інтернету."</item>
        <item quantity="one">"Не вдається завантажити %1$d фото (%2$d Мб). Необхідно під'єднатися до Інтернету."</item>
     </plurals>
+	<plurals name="fast_share_auto_render_failed">
+       <item quantity="other">Не вдалося обробити %1$d фото. Пропустити.</item>
+       <item quantity="one">Обрабка одного фото не вдалася. Пропустити.</item>
+    </plurals>
+    <plurals name="picker_skip_unavailable_images">
+       <item quantity="other">"Пропущено %d фото, які збережені не у пам'яті пристрою"</item>
+       <item quantity="one">"Пропущено одне фото, які збережене не у пам'яті пристрою"</item>
+    </plurals>
 </resources>

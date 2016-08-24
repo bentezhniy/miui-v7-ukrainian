@@ -948,4 +948,18 @@
     <string name="open_app">Відкрити</string>
     <string name="recent_show">Нещодавні</string>
     <string name="select_volume">"Оберіть об'єм"</string>
+	<string name="mobile_photo_desc" />
+    <string name="my_app_desc" />
+    <string name="my_bak_desc" />
+    <string name="my_bakup_app_desc" />
+    <string name="my_bakup_doc_desc" />
+    <string name="my_bakup_music_desc" />
+    <string name="my_bakup_other_desc" />
+    <string name="my_bakup_pic_desc" />
+    <string name="my_bakup_video_desc" />
+    <string name="my_camera_album_desc" />
+    <string name="my_doc_desc" />
+    <string name="my_music_desc" />
+    <string name="my_photo_desc" />
+    <string name="my_video_desc" />
 </resources>

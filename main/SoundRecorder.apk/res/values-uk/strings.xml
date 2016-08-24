@@ -167,4 +167,6 @@
     <string name="text_btn_wave">Хвиля</string>
     <string name="text_finish">Готово</string>
     <string name="text_recognize">T</string>
+	<string name="timer_format" formatted="false">%02d:%02d</string>
+    <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
 </resources>

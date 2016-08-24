@@ -129,4 +129,28 @@
        <item>Високий</item>
        <item>Небезпечний</item>
     </string-array>
+	<string-array name="aqi_title">
+       <item>%1$s</item>
+       <item>%1$s</item>
+       <item>%1$s</item>
+       <item>%1$s</item>
+       <item>%1$s</item>
+       <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+       <item>%1$s</item>
+       <item>%1$s</item>
+       <item>%1$s</item>
+       <item>%1$s</item>
+       <item>%1$s</item>
+       <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_value">
+       <item>Добрий</item>
+       <item>Нормальний</item>
+       <item>Помірний</item>
+       <item>Забруднений</item>
+       <item>Забруднений</item>
+       <item>Поганий</item>
+    </string-array>
 </resources>

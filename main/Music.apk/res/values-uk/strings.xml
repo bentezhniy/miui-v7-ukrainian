@@ -853,4 +853,6 @@
 
 Натисніть \"%s\" для продовження завантаження при підключенні до мережі Wi-Fi."</string>
     <string name="wifi_required_title">Завантаження по Wi-Fi</string>
+	<string name="billboard_song_subtitle">— %s</string>
+    <string name="comment_format" formatted="false">%s: %s</string>
 </resources>

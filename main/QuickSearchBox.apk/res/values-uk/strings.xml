@@ -83,4 +83,7 @@
     <string name="xiaomi_homepage_suggest">localhost</string>
     <string name="xiaomi_search_url">localhost</string>
     <string name="xiaomi_source_url">localhost</string>
+	<string name="default_search_domain">.google.ua</string>
+    <string name="voice_search_hint_quotation_end">\"</string>
+    <string name="voice_search_hint_quotation_start">\"</string>
 </resources>

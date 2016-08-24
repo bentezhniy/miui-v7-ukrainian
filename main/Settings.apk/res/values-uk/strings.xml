@@ -5334,4 +5334,24 @@ SD карта \"^1\" буде працювати тільки на цьому п
     <string name="show_connected_devices_title">"Під'єднані пристрої"</string>
     <string name="tether_devices_management_title">Керування пристроями</string>
     <string name="tether_settings_disabled">Вимкнено</string>
+	<string name="color_custom">\#%1$02X%2$02X%3$02X</string>
+    <string name="gadget_state_template">%1$s %2$s</string>
+    <string name="help_url_accounts" />
+    <string name="help_url_backup_reset" />
+    <string name="help_url_battery" />
+    <string name="help_url_bluetooth" />
+    <string name="help_url_choose_lockscreen" />
+    <string name="help_url_data_usage" />
+    <string name="help_url_dreams" />
+    <string name="help_url_location_access" />
+    <string name="help_url_more_networks" />
+    <string name="help_url_nfc_payment" />
+    <string name="help_url_remote_display" />
+    <string name="help_url_security" />
+    <string name="help_url_sound" />
+    <string name="help_url_tether" />
+    <string name="help_url_users" />
+    <string name="help_url_vpn" />
+    <string name="help_url_wifi" />
+    <string name="proxy_port_hint">8080</string>
 </resources>

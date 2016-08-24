@@ -1318,4 +1318,6 @@
     <string name="video_float_window">Повідомлення</string>
     <string name="video_float_window_playing">Відтворення відео</string>
     <string name="video_float_window_text">Повідомлення</string>
+	<string name="http">http://</string>
+    <string name="pref_min_font_size_value">%dpt</string>
 </resources>
