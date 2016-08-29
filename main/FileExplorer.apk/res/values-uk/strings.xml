@@ -591,8 +591,8 @@
     <string name="bind_success_tip">Додано</string>
     <string name="category_download">Завантаження</string>
     <string name="category_files">Файли</string>
-    <string name="category_kuaipan">Mi Drive</string>
-    <string name="category_midrive">KuaiPan</string>
+    <string name="category_kuaipan">KuaiPan</string>
+    <string name="category_midrive">Mi Drive</string>
     <string name="change_mobile_network_message">Продовжити завантаження через мобільний Інтернет? Може утримуватися додаткова плата оператором.</string>
     <string name="change_sticker">Вибрати інший</string>
     <string name="choose_report_comment_reason">Поясніть причину скарги</string>
