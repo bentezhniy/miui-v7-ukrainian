@@ -2300,7 +2300,7 @@
     <string name="volume_category_title">Гучність</string>
     <string name="vibrate_category_title">Вібрація</string>
     <string name="vibrate_in_normal_title">У звичайному режимі</string>
-    <string name="silent_mode_title">Режим \" Без звуку\"</string>
+    <string name="silent_mode_title">Режим \"Без звуку\"</string>
     <string name="media_feedback_enable_title">Вібрувати з ударними</string>
     <string name="wifi_wapi_certification_dont_exist">Введений невірний пароль</string>
     <string name="please_type_passphrase">Пароль мережі</string>
