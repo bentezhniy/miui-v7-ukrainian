@@ -441,11 +441,6 @@
         <item>Середній</item>
         <item>Слабкий</item>
     </string-array>
-    <string-array name="haptic_feedback_level_values">
-        <item>2</item>
-        <item>1</item>
-        <item>0</item>
-    </string-array>
     <string-array name="media_feedback_level_entries">
         <item>Сильний</item>
         <item>Середній</item>
@@ -498,6 +493,7 @@
         <item>Голосовий помічник</item>
         <item>Запустити Google Now</item>
         <item>Закрити поточний додаток</item>
+        <item>Поиск</item>
         <item>Показати меню</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
@@ -616,7 +612,7 @@
         <item>Галерея</item>
         <item>Музика</item>
         <item>Пошта</item>
-		<item>Відео</item>
+	<item>Відео</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
         <item>Повільна швидкість через велике навантаження</item>
@@ -726,14 +722,6 @@
        <item>Для підвищення продуктивності вимкніть системну анімацію</item>
        <item>Системна анімація може вплинути на продуктивність пристрою</item>
     </string-array>
-    <string-array name="lock_screen_secure_after_timeout_values">
-       <item>0</item>
-       <item>60000</item>
-       <item>120000</item>
-       <item>300000</item>
-       <item>900000</item>
-       <item>1800000</item>
-    </string-array>
     <string-array name="pink_panel_led_color_entries">
        <item>Фіолетовий</item>
        <item>Червоний</item>
@@ -747,7 +735,7 @@
        <item>Тільки вбудований розділ</item>
        <item>Тільки SD карта</item>
     </string-array>
-	<string-array name="alarm_repeat_type">
+    <string-array name="alarm_repeat_type">
        <item>Щодня</item>
        <item>По вихідних</item>
        <item>Обрати дні</item>
