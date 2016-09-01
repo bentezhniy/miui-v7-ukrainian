@@ -886,7 +886,6 @@
        <item>Мережа Wi-Fi</item>
        <item>Мобільна мережа</item>
     </string-array>
-	<resources>
     <string-array name="captioning_opacity_selector_titles">
        <item>25%</item>
        <item>50%</item>
