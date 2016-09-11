@@ -8,7 +8,7 @@
     </string-array>
     <string-array name="reminder_minutes_labels">
         <item>Не нагадувати</item>
-        <item>По факту</item>
+        <item>За фактом</item>
         <item>За 5 хвилин</item>
         <item>За 10 хвилин</item>
         <item>За 15 хвилин</item>
@@ -20,7 +20,7 @@
     </string-array>
     <string-array name="preferences_default_reminder_labels">
         <item>Не нагадувати</item>
-        <item>По факту</item>
+        <item>За фактом</item>
         <item>За 5 хвилин</item>
         <item>За 10 хвилин</item>
         <item>За 15 хвилин</item>
@@ -31,7 +31,7 @@
         <item>За тиждень</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>По регіону</item>
+        <item>За регіоном</item>
         <item>Субота</item>
         <item>Неділя</item>
         <item>Понеділок</item>
