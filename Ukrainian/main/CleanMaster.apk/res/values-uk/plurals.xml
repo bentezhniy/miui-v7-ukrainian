@@ -109,4 +109,18 @@
        <item quantity="other">Знайдено %d відео​</item>
        <item quantity="one">Знайдено %d відео​</item>
     </plurals>
+    <plurals name="deepclean_install_info_desc1">
+       <item quantity="other">Встановлено %d застосунків</item>
+       <item quantity="one">Встановлена %d застосунок</item>
+       <item quantity="few">Встановлені %d застосунків</item>
+       <item quantity="many">Встановлено %d застосунків</item>
+    </plurals>
+    <plurals name="dialog_content_delete_image_confirm">
+       <item quantity="other">Видалити %d фото?</item>
+       <item quantity="one">Видалити %d фото?</item>
+    </plurals>
+    <plurals name="dialog_content_delete_image_from_all_devices_confirm">
+       <item quantity="other">Видалити %1$s фото зі всіх пристроїв?</item>
+       <item quantity="one">Видалити %1$s фото зі всіх пристроїв?</item>
+    </plurals>
 </resources>
