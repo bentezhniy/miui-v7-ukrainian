@@ -601,4 +601,10 @@
     <string name="preferences_default_reminder_default">10</string>
     <string name="preferences_week_start_day_default">-1</string>
     <string name="repeat_lunar_yearly" />
+    <string name="no_visiable_calendar_message">Необхідно обрати акаунт календаря</string>
+    <string name="no_visiable_calendar_select_account">Оберіть акаунт</string>
+    <string name="no_visiable_calendar_title">Оберіть акаунт календаря</string>
+    <string name="preferences_default_reminder_default_value">10</string>
+    <string name="preferences_import_travel">Залізничні квитки</string>
+    <string name="template_week_num">%1$s тиждень</string>
 </resources>
