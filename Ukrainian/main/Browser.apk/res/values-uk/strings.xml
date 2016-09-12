@@ -1320,4 +1320,19 @@
     <string name="video_float_window_text">Повідомлення</string>
 	<string name="http">http://</string>
     <string name="pref_min_font_size_value">%dpt</string>
+    <string name="document_download_background_btn">Фонове завантаження</string>
+    <string name="document_download_cancel_btn">Скасувати</string>
+    <string name="document_download_failed">Помилка завантаження</string>
+    <string name="document_download_official">Завантаження</string>
+    <string name="document_download_open_direct">Відкрити теку</string>
+    <string name="document_download_title">Завантаження</string>
+    <string name="document_open_file">Відкрити %s</string>
+    <string name="document_open_message">Рекомендується використовувати WPS Office</string>
+    <string name="document_open_other">Інші застосунки</string>
+    <string name="document_open_title">Відкрити</string>
+    <string name="download_filter_apk">Apk</string>
+    <string name="download_filter_zip">Zip</string>
+    <string name="no_app_open_document">Відсутній застосунок для відкриття цього файлу</string>
+    <string name="save_file">Завантаження: %s</string>
+    <string name="view_document_downloaded_files">Перегляд завантажених файлів у менеджері завантажень</string>
 </resources>
