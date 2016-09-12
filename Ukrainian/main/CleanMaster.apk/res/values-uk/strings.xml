@@ -449,4 +449,16 @@
     <string name="tencent_optimizer">Політика конфіденційності Tencent Mobile</string>
     <string name="terabyteShort">" Тб"</string>
     <string name="update_date_format">d MMMM yyyy</string>
+    <string name="ad_install_success_dialog_lunch">Відкрити</string>
+    <string name="ad_install_success_dialog_title">Встановлення застосунку \"%1$s\" завершено. Запустити?</string>
+    <string name="btn_text_quick_cleanup_apk">Видалити APK: %1$s</string>
+    <string name="btn_text_quick_cleanup_appdata">Видалити дані: %1$s</string>
+    <string name="btn_text_quick_cleanup_large_file">Видалити файли: %1$s</string>
+    <string name="btn_text_quick_cleanup_video">Видалити відео: %1$s</string>
+    <string name="deep_clean_completed_tips">Очищення завершене</string>
+    <string name="deep_clean_uninstall_completed_tips">Видалення завершене</string>
+    <string name="deepclean_empty">Очистка не потрібна</string>
+    <string name="deepclean_install_info_desc2">Видалення застосунків</string>
+    <string name="hint_clean_select_items">Видалення дублікатів…</string>
+    <string name="scanning">Сканування…</string>
 </resources>
