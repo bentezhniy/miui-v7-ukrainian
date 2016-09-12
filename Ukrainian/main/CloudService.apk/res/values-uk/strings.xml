@@ -529,10 +529,18 @@ ID Вашого пристрою буде зашифровано і відпра
     <string name="micloud_wipe_data_retain">Залишити</string>
     <string name="provision_arrow_back">&lt;</string>
     <string name="provision_arrow_next">></string>
-    <string name="sub_alert_notif_content">Включіть Mi Cloud</string>
+    <string name="sub_alert_notif_content">Увімкніть Mi Cloud</string>
     <string name="trying_to_connect_to_network">"З'єднання з інтернетом…"</string>
     <string name="wipe_data_dialog_button_check_sync">Перевірка синхронізації</string>
-    <string name="wipe_data_dialog_msg">%s не синхронізовані і залишаться на вашому пристрої.</string>
+    <string name="wipe_data_dialog_msg">%s не синхронізовано і залишаться на вашому пристрої.</string>
     <string name="wipe_data_dialog_msg_and_on">, та інші елементи.</string>
-    <string name="wipe_data_dialog_title">Деякі дані не синхронізовані</string>
+    <string name="wipe_data_dialog_title">Деякі дані не синхронізовано</string>
+    <string name="search_cloudbackup_pref">"Хмарний  бекап"</string>
+    <string name="search_cloudbackup_pref_desc">Увімкнення та вимкнення хмарного бекапу</string>
+    <string name="search_cloudbackup_pref_key_words">хмарнийбекап, хмарний бекап</string>
+    <string name="search_cloudbackup_pref_path">Mi акаунт > Mi Cloud > Бекап та відновлення</string>
+    <string name="search_finddevice_pref">Пошук пристрою</string>
+    <string name="search_finddevice_pref_desc">Увімкніть та вимкніть пошук пристрою</string>
+    <string name="search_finddevice_pref_key_words">пошукпристрою, пошук пристрою</string>
+    <string name="search_finddevice_pref_path">Mi акаунт > Mi Cloud > Пошук пристрою</string>
 </resources>
