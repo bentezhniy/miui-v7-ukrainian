@@ -40,6 +40,7 @@
     <string name="dlg_no_block">Не блокувати обраний номер?</string>
     <string name="dlg_no_block_ok">Не блокувати</string>
     <string name="dlg_add_blacklist">Додати номер у чорний список?</string>
+    <string name="dlg_add_blacklist_title">Додати до чорного списку</string>
     <string name="dlg_add_blacklist_warn_conflict_title">Попередження</string>
     <string name="dlg_add_blacklist_warn_conflict_content">%1$s та інші контакти (%2$s) уже додані в білий список</string>
     <string name="dlg_remove_blacklist">Видалити номер із чорного списку?</string>
