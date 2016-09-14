@@ -2,8 +2,8 @@
 <resources>
     <string name="welcome">Ласкаво просимо!</string>
     <string name="input_method_setting">Оберіть спосіб введення</string>
-    <string name="input_method_category">Оберіть метод введення за замовчуванням</string>
-    <string name="provision_inputmethod_policy_description">"Перегляд обраної клавіатури "</string>
+    <string name="input_method_category">Оберіть спосіб введення за замовчуванням</string>
+    <string name="provision_inputmethod_policy_description">"Перегляд обраної клавіатури"</string>
     <string name="provision_inputmethod_policy_description1">Політика конфіденційності</string>
     <string name="multisim_settings_title">Виявлено 2 SIM карти</string>
     <string name="multisim_settings_category">Налаштування SIM</string>
@@ -16,24 +16,23 @@
     <string name="other_settings_location">Доступ до геолокації</string>
     <string name="other_settings_location_summary">Дозволити додаткам визначати Вашу геолокацію</string>
     <string name="other_settings_user_experience">Відправлення звітів</string>
-    <string name="other_settings_user_experience_summary">Відправляти анонімні звіти(%s)</string>
-    <string name="other_settings_user_experience_summary1">"
-політика безпеки"</string>
+    <string name="other_settings_user_experience_summary">Відправляти анонімні звіти (%s)</string>
+    <string name="other_settings_user_experience_summary1">"Політика безпеки"</string>
     <string name="next">Далі</string>
     <string name="sim_dectection_next">Продовжити</string>
     <string name="shut_down">Вимкнення</string>
     <string name="sim_redetection">Перевірити SIM карту повторно</string>
     <string name="title_congratulation">"Приготуйтесь побачити :)"</string>
     <string name="congratulation_label"> </string>
-    <string name="pref_title_voice_slot">SIM карта для викликів</string>
-    <string name="pref_title_data_slot">SIM карта для передачі даних</string>
+    <string name="pref_title_voice_slot">SIM для викликів</string>
+    <string name="pref_title_data_slot">SIM для Інтернету</string>
     <string name="summary_not_set">Не встановлене</string>
     <string name="summary_sim_card">Карта %1$d</string>
     <string name="summary_sim_card_with_operator">Карта %1$d: %2$s</string>
     <string name="ime_privacy_policy">Політика конфіденційності обраної клавіатури</string>
     <string name="ime_privacy_policy_no_network">Не вдається підключитися до Інтернету. Переглянути політику конфіденційності для цієї клавіатури ви можете на %s.</string>
-    <string name="terms_of_use">Умови використання</string>
-    <string name="terms_of_use_label">Необхідно прийняти умови використання та політику конфіденційності перед використанням MIUI</string>
+    <string name="terms_of_use">Умови користування</string>
+    <string name="terms_of_use_label">Необхідно прийняти Угоду користувача та Політику конфіденційності перед використанням MIUI</string>
     <string name="user_agreement">Угода користувача</string>
     <string name="privacy_policy">Політика конфіденційності</string>
     <string name="agree">ОК</string>
@@ -64,7 +63,7 @@
     <string name="alert_dialog_msg">Деякі функції можуть не працювати належним чином без необхідних дозволів (наприклад пристрій не зможе відобразити контактну інформацію під час розмови). Після вимкнення цих дозволів, система буде запитувати їх індивідуально для кожної функції.</string>
     <string name="alert_dialog_title">Попередження</string>
     <string name="back">Назад</string>
-    <string name="congratulation_title">Налаштування завершене</string>
+    <string name="congratulation_title">Ласкаво просимо!</string>
     <string name="content_description_complete">Готово</string>
     <string name="content_description_start">Почати</string>
     <string name="desc_extra_international_fingerprint" />

@@ -47,16 +47,16 @@
     <string name="sync_sub_dspt">Буде відправлено одне звичайне повідомлення</string>
     <string name="sync_sub_int_dspt">Буде відправлено одне міжнародне повідомлення</string>
     <string name="access_denied">Доступ заборонений</string>
-    <string name="internet_access_dspt">Для роботи застосунку потрібне підключення до інтернету</string>
+    <string name="internet_access_dspt">"Для роботи застосунку потрібне підключення до Інтернету. "</string>
     <string name="sync_on">Увімк.</string>
     <string name="sync_off">Вимк.</string>
     <string name="mx_dspt">Хмарні повідомлення</string>
     <string name="mx_voip_dspt">Хмарні повідомлення і VoIP</string>
     <string name="mx_sub_dspt_provision">Хмарні повідомлення</string>
-    <string name="mx_sub_dspt_provision_with_voip">інтернет виклик VoIP</string>
+    <string name="mx_sub_dspt_provision_with_voip">Інтернет виклик VoIP</string>
     <string name="voip_choose_sim">Выберите номер для активации VoIP</string>
     <string name="activate_number_change_dialog_message">Оберіть основний номер, який буде бачити співрозмовник під час виклику VoIP.</string>
-    <string name="phone_number_may_required_dspt_provision">Цій послузі може знадобитися Ваш номер телефону.</string>
+    <string name="phone_number_may_required_dspt_provision">"Цій послузі може знадобитися Ваш номер телефону. "</string>
     <string name="phone_number_required_dspt_provision">Цій послузі потрібен Ваш номер телефону.</string>
     <string name="sync_resend_sms_dspt_provision">При зміні SIM-карти, може бути відправлено одне повідомлення для повторної активації.</string>
     <string name="sync_dspt_provision_title">Mi Cloud</string>
@@ -65,8 +65,8 @@
     <string name="sync_dspt_provision2_int">mi.com/micloud</string>
     <string name="sync_dspt_provision3">". Ви можете змінити цю функцію у будь-який час у налаштуваннях.
 "</string>
-    <string name="sync_dspt_entrance_provision">Синхронізуйте фото, контакти, повідомлення на %s.</string>
-    <string name="sync_dspt_entrance_provision_2">Детальніше.</string>
+    <string name="sync_dspt_entrance_provision">"Синхронізуйте фото, контакти, повідомлення на %s. "</string>
+    <string name="sync_dspt_entrance_provision_2">Детальніше</string>
     <string name="sync_dspt_entrance_provision_confirm_close">ОК</string>
     <string name="sync_dspt_entrance_provision_confirm_open">Відміна</string>
     <string name="sync_dspt_entrance_provision_confirm_title">Пропустити авторизацію Mi Cloud?</string>
@@ -81,7 +81,7 @@
     <string name="mx_dspt_provision">"Хмарні повідомлення дозволяють Вам безкоштовно відправляти повідомлення іншим користувачам MIUI.
 
 Ви можете увімкнути або вимкнути цю функцію пізніше у налаштуваннях."</string>
-    <string name="mx_dspt_provision_with_voip">За допомогою функції VoIP користувачі MIUI можуть спілкуватися безкоштовно через інтернет. Політика конфіденційності</string>
+    <string name="mx_dspt_provision_with_voip">За допомогою функції VoIP користувачі MIUI можуть спілкуватися безкоштовно через Інтернет. Політика конфіденційності</string>
     <string name="mx_dspt_provision_with_voip2">Політика конфіденційності</string>
     <string name="mx_dspt_provision_privacy">"Цій послузі потрібен номер Вашого телефону. Для її активації, може бути відправлено одне звичайне повідомлення.
 \u0009 
@@ -89,8 +89,8 @@ ID Вашого пристрою буде зашифровано і відпра
     <string name="mx_dspt_provision_privacy_2_sim">"Для використання цієї функції може знадобитися номер Вашого телефону. При її активації може стягуватися плата за 2 SMS.
 
 Ваш ID буде зашифровано і відправлено на сервер Xiaomi."</string>
-    <string name="user_agreement_p6">Використання цієї функції підлягає</string>
-    <string name="user_agreement_p7">Умовам користування Mi Cloud</string>
+    <string name="user_agreement_p6">"Використання цієї функції визначається "</string>
+    <string name="user_agreement_p7">Умовами користування Mi Cloud</string>
     <string name="user_agreement_p8">.</string>
     <string name="user_agreement_title">Умови користування Mi Cloud</string>
     <string name="privacy_policy">Політика конфіденційності</string>
@@ -110,7 +110,7 @@ ID Вашого пристрою буде зашифровано і відпра
     <string name="find_device_notice_p1">Відвідаєте сайт</string>
     <string name="find_device_notice_p2">i.mi.com</string>
     <string name="find_device_notice_p3">"для пошуку, блокування пристрою або відновлення даних.
-При зміні SIM-карти, буде відправлено повідомлення для повторного увімкнення послуги."</string>
+При заміні SIM-карти, буде відправлено повідомлення для повторного увімкнення послуги."</string>
     <string name="i_know">ОК</string>
     <string name="find_device_disabled_title">Пошук пристрою вимкнений</string>
     <string name="find_device_disabled_notice">Для увімкнення зайдіть до налаштування > аккаунти > Mi Cloud</string>
@@ -182,11 +182,11 @@ ID Вашого пристрою буде зашифровано і відпра
     <string name="micloud_user_space_title">Хмара</string>
     <string name="sync_sub_dspt_provision">Переглядайте і керуйте даними у будь-який час</string>
     <string name="btn_return">Назад</string>
-    <string name="sync_sub_1_sms">Для активації SIM-карти, буде відправлено одне звичайне повідомлення</string>
-    <string name="sync_sub_1_intl_sms">Для активації SIM-карти, буде відправлено одне міжнародне повідомлення.</string>
-    <string name="sync_sub_2_sms">Для активації SIM-карт, буде відправлено одне звичайне повідомлення.</string>
-    <string name="sync_sub_2_intl_sms">Для активації SIM-карт, буде відправлено два міжнародних повідомлення.</string>
-    <string name="sync_sub_1_sms_1_intl_sms">Для активації SIM-карт, буде відправлено одне міжнародне і одне звичайне повідомлення.</string>
+    <string name="sync_sub_1_sms">"Для активації SIM-карти, буде відправлено одне звичайне повідомлення. "</string>
+    <string name="sync_sub_1_intl_sms">"Для активації SIM-карти, буде відправлено одне міжнародне повідомлення. "</string>
+    <string name="sync_sub_2_sms">"Для активації SIM-карт, буде відправлено одне звичайне повідомлення. "</string>
+    <string name="sync_sub_2_intl_sms">"Для активації SIM-карт, буде відправлено два міжнародних повідомлення. "</string>
+    <string name="sync_sub_1_sms_1_intl_sms">"Для активації SIM-карт, буде відправлено одне міжнародне і одне звичайне повідомлення. "</string>
     <string name="sync_item_calllog_title">Синхронізація викликів</string>
     <string name="sync_item_calllog_summary">Синхронізувати журнал викликів цього телефону</string>
     <string name="view_storage_title">Хмара</string>

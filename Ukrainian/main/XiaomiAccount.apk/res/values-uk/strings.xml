@@ -87,10 +87,10 @@
     <string name="passport_email_reg_success_summary">"%1$s прив'язаний до вашого аккаунту. Ви можете використовувати його для входу або для сбросу паролю."</string>
     <string name="passport_area_code_title">Код країни</string>
     <string name="passport_area_code_hot">Популярні</string>
-    <string name="passport_user_agreement_p1">Прийняти</string>
-    <string name="passport_user_agreement_p2">" умови користування"</string>
+    <string name="passport_user_agreement_p1">"Прийняти "</string>
+    <string name="passport_user_agreement_p2">"Угоду користувача"</string>
     <string name="passport_user_agreement_p3">" і "</string>
-    <string name="passport_user_agreement_p4">політика конфіденційності</string>
+    <string name="passport_user_agreement_p4">Політику конфіденційності</string>
     <string name="passport_privacy_policy">Політика конфіденційності</string>
     <string name="passport_user_agreement">Умови користування</string>
     <string name="passport_loading">Завантаження…</string>
@@ -392,7 +392,7 @@
     <string name="micloud_user_phone">Номер телефону</string>
     <string name="micloud_user_space_title">"Пам'ять"</string>
     <string name="micloud_via_int_sms_alert">Буде відправлено SMS у роумінгу для підтвердження вашого телефонного номера</string>
-    <string name="micloud_via_sms_alert">При активації по SMS може стягуватися додаткова плата оператором</string>
+    <string name="micloud_via_sms_alert">При активації по SMS оператором може стягуватися додаткова плата</string>
     <string name="micloud_welcome_skip_login">Пропустити</string>
     <string name="micloud_welcome_skip_login_provision"><u>Пропустити</u></string>
     <string name="opening_page">Завантаження...</string>

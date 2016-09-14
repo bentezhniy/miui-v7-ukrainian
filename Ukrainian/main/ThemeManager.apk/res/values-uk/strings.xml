@@ -411,8 +411,8 @@
     <string name="incompatible_dialog_ok">ОК</string>
     <string name="incompatible_dialog_title">Проблеми із сумісністю</string>
     <string name="local_resouce_creator_name">Розробник: %1$s</string>
-    <string name="no_data">Не вдається підключитися до інтернету</string>
-    <string name="provision_default_theme_title">Первинна</string>
+    <string name="no_data">Не вдається підключитися до Інтернету</string>
+    <string name="provision_default_theme_title">За замовчуванням</string>
     <string name="provision_loading_tips">Завантаження…</string>
     <string name="provision_second_title">Оберіть тему</string>
     <string name="provision_title">Теми</string>
