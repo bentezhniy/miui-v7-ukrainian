@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ims_settings">Налаштування IMS</string>
+    <string name="ims_vt_call_quality">Якість виклику</string>
+    <string name="ims_vt_call_quality_title">Якість виклику</string>
+    <string name="ims_vt_call_quality_low">Низька</string>
+    <string name="ims_vt_call_quality_high">Висока</string>
+    <string name="ims_vt_call_quality_unknown">Невідомо</string>
+    <string name="ims_vt_call_quality_set_failed">Не вдається встановити якість виклику</string>
+    <string name="ims_pc_count">ImsPacketCount</string>
+    <string name="ims_per_count">ImsPacketErrorCount</string>
+    <string name="ims_get_packet_count_failed">Не вдалося отримати кількість пакетів</string>
+    <string name="ims_get_packet_error_count_failed">Не вдалося отримати кількість пакетних помилок</string>
+    <string name="ims_get_packet_count_label">Натисніть для отримання кількості пакетів</string>
+    <string name="ims_get_packet_error_count_label">Натисніть для отримання кількості пакетних помилок</string>
+    <string name="qti_ims_call_deflect">calldeflect</string>
+    <string name="qti_ims_call_deflect_title">Відхилити виклик</string>
+    <string name="qti_ims_number_not_set">Не встановлено</string>
+    <string name="ims_to_cs_retry">ImsToCsRetry</string>
+    <string name="ims_to_cs_retry_title">Повтор звичайного виклику</string>
+    <string name="ims_to_cs_retry_summary">Автоматично здійснювати звичайний виклик при повторі</string>
+</resources>

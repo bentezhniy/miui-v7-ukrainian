@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Сервіс захисту</string>
+    <string name="ok_button">ОК</string>
+    <string name="cancel_button">Скасувати</string>
+    <string name="privacy_declare_dialog_title">Умови користування</string>
+    <string name="privacy_prompt_traffic_purchase_message">Ваш номер телефону та інформація про оператора буде зашифрована і відправлена на сервер Xiaomi для отримання інформації про оплату</string>
+    <string name="miuishare_title_more">Ще</string>
+    <string name="miuishare_title_share">Надіслати</string>
+    <string name="miuishare_wechat_timeline_title">Моменти WeChat</string>
+    <string name="miuishare_weibo_title">Weibo</string>
+    <string name="network_not_available">Не вдається підключитися до інтернету</string>
+    <string name="no_network_btn">Повторення</string>
+    <string name="main_toolbar_purchase">Поповнити</string>
+    <string name="usage_sorted_loading_text">Завантаження…</string>
+    <string name="month_report_activity_label">Monthly report</string>
+    <string name="month_report_disconnect_tip">"Can't connect to the network"</string>
+    <string name="month_report_click_reconnect_network">Try again</string>
+    <string name="month_report_warning_dialog_title">Monthly security report</string>
+    <string name="month_report_warning_dialog_description">"To view monthly report, turn this feature on in Security app's Settings."</string>
+    <string name="month_report_warning_dialog_positive">Turn on</string>
+    <string name="month_report_history_activity_label">Report history</string>
+    <string name="month_report_result_share">Share</string>
+    <string name="month_report_share_img_fail">"Couldn't share"</string>
+    <string name="month_report_share_loading">Just a sec…</string>
+    <string name="month_report_network_dialog_title">"Can't get report info"</string>
+    <string name="month_report_network_dialog_description">Allow this app to connect to the internet to get report info?</string>
+    <string name="month_report_network_dialog_positive">Allow</string>
+    <string name="month_report_follow_service_title">Security updates</string>
+    <string name="month_report_follow_service_summary">"Stay up to date with security news and info by following MIUI Security app's official account."</string>
+    <string name="month_report_follow_service_positive">Follow</string>
+    <string name="month_report_follow_service_negative">No thanks</string>
+    <string name="app_not_installed_toast">"App isn't installed on your device."</string>
+    <string name="empty">" "</string>
+    <string name="share">Надіслати</string>
+    <string name="open_browser">Відкрити в браузері</string>
+    <string name="title_share_link">Надіслати посилання</string>
+    <string name="pm_lable_name">Про ROOT-доступ</string>
+    <string name="pc_activity_title">Оптимізація батареї</string>
+</resources>
