@@ -872,7 +872,7 @@
     </string-array>
     <string-array name="status_bar_style_entries">
        <item>Одна сторінка</item>
-       <item>Дві вкладки</item>
+       <item>Дві сторінки</item>
     </string-array>
     <string-array name="usb_configuration_titles">
        <item>@string/usb_use_charging_only</item>

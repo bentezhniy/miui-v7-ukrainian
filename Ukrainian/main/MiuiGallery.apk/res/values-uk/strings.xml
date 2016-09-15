@@ -666,7 +666,7 @@
     <string name="face_album_new_name_hint">"Нове ім'я"</string>
     <string name="face_albumset_loading_data">Завантаження даних…</string>
     <string name="face_albumset_pending_enable_tip">Сортування буде виконуватись при активному підключенні до мережі Wi-Fi</string>
-    <string name="face_choose_tip">Вибрати із альбому</string>
+    <string name="face_choose_tip">Вибрати з альбому</string>
     <string name="highlight2">Яскравість</string>
     <string name="highlight_abbr">Я</string>
     <string name="hybrid_check_network">Налаштування інтернету</string>
@@ -958,8 +958,8 @@
     <string name="delete_album_msg_format">Видалити альбом \"%2$s\" %1$s%3$s?</string>
     <string name="delete_album_success">Альбом видалено</string>
     <string name="delete_finish_format">Видалено: %d</string>
-    <string name="delete_from_album">із альбому \"%s\" на всіх пристроях</string>
-    <string name="delete_from_album_no_account">із альбому \"%s\"</string>
+    <string name="delete_from_album">з альбому \"%s\" на всіх пристроях</string>
+    <string name="delete_from_album_no_account">з альбому \"%s\"</string>
     <string name="delete_from_all_devices">із усіх пристроїв</string>
     <string name="delete_from_cloud">Видалити файли із Mi Cloud</string>
     <string name="delete_from_devices">із усіх синхронізованих пристроїв</string>
