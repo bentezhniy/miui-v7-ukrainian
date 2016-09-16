@@ -86,4 +86,9 @@
 	<string name="default_search_domain">.google.ua</string>
     <string name="voice_search_hint_quotation_end">\"</string>
     <string name="voice_search_hint_quotation_start">\"</string>
+	<string name="application_desc">Пошук інстальованих застосунків</string>
+    <string name="applications_search_label">Застосунки</string>
+    <string name="baidu_search_url_from_minus_one">https://www.google.ru/search?q=%s&amp;tn=ins</string>
+    <string name="provider_uri">content://com.android.quicksearchbox.xiaomi/suggest_last_access_hint</string>
+    <string name="settings_description">Інстальовані застосунки</string>
 </resources>

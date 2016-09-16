@@ -1265,4 +1265,14 @@
     <string name="share_app_is_launching">Застосунок запущено</string>
 	<string name="quotation">%s</string>
     <string name="welcome_to_auto_backup">Ласкаво просимо до Mi Cloud</string>
+	<string name="app_name_view_video">Перегляд відео</string>
+    <string name="disable_auto_upload_tip">Видалені та нові фото не будуть синхронізуватися з Mi Cloud. Цей альбом буде переміщено до \"Інших альбомів\".</string>
+    <string name="disable_auto_upload_title">Вимикання синхронізації</string>
+    <string name="doodle_big_size">Велика</string>
+    <string name="doodle_middle_size">Середня</string>
+    <string name="doodle_small_size">Маленька</string>
+    <string name="doodle_super_big_size">Величезна</string>
+    <string name="enable_auto_upload_tip">Після вмикання цей альбом буде видалено з \"Інших альбомів\"</string>
+    <string name="enable_auto_upload_title">Вмикання синхронізації з Mi Cloud</string>
+    <string name="loading_dual_tip">Завантаження подвійного фото…</string>
 </resources>

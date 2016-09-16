@@ -463,4 +463,7 @@
 	<string name="unit_en_billion">Б</string>
     <string name="unit_en_million">М</string>
     <string name="unit_en_thounsand">Т</string>
+	<string name="choose_open_picture">Оберіть дію</string>
+    <string name="unit_cn_hundredmillions">100 млн.</string>
+    <string name="unit_cn_tenthousands">10 тис.</string>
 </resources>

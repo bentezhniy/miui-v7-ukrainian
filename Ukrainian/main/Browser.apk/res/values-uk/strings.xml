@@ -1335,4 +1335,11 @@
     <string name="no_app_open_document">Відсутній застосунок для відкриття цього файлу</string>
     <string name="save_file">Завантаження: %s</string>
     <string name="view_document_downloaded_files">Перегляд завантажених файлів у менеджері завантажень</string>
+	<string name="not_allowed_open">Не дозволяється використовувати Браузер при першому увімкненні</string>
+    <string name="video_download_finding_address">Пошук адреси</string>
+    <string name="video_manager_action_bar_end_view">Відео</string>
+    <string name="video_subtitle_last_message1">Залишилося меньше хвилини</string>
+    <string name="video_subtitle_prefix1">Переглянуто</string>
+    <string name="video_subtitle_prefix2">"Переглянуто "</string>
+    <string name="video_unknown_duration">-:-</string>
 </resources>

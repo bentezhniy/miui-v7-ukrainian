@@ -1589,4 +1589,6 @@
     <string name="unknown_phone_number_detail_failed">Не вдається показати інформацію невідомому номеру</string>
     <string name="useful_numbers">Корисні номери</string>
     <string name="vcard_info_send_error">Неправильна контактна інформація</string>
+	<string name="cloud_antispam_marked">Позначено</string>
+    <string name="search_input_hint">Пошук номерів або телефонних послуг</string>
 </resources>

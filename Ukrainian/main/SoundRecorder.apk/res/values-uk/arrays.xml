@@ -28,4 +28,16 @@
        <item>MP3</item>
        <item>AMR</item>
     </string-array>
+	<string-array name="hd_record_scenes_entries">
+       <item>Музика</item>
+       <item>Голос</item>
+       <item>"Інтерв'ю"</item>
+       <item>HD</item>
+    </string-array>
+    <string-array name="record_scenes_summaries">
+       <item>Запис з двох каналів для стерео звуку</item>
+       <item>Тримайте мікрофон ближче до джерела звуку для кращої якості</item>
+       <item>Тримайте телефон між двома людьми для якісного запису</item>
+       <item>Максимально ефективна відстань від мікрофону - 10 метрів</item>
+    </string-array>
 </resources>

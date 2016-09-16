@@ -349,11 +349,12 @@
         <item>"Завтра "</item>
     </string-array>
     <string-array name="alarm_repeat_type">
-        <item>Одноразово</item>
-        <item>Щодня</item>
-        <item>" У робочі дні "</item>
-        <item>По буднях</item>
-        <item>Вибрати дні</item>
+       <item>Одноразово</item>
+       <item>Щоденно</item>
+       <item>Рабочі дні</item>
+       <item>Святкові дні</item>
+       <item>"Понеділок-п'ятниця"</item>
+       <item>Користувацький</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Однократно</item>

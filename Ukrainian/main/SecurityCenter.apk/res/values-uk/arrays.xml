@@ -39,6 +39,7 @@
         <item>Через 1 хвилину</item>
         <item>Через 5 хвилин</item>
         <item>Через 10 хвилин</item>
+		<item>Через 30 хвилин</item>
         <item>Ніколи</item>
     </string-array>
     <string-array name="power_dialog_sleep_items">

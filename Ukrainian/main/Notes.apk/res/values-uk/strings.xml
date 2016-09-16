@@ -182,4 +182,8 @@
     <string name="toast_unmark_privacy_notes">Пересено з приватних</string>
     <string name="toast_unmark_privacy_notes_count">%1$s перенесено з приватних</string>
     <string name="trash_folder_name">Корзина</string>
+	<string name="alert_title_hidden_note">Отримане приховане нагадування</string>
+    <string name="error_send_empty_note">Не вдається надіслати порожню нотатку</string>
+    <string name="error_send_empty_note_to_weibo">Не вдається надіслати порожню нотатку у Weibo</string>
+    <string name="menu_new_folder">Нова тека</string>
 </resources>

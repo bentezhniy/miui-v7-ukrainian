@@ -40,4 +40,9 @@
     <string name="avast_virus_type_trjan_description">"Вірус троян є програмним забезпеченням, яке здійснює різні несанкціоновані користувачем дії: збір інформації і її передачу зловмисникові, її руйнування або зловмисну модифікацію, порушення працездатності комп'ютера, використання ресурсів комп'ютера в непристойних цілях. Трояни зазвичай не мають можливості самовільно поширюватися."</string>
     <string name="avast_virus_type_unknown_description">Невідомий тип вірусу</string>
     <string name="avast_virus_type_worm_description">"Вірус черв'як представляє собою програмне забезпечення, яке самостійно поширюється через локальні і глобальні комп'ютерні мережі. Здатні перевантажувати і виводити з ладу мережі за рахунок інтенсивного поширення."</string>
+	<string name="avast_dialog_url">http://api.sec.miui.com/policy/proxy?p=avast&amp;l=en_US</string>
+    <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
+    <string name="default_sdcard_volume_path" />
+    <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
+    <string name="title_activity_main">MainActivity</string>
 </resources>

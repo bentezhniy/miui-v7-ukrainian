@@ -364,4 +364,7 @@
     <string name="virtual_print_queue_notification_bluetooth_disabled_text">Увімкніть Bluetooth, щоб знайти принтери поблизу</string>
     <string name="virtual_print_queue_notification_select_printer_button_text">Виберіть принтер, на якому хочете друкувати</string>
     <string name="virtual_print_queue_notification_more_documents">+ ще %1$d</string>
+	<string name="common_google_play_services_restricted_profile_text">Ваш профіль не має доступу до акаунтів.</string>
+    <string name="common_google_play_services_restricted_profile_title">Профіль з обмеженим доступом</string>
+    <string name="common_google_play_services_wear_update_text">Поточна версія сервісів Google Play застаріла. Сервіси оновляться автоматично найближчим часом.</string>
 </resources>

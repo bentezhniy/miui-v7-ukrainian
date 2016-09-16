@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="actionbar_unread_messages">
-        <item quantity="other">Непрочитаних: %1$d</item>
+        <item quantity="other">Нових повідомлень: %1$d</item>
+		<item quantity="one">Нових повідомлень: %1$d</item>
     </plurals>
     <plurals name="confirm_archive_conversation">
         <item quantity="other">Архівувати діалоги? (%1$d)</item>

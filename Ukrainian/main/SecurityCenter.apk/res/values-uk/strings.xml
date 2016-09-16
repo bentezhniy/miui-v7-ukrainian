@@ -2026,4 +2026,10 @@
     <string name="operator_number_telcom">10000</string>
     <string name="operator_number_unicom">10010</string>
     <string name="power_save_on_time_default_time_na">00:00</string>
+	<string name="card_main_private_space_action">Створити</string>
+    <string name="card_main_private_space_summary">Використовуйте як другий пристрій</string>
+    <string name="card_main_private_space_title">Другий користувач</string>
+    <string name="card_main_xspace_action">Створити</string>
+    <string name="card_main_xspace_summary">Другий акаунт для застосунків</string>
+    <string name="card_main_xspace_title">Клоновані застосунки</string>
 </resources>

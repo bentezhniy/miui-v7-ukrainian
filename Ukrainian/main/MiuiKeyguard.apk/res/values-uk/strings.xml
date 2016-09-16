@@ -102,4 +102,5 @@ EEEE"</string>
     <string name="lock_wallpaper_enter">Введення</string>
     <string name="lock_wallpaper_learn_more">Ще ></string>
     <string name="lock_wallpaper_see_more">Ще ></string>
+	<string name="symbol_colon">:</string>
 </resources>

@@ -892,4 +892,15 @@
        <item>75%</item>
        <item>100%</item>
     </string-array>
+	<string-array name="anr_record_interval_entries">
+       <item>10 секунд</item>
+       <item>20 секунд</item>
+       <item>30 секунд</item>
+       <item>1 хвилина</item>
+    </string-array>
+    <string-array name="long_press_volume_down_action">
+       <item>Дій немає</item>
+       <item>Режим зйомки</item>
+       <item>Режим NFC</item>
+    </string-array>
 </resources>

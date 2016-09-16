@@ -36,4 +36,8 @@
         <item>MULTISIM VARIANT</item>
         <item>MBN File</item>
     </string-array>
+	<string-array name="locations">
+       <item>@string/phone_storage</item>
+       <item>@string/sdcard</item>
+    </string-array>
 </resources>

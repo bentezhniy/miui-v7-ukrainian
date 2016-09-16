@@ -153,4 +153,9 @@
        <item>Забруднений</item>
        <item>Поганий</item>
     </string-array>
+	<string-array name="weather_notif_type_entries">
+       <item>Іконка погоди</item>
+       <item>Температура</item>
+       <item>Комбінована (у розробці)</item>
+    </string-array>
 </resources>

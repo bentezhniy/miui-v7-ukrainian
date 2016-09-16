@@ -63,4 +63,10 @@
        <item quantity="few">Видалити %1$d елементів з історії?</item>
        <item quantity="many">Видалити %1$d елементів з історії?</item>
     </plurals>
+	<plurals name="video_subtitle_last_message">
+       <item quantity="other">Залишилося %d хв.</item>
+       <item quantity="one">Залишилася %d хв.</item>
+       <item quantity="few">Залишилося %d хв.</item>
+       <item quantity="many">Залишилося %d хв.</item>
+    </plurals>
 </resources>

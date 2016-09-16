@@ -296,4 +296,16 @@
        <item quantity="few">%1$s відтворення</item>
        <item quantity="many">%1$s відтворень</item>
     </plurals>
+	<plurals name="number_of_comment_flow">
+       <item quantity="other">%1$s відгуків</item>
+       <item quantity="zero">%1$s відгуків</item>
+       <item quantity="one">%1$s відгук</item>
+       <item quantity="two">%1$s відгуки</item>
+       <item quantity="few">%1$s відгуки</item>
+       <item quantity="many">%1$s відгуків</item>
+    </plurals>
+    <plurals name="user_sign_limt">
+       <item quantity="other">Ви можете ввести %d символів</item>
+       <item quantity="one">Ви можете ввести %d символ</item>
+    </plurals>
 </resources>

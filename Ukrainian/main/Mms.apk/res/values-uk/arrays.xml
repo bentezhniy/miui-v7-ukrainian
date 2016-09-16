@@ -89,4 +89,8 @@
         <item>Отримані</item>
         <item>Надіслані</item>
     </string-array>
+	<string-array name="wild_msg_sync_options">
+       <item>Усі повідомлення</item>
+       <item>Обрані SIM-карти</item>
+    </string-array>
 </resources>
