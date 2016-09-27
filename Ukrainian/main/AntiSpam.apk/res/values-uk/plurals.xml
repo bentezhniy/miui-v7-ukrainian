@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="fw_blocked_count_call">
-        <item quantity="other">Викликів: %d</item>
-        <item quantity="one">Виклик: 1</item>
+       <item quantity="other">%d викликів</item>
+       <item quantity="one">%d виклик</item>
+       <item quantity="few">%d виклики</item>
+       <item quantity="many">%d викликів</item>
     </plurals>
     <plurals name="fw_blocked_count_sms">
         <item quantity="other">Повідомлень: %d</item>

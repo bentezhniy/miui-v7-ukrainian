@@ -59,12 +59,16 @@
        <item quantity="one">%d застосунок задає умови</item>
     </plurals>
 	<plurals name="status_bar_settings_disabled_header_title">
-       <item quantity="other">Застосунків без сповіщень: %s</item>
-       <item quantity="one">Застосунків без сповіщень: %s</item>
+       <item quantity="other">%s застосунків без сповіщень</item>
+       <item quantity="one">%s застосунок без сповіщення</item>
+       <item quantity="few">%s застосунки без сповіщень</item>
+       <item quantity="many">%s застосунків без сповіщень</item>
     </plurals>
     <plurals name="status_bar_settings_enabled_header_title">
-       <item quantity="other">Застосунків зі сповіщенями: %s</item>
-       <item quantity="one">Застосунків зі сповіщенями: %s</item>
+       <item quantity="other">%s застосунків зі сповіщеннями</item>
+       <item quantity="one">%s застосунок зі сповіщеннями</item>
+       <item quantity="few">%s застосунки зі сповіщеннями</item>
+       <item quantity="many">%s застосунків зі сповіщеннями</item>
     </plurals>
 	<plurals name="auto_disable_screenbuttons_disabled_header_title">
        <item quantity="other">Увімкнені для %d застосунків</item>
