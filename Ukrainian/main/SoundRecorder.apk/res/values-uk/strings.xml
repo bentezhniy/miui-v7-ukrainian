@@ -173,4 +173,8 @@
     <string name="btn_clear_records">Видалити записи (%d)</string>
     <string name="choose_call_records_count">%d</string>
     <string name="clear_records">Видалення записів у Mi Cloud</string>
+	<string name="default_record_name">Запис без імені</string>
+    <string name="low_battery_error_confirm">ОК</string>
+    <string name="low_battery_error_title">Низький заряд батареї</string>
+    <string name="menu_view_record_list">Переглянути список записів</string>
 </resources>

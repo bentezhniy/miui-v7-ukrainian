@@ -91,4 +91,9 @@
     <string name="baidu_search_url_from_minus_one">https://www.google.ru/search?q=%s&amp;tn=ins</string>
     <string name="provider_uri">content://com.android.quicksearchbox.xiaomi/suggest_last_access_hint</string>
     <string name="settings_description">Інстальовані застосунки</string>
+	<string name="apps_search_activity" />
+    <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
+    <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
+    <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
+    <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v4/topclick</string>
 </resources>

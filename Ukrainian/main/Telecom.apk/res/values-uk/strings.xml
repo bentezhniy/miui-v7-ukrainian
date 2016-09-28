@@ -54,4 +54,5 @@
     <string name="dial_conference_fail_prompt">Не вдається набрати конференцію напряму. Поточна мережа не підтримує VoLTE.</string>
     <string name="can_not_dial_while_vt_prompt">Неможливо набрати номер під час відеовиклику</string>
     <string name="voice_dial_out">ОК</string>
+	<string name="can_not_dial_vt_while_voice_prompt">Неможливо здійснити відеовиклик під час голосового виклику</string>
 </resources>

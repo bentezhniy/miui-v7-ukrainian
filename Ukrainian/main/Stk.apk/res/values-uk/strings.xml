@@ -29,4 +29,8 @@
     <string name="stk_dialog_reject">Скасувати</string>
 	<string name="airplanemode">Не вдалося запустити застосунок. Увімкнено режим В літаку.</string>
     <string name="stk_intent_permission">Дозволити STK запити</string>
+	<string name="no_sim_card_inserted">Вставте SIM карту для запуску SIM сервісу</string>
+    <string name="sim_type_sim_name">SIM сервіс</string>
+    <string name="sim_type_uim_name">UIM сервіс</string>
+    <string name="sim_type_usim_name">USIM сервіс</string>
 </resources>

@@ -72,14 +72,18 @@
         <item>bing</item>
     </string-array>
     <string-array name="search_engines_default">
-        <item>google</item>
-        <item>dianping</item>
-        <item>bing</item>
+       <item>google</item>
+       <item>yandex</item>
+       <item>bing</item>
+       <item>yahoo</item>
+       <item>baidu</item>
     </string-array>
     <string-array name="search_bar_search_engines_default">
-        <item>google</item>
-        <item>dianping</item>
-        <item>bing</item>
+       <item>google</item>
+       <item>yandex</item>
+       <item>bing</item>
+       <item>yahoo</item>
+       <item>baidu</item>
     </string-array>
     <string-array name="dianping_in_list">
         <item>search_dianping</item>
@@ -162,5 +166,18 @@
     <string-array name="shortcut_dialog_title">
        <item>Повідомлення від браузера</item>
        <item>Стежте за Олімпіадою разом з Mi</item>
+    </string-array>
+	<string-array name="yandex">
+       <item>Yandex</item>
+       <item>yandex.ru</item>
+       <item>http://yandex.ru/favicon.ico</item>
+       <item>http://yandex.ru/yandsearch?text={searchTerms}</item>
+       <item>UTF-8</item>
+       <item>http://suggest.yandex.net/suggest-ff.cgi?part={searchTerms}</item>
+    </string-array>
+    <string-array name="yandex_in_list">
+       <item>search_sm</item>
+       <item>ic_search_engine_yandex</item>
+       <item>yandex</item>
     </string-array>
 </resources>

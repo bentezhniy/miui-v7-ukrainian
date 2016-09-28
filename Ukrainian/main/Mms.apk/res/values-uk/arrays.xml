@@ -52,8 +52,9 @@
         <item>SIP телефон</item>
         <item>День народження</item>
         <item>Сайт</item>
-        <item>Адрес</item>
-        <item>Примітки</item>
+        <item>Адреса</item>
+        <item>Замітка</item>
+        <item>"Зв'язок"</item>
     </string-array>
     <string-array name="entries_date_type">
         <item>Час отримання</item>

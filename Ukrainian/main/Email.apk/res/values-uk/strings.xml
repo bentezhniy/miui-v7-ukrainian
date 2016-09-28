@@ -1181,4 +1181,22 @@
     <string name="veiled_alternate_text_unknown_person" />
     <string name="veiled_summary_unknown_person" />
 	<string name="compose_paste_address_oob">Вставлений символ занадто довгий. Його було скорочено.</string>
+	<string name="account_setup_options_mail_window_1quarter">за минулий квартал</string>
+    <string name="drawer_contacts">Контакти</string>
+    <string name="elided_padding_token"> </string>
+    <string name="email_feedback_uri" />
+    <string name="general_preference_str_auto_translation">Швидкий переклад</string>
+    <string name="general_preference_str_auto_translation_prompt">Перекладати скопійований текст з повідомлення</string>
+    <string name="protocol_eas">eas</string>
+    <string name="protocol_imap">imap</string>
+    <string name="protocol_legacy_imap">imap</string>
+    <string name="protocol_pop3">pop3</string>
+    <string name="translation_loading">Завантаження…</string>
+    <string name="translation_no_result">Немає результатів</string>
+    <string name="translation_pronunciation_am">ArE</string>
+    <string name="translation_pronunciation_cn">Pinyin</string>
+    <string name="translation_pronunciation_en">BrE</string>
+    <string name="translation_pronunciation_other">Інше</string>
+    <string name="translation_query_failure">Помилка пошуку</string>
+    <string name="translation_technology_support">Підтримка: PowerWord</string>
 </resources>

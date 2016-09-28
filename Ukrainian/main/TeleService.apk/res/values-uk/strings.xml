@@ -1993,4 +1993,27 @@ sim карта буде очищена при невдалій спробі вв
     <string name="wifi_pref_none">Не вибрано</string>
     <string name="wifi_preferred">Переважно Wi-Fi</string>
 	<string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
+	<string name="CFActivate">Активувати</string>
+    <string name="CFDeactivate">Деактивувати</string>
+    <string name="call_background_default">Зображення за замовчуванням</string>
+    <string name="call_background_lock_wallpaper">Шпалери екрану блокування</string>
+    <string name="call_background_setting">Фон екрану виклику</string>
+    <string name="call_forward_option">Параметри переадресації викликів</string>
+    <string name="config_disable_cdma_activation_code">false</string>
+    <string name="incall_error_ecm_emergency_only">Вийти з режиму екстреного виклику, щоб зробити звичайний дзвінкок.</string>
+    <string name="labelCFDeactAll">Деактивувати усі</string>
+    <string name="labelCFNRc_cdma">Переадресація</string>
+    <string name="labelCFType">Налаштування переадресації викликів</string>
+    <string name="labelCFVideo">Відео</string>
+    <string name="labelCFVoice">Голос</string>
+    <string name="menu_dial_string">Дзвінок</string>
+    <string name="network_tdscdma">Лише TDSCDMA</string>
+    <string name="null_phone_number">Телефонний номер не може бути порожнім!</string>
+    <string name="path_call_background_setting_name">Системні застосунки > Виклики > Додатково > Фон екрану виклику</string>
+    <string name="preferred_network_mode_tdscdma_summary">Бажаний режим мережі: TDSCDMA</string>
+    <string name="tty_mode_key">button_tty_mode_key</string>
+    <string name="voicemail_notification_ringtone_key">voicemail_notification_ringtone_key</string>
+    <string name="voicemail_notification_vibrate_key">voicemail_notification_vibrate_key</string>
+    <string name="voicemail_visual_voicemail_key">voicemail_visual_voicemail_key</string>
+    <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
 </resources>

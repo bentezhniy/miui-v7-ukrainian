@@ -86,16 +86,20 @@
        <item quantity="many">Переглядів: %1$d</item>
     </plurals>
 	<plurals name="deepclean_app_summary">
-       <item quantity="other">Встановлено застосунків: %d</item>
-       <item quantity="one">Встановлено застосунків: %d</item>
+       <item quantity="other">Встановлено %d застосунків. Рекомендується видалити невикористовувані.</item>
+       <item quantity="one">Встановлено %d застосунок. Рекомендується видалити невикористовувані.</item>
+       <item quantity="few">Встановлено %d застосунки. Рекомендується видалити невикористовувані.</item>
+       <item quantity="many">Встановлено %d застосунків. Рекомендується видалити невикористовувані.</item>
     </plurals>
     <plurals name="deepclean_cache_summary">
        <item quantity="other">Ви можете очистити кеш для %d застосунків</item>
        <item quantity="one">Ви можете очистити кеш для %d застосунку</item>
     </plurals>
     <plurals name="deepclean_large_summary">
-       <item quantity="other">Знайдено великих файлів: %d</item>
-       <item quantity="one">Знайдено великих файлів: %d</item>
+       <item quantity="other">Знайдено %d великих файлів. Рекомендується видалити непотрібні.</item>
+       <item quantity="one">Знайдений %d великий файл. Рекомендується видалити непотрібні.</item>
+       <item quantity="few">Знайдено %d великих файлів. Рекомендується видалити непотрібні.</item>
+       <item quantity="many">Знайдено %d великих файлів. Рекомендується видалити непотрібні.</item>
     </plurals>
     <plurals name="deepclean_similar_summary">
        <item quantity="other">Знайдено %d схожих фото</item>

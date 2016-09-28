@@ -731,4 +731,21 @@
     <string name="xiaomi_traffic_pass_used">Використовується пакет %s</string>
     <string name="xiaomi_traffic_pass_warning">Слабкий сигнал підключення</string>
     <string name="xiaomi_traffic_return">Назад</string>
+	<string name="delete_bank_card_message">Після виходу видаліть свою банківську карту для захисту даних</string>
+    <string name="delete_bank_card_title">Видалення банківської карти</string>
+    <string name="device_name">"Ім'я пристрою"</string>
+    <string name="find_device_activate_account">Активувати акаунт</string>
+    <string name="find_device_display_id">Номер розблокування: %s</string>
+    <string name="login_check_find_device">Отримання інформації про безпеку пристрою…</string>
+    <string name="login_check_find_device_failed_title">Не вдається перевірити статус пошуку пристрою</string>
+    <string name="login_find_device_bind">"Це пристрій прив'язаний до існуючого ID Mi акаунта (%s)"</string>
+    <string name="miui_provision_find_status_text">"Це пристрій прив'язаний до існуючого Mi акаунту (%1$s). Введіть пароль для перевірки пристрою.
+(номер розблокування: %2$s)"</string>
+    <string name="no_sim_card_or_unactivated">SIM карта відсутня або не активована</string>
+    <string name="other_devices_title">Інші пристрої</string>
+    <string name="passport_copy_message_text_success">Текст скопійований</string>
+    <string name="passport_copy_message_vcode">Скопіювати перевірочний код</string>
+    <string name="passport_message_dialog_title">Перевірочний код</string>
+    <string name="passport_trying_read_verify_code_sms">Отримання перевірочного…</string>
+    <string name="passport_vcode_sms_send_prompt">Надсилання коду на %s</string>
 </resources>

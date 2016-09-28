@@ -166,4 +166,5 @@
     <string name="using_recorder_confirm">ОК</string>
     <string name="using_recorder_dialog_message">Дозволити застосунку використовувати служби запису звуку?</string>
     <string name="using_recorder_dialog_title">Попередження</string>
+	<string name="runtime_permission_ungranted">"Неможливо розпочати запис через не надані дозволи"</string>
 </resources>
