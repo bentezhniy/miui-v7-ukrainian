@@ -62,4 +62,9 @@
     <string name="template_all_pages">Усі %1$s</string>
     <string name="template_page_range">Діапазон %1$s</string>
 	<string name="label_duplex">Двусторонній</string>
+	<string name="mediasize_default">ISO_A4</string>
+    <string name="mediasize_standard_china">3</string>
+    <string name="mediasize_standard_iso">0</string>
+    <string name="mediasize_standard_japan">2</string>
+    <string name="mediasize_standard_north_america">1</string>
 </resources>

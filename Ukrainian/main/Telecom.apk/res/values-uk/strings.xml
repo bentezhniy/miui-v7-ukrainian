@@ -55,9 +55,4 @@
     <string name="can_not_dial_while_vt_prompt">Неможливо набрати номер під час відеовиклику</string>
     <string name="voice_dial_out">ОК</string>
 	<string name="can_not_dial_vt_while_voice_prompt">Неможливо здійснити відеовиклик під час голосового виклику</string>
-    <string name="headset_plugin_view_text">Підключені навушники</string>
-    <string name="headset_plugin_view_title">Навушники</string>
-    <string name="outgoing_call_not_allowed">Користувач не має прав здійснювати звичайні виклики</string>
-    <string name="respond_via_sms_menu_reset_default_activity">Відновити за замовчуванням</string>
-    <string name="select_account_dialog_title">Оберіть акаунт</string>
 </resources>

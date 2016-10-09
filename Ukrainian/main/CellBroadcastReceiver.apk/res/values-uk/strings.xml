@@ -95,4 +95,6 @@
     <string name="cmas_opt_out_button_yes">OK</string>
     <string name="cmas_opt_out_button_no">Скасувати</string>
 	<string name="cell_broadcast_settings_not_available">Налаштування сповіщення населення недоступні цьому користувачеві</string>
+	<string name="alert_reminder_interval_summary" />
+    <string name="alert_sound_duration_summary" />
 </resources>

@@ -416,4 +416,6 @@ d MMMM yyyy"</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
 	<string name="lland">L Land</string>
     <string name="status_bar_volte_label">HD</string>
+	<string name="certinstaller_package">com.android.certinstaller</string>
+    <string name="settings_package">com.android.settings</string>
 </resources>

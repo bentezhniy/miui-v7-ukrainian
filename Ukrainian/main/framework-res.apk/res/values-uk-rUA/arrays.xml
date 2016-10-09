@@ -102,4 +102,47 @@
         <item>Інший</item>
         <item>Вибрати</item>
     </string-array>
+	<string-array name="emailAddressTypes">
+       <item>Домашня</item>
+       <item>Робоча</item>
+       <item>Інша</item>
+       <item>Вибрати</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+       <item>Домашня</item>
+       <item>Робоча</item>
+       <item>Інша</item>
+       <item>Вибрати</item>
+    </string-array>
+    <string-array name="imProtocols">
+       <item>AIM</item>
+       <item>Windows Live</item>
+       <item>Yahoo</item>
+       <item>Skype</item>
+       <item>QQ</item>
+       <item>Google Talk</item>
+       <item>ICQ</item>
+       <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+       <item>Робоча</item>
+       <item>Інша</item>
+       <item>Вибрати</item>
+    </string-array>
+    <string-array name="phoneTypes">
+       <item>Домашній</item>
+       <item>Мобільний</item>
+       <item>Робочий</item>
+       <item>Робочий факс</item>
+       <item>Домашній факс</item>
+       <item>Пейджер</item>
+       <item>Інший</item>
+       <item>Вибрати</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+       <item>Домашня</item>
+       <item>Робоча</item>
+       <item>Інша</item>
+       <item>Вибрати</item>
+    </string-array>
 </resources>

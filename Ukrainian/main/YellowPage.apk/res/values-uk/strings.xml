@@ -627,4 +627,6 @@
     <string name="recharge_order_actual_price">%s юань</string>
     <string name="recharge_order_original_price">%s юань</string>
     <string name="shop_recommendation_format">%1$s: %2$s</string>
+	<string name="tag_follow_status">tag_follow_status</string>
+    <string name="tag_follow_yp_id">tag_follow_yp_id</string>
 </resources>

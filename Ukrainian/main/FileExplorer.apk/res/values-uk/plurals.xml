@@ -307,5 +307,7 @@
     <plurals name="user_sign_limt">
        <item quantity="other">Ви можете ввести %d символів</item>
        <item quantity="one">Ви можете ввести %d символ</item>
+       <item quantity="few">Ви можете ввести %d символи</item>
+       <item quantity="many">Ви можете ввести %d символів</item>
     </plurals>
 </resources>

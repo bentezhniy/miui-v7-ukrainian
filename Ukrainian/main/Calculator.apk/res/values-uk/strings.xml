@@ -405,4 +405,6 @@
     <string name="word_figure_yuan">юань</string>
     <string name="word_figure_zheng">усе</string>
     <string name="year" />
+	<string name="from_num">100</string>
+    <string name="to_num">62.7</string>
 </resources>

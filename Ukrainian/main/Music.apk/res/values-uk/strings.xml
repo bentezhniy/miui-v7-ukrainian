@@ -855,4 +855,23 @@
     <string name="wifi_required_title">Завантаження по Wi-Fi</string>
 	<string name="billboard_song_subtitle">— %s</string>
     <string name="comment_format" formatted="false">%s: %s</string>
+	<string name="ad_mark">Реклама</string>
+    <string name="download_fail_to_fetch_info">Помилка завантаження</string>
+    <string name="loadercontainer_loading">Завантаження…</string>
+    <string name="network_error_and_retry">Не вдається підключитися</string>
+    <string name="share_image_error">Не вдалося надіслати зображення</string>
+    <string name="talkback_back">Назад</string>
+    <string name="talkback_device">Відтворити на інших пристроях</string>
+    <string name="talkback_download">Завантажити</string>
+    <string name="talkback_favorite">В обране</string>
+    <string name="talkback_mode">Увімкнути повтор</string>
+    <string name="talkback_more">Додатково</string>
+    <string name="talkback_next">Наступний трек</string>
+    <string name="talkback_play">Грати/Пауза</string>
+    <string name="talkback_pre">Попередній трек</string>
+    <string name="talkback_progress">Прогрес бар</string>
+    <string name="talkback_radar">Розпізнавання музики</string>
+    <string name="talkback_search">Пошук</string>
+    <string name="talkback_share">Поділитись</string>
+    <string name="toast_download_error_by_not_login">Увійдіть в Mi акаунт і повторіть спробу</string>
 </resources>

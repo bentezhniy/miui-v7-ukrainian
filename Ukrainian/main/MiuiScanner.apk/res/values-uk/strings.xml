@@ -185,4 +185,13 @@
     <string name="document_color_picture_tip">Перетворення на кольорове…</string>
     <string name="document_save_succeed_tip">Документ збережений до %1$s</string>
     <string name="document_recognize_fail_tip">Не вдається розпізнати документ</string>
+	<string name="recognition_error_download_cancel">Скасувати</string>
+    <string name="recognition_error_download_data_msg">Для сканування візиток потрібно завантажити сервіс розпізнавання, розмір якого близько 15 Мб.</string>
+    <string name="recognition_error_download_fail">Не вдалося завантажити сервер розпізнавання</string>
+    <string name="recognition_error_download_msg">Для сканування візиток потрібно завантажити сервіс розпізнавання, розмір якого близько 15 Мб.</string>
+    <string name="recognition_error_download_no_network">Помилка завантаження</string>
+    <string name="recognition_error_download_ok">ОК</string>
+    <string name="recognition_error_download_success">Завантаження сервісу розпізнавання завершено</string>
+    <string name="recognition_error_download_title">Завантажити сервіс розпізнавання?</string>
+    <string name="recognition_error_downloading">Завантаження сервісу розпізнавання…</string
 </resources>

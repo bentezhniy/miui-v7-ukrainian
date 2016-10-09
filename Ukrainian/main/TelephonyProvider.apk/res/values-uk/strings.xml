@@ -10,4 +10,6 @@
     <string name="default_cateogry_meal_delivery">Доставка їжі</string>
     <string name="default_cateogry_sales">Продажі</string>
 	<string name="siminfo_default_name">SIM %d</string>
+	<string name="ppp_number">ppp_number</string>
+    <string name="read_only">read_only</string>
 </resources>

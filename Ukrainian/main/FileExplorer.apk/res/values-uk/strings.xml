@@ -1004,4 +1004,9 @@
     <string name="wechat_btn_bind">Акаунт WeChat</string>
     <string name="xiaomi_btn_bind">Mi Xiaomi</string>
     <string name="zero">0</string>
+	<string name="set_pattern">Пароль оновлено</string>
+    <string name="set_pattern_btn">Встановити</string>
+    <string name="set_pattern_msg">Встановіть пароль заново</string>
+    <string name="unlock_pattern_msg">Пароль буде також використовуватись для фото та повідомлень</string>
+    <string name="unlock_pattern_title">Новий пароль</string>
 </resources>

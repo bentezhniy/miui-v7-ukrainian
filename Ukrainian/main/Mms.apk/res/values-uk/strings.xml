@@ -695,4 +695,13 @@ sms (%1$d), MMS (%2$d)."</string>
     <string name="url_scanning">Сканування посилання…</string>
     <string name="wild_msg_processing">Обробка…</string>
     <string name="wild_msg_title">Увімкнення синхронізації</string>
+	<string name="privacy_password_message1">Пароль буде використовуватись для застосунків, фото, нотаток, прихованих папок и подібних даних.</string>
+    <string name="privacy_password_message2">Приватні нотатки будуть захищені паролем конфіденційності</string>
+    <string name="privacy_password_message3">Пароль приватних повідомлень буде замінено на пароль конфіденційності, який використовується для застосунків, фото, нотаток, прихованих папок и подібних даних.</string>
+    <string name="privacy_password_set_password">Встановити</string>
+    <string name="privacy_password_title1">Пароль конфіденційності</string>
+    <string name="privacy_password_title2">Пароль конфіденційності</string>
+    <string name="privacy_password_title3">Пароль конфіденційності</string>
+    <string name="privacy_password_title4">Пароль оновлено</string>
+    <string name="title_red_package">Отримання багатства і вдачі</string>
 </resources>

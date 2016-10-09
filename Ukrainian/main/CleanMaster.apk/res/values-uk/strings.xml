@@ -461,4 +461,8 @@
     <string name="deepclean_install_info_desc2">Видалення застосунків</string>
     <string name="hint_clean_select_items">Видалення дублікатів…</string>
     <string name="scanning">Сканування…</string>
+	<string name="preference_category_information_setting">category_information_setting</string>
+    <string name="preference_key_information_setting_close">key_information_setting_close</string>
+    <string name="preference_key_information_setting_wlan">key_information_setting_wlan</string>
+    <string name="preference_key_scan_engine">key_scan_engine</string>
 </resources>

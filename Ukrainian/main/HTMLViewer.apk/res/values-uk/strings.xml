@@ -18,4 +18,5 @@
     <string name="settings_safetylegal_activity_unreachable">Немає підключення до Інтернету. Для перегляду інформації відвідайте сайт %s.</string>
     <string name="settings_safetylegal_activity_loading">Завантаження…</string>
     <string name="permlab_accessDrm">Зміст DRM доступу</string>
+	<string name="ime_privacy_policy">Оберіть клавіатуру</string>
 </resources>

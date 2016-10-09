@@ -53,4 +53,7 @@
         <item>Шпалери</item>
         <item>Ефекти</item>
     </string-array>
+	<string-array name="quality_business_devices">
+       <item>Літій</item>
+    </string-array>
 </resources>

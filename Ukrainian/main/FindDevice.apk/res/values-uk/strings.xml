@@ -74,4 +74,5 @@
     <string name="default_lock_msg_words_with_phone">"Я загубив свій телефон! Будь ласка зв'яжіться зі мною."</string>
     <string name="default_lock_msg_words">"Я втратив свій телефон. Зв'яжуся з вами пізніше."</string>
     <string name="lock_msg_phone">Контакти: %s</string>
+	<string name="find_device_telephony_fault">Пошук пристрою: несправність телефону (%s)</string>
 </resources>

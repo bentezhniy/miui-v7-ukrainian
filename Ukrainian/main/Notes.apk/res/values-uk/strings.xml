@@ -186,4 +186,12 @@
     <string name="error_send_empty_note">Не вдається надіслати порожню нотатку</string>
     <string name="error_send_empty_note_to_weibo">Не вдається надіслати порожню нотатку у Weibo</string>
     <string name="menu_new_folder">Нова тека</string>
+	<string name="dlg_btn_set_password">Встановити</string>
+    <string name="dlg_message_password_reset">Приватні нотатки будуть захищені паролем конфіденційності, який також буде використовуватись для приватних повідомлень, фото, контактів, програм і подібних даних.</string>
+    <string name="dlg_message_set_password">Пароль буде використовуватись для програм, фото, прихованих папок и подібних даних.</string>
+    <string name="dlg_message_use_privacy_password">Приватні нотатки будуть захищені паролем конфіденційності</string>
+    <string name="dlg_title_password_reset">Пароль конфіденційності</string>
+    <string name="dlg_title_set_password">Установка паролю</string>
+    <string name="dlg_title_use_privacy_password">Пароль конфіденційності</string>
+    <string name="hint_cannot_view_hidden_note_content">Не вдається відобразити вміст приватної нотатки</string>
 </resources>

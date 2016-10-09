@@ -2,4 +2,9 @@
 <resources>
     <string name="app_label">Сховище налаштувань</string>
 	<string name="def_date_format">d-MM-yyyy</string>
+	<string name="def_enable_accessibility_services" />
+    <string name="def_enable_input_methods" />
+    <string name="def_input_method" />
+    <string name="def_nfc_payment_component" />
+    <string name="def_time_format" />
 </resources>
