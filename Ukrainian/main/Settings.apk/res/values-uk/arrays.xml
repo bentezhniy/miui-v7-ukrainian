@@ -474,9 +474,10 @@
        <item>Невідомо</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
-        <item>Сильний</item>
-        <item>Середній</item>
-        <item>Слабкий</item>
+       <item>Вимкнений</item>
+       <item>Слабкий</item>
+       <item>Середній</item>
+       <item>Сильний</item>
     </string-array>
     <string-array name="media_feedback_level_entries">
         <item>Сильний</item>

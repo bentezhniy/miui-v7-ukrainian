@@ -48,4 +48,5 @@
     <string name="vector_large_crossA">M160,160 L240,240</string>
     <string name="vector_large_crossB">M240,160 L160,240</string>
     <string name="wechat_package">com.tencent.mm</string>
+	<string name="name_kill_processes">Очистка памя\'яті</string>
 </resources>

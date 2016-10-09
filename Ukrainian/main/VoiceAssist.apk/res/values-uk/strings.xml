@@ -439,4 +439,5 @@
     <string name="open_music">Відкрити Музику</string>
 	<string name="playing">Зараз грає: %1$s</string>
 	<string name="search_music_fail">"Нічого не вдалося знайти"</string>
+	<string name="resource_account_current">Обл. запис: %1$s</string>
 </resources>

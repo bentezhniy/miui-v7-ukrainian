@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tabao_filter_agent">Продавець:</string>
+    <string name="tabao_filter_order_number">Номер відстеження:</string>
+    <string name="app_label">Помічник MIUI</string>
+    <string name="settings">Налаштування</string>
+    <string name="settings_label">Налаштування помічника</string>
+    <string name="xiaomi_search_label">Пошук</string>
+    <string name="show_more">Ще</string>
+    <string name="corpus_label_apps">Програма</string>
+    <string name="corpus_hint_apps">Пошук програм</string>
+    <string name="corpus_description_apps">Встановлені програми</string>
+    <string name="search_hint">Пошук</string>
+    <string name="recharge_flow">Купити трафік</string>
+    <string name="recharge_tel">Поповнити рахунок</string>
+    <string name="recharge_title_used">Використано сьогодні</string>
+    <string name="recharge_title_remaining">Залишилось</string>
+    <string name="recharge_title_over">Перевищення</string>
+    <string name="express_no_info">Немає даних про бандероль</string>
+    <string name="look_more">Детальніше</string>
+    <string name="just_now">Тільки що</string>
+    <string name="yesterday">Вчора</string>
+    <string name="month_day_format">d MMMM</string>
+    <string name="year_month_day_format">d MMMM yyyy</string>
+    <string name="book_store">Магазин книг</string>
+    <string name="book_update">Оновлення</string>
+    <string name="search">Пошук</string>
+    <string name="personalAssistant_mainpage">Помічник</string>
+    <string name="sms_meituan_serialnum">Серійний номер</string>
+    <string name="sms_meituan_pwd">Пароль</string>
+    <string name="sms_meituan_name">Назва</string>
+    <string name="sms_meituan_valid">Термін дії</string>
+</resources>

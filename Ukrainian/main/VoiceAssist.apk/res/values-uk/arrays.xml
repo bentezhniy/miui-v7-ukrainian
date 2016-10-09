@@ -5,4 +5,49 @@
         <item>Завжди</item>
         <item>Вимкнено</item>
     </string-array>
+	<string-array name="res_no_voice">
+       <item>Не розумію, що ви кажете</item>
+       <item>Будь ласка, повторіть</item>
+       <item>Що Ви сказали?</item>
+       <item>О, я не чую, і я не хочу щоб ви шепотіли</item>
+       <item>Я не зрозумів.</item>
+       <item>Знову не зрозумів</item>
+    </string-array>
+    <string-array name="send_item">
+       <item>Повідомлення</item>
+       <item>E-mail</item>
+    </string-array>
+    <string-array name="voice_effect_descs">
+       <item>Китайсько-англійський жіночий голос</item>
+       <item>Китайський жіночий голос</item>
+       <item>Сичуань жіночій голос</item>
+       <item>Кантонський жіночий голос</item>
+       <item>Китайсько-англійський голос дівчини</item>
+       <item>Китайсько-англійський чоловічий голос</item>
+       <item>Хунань чоловічий голос</item>
+       <item>Хенань чоловічий голос</item>
+       <item>Кантонський чоловічий голос</item>
+       <item>Мультяшний</item>
+    </string-array>
+    <string-array name="voice_effect_names">
+       <item>За замовчанням</item>
+       <item>JiaJia</item>
+       <item>XiaoRong</item>
+       <item>XiaoMei</item>
+       <item>NanNan</item>
+       <item>XiaoFeng</item>
+       <item>XiaoQiang</item>
+       <item>XiaoKun</item>
+       <item>DaLong</item>
+       <item>Дональд Дак</item>
+    </string-array>
+	<string-array name="week">
+       <item>Неділя</item>
+       <item>Понеділок</item>
+       <item>Вівторок</item>
+       <item>Середа</item>
+       <item>Четвер</item>
+       <item>"П'ятниця"</item>
+       <item>Субота</item>
+    </string-array>
 </resources>

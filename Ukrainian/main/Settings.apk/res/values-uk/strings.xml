@@ -5474,4 +5474,21 @@ SD карта \"^1\" буде працювати тільки на цьому п
     <string name="switch_screen_button_order_desc">Швидке приховування помічника натискань жестом вниз</string>
     <string name="use_privacy_password_immediate">Встановити</string>
     <string name="you_wont_see_this">:)</string>
+	<string name="about_phone_enter_xiaomi_net">Детальніше</string>
+    <string name="complete_parameters">Всі характеристики</string>
+    <string name="device_actionbar_title">Mi5</string>
+    <string name="device_complete_parameters">Повні</string>
+    <string name="device_display_layout_title">Можливості Mi5</string>
+    <string name="device_miui_more">Ще</string>
+    <string name="device_share_loading">Створення зображення</string>
+    <string name="manage_fakecell_settings">Захист від підроблених мереж</string>
+    <string name="menu_check">Перевірка</string>
+    <string name="menu_share">Надіслати</string>
+    <string name="status_bar_screen_button_left_hand">Ліва рука</string>
+    <string name="status_bar_screen_button_right_hand">Права рука</string>
+    <string name="status_bar_screen_button_style">Режим екранної клавіші</string>
+    <string name="usb_adb_input">Налагодження через USB (налаштування безпеки)</string>
+    <string name="usb_adb_input_desc">Дозволити видачу дозволів через USB-налагодження</string>
+    <string name="usb_install_app">Встановлення через USB</string>
+    <string name="usb_install_app_desc">Дозволити встановлення додатків через USB</string>
 </resources>

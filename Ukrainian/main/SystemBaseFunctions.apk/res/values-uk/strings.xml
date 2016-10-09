@@ -12,4 +12,9 @@
     <string name="restart_details">Перезавантажити пристрій для застосування?</string>
     <string name="restart_later">Пізніше</string>
     <string name="restart_now">ОК</string>
+	<string name="first_function">Запобігання підключень до підроблених мереж</string>
+    <string name="point">У віддалених районах сигнал мобільної мережі може бути відсутнім</string>
+    <string name="second_function">" "</string>
+    <string name="start_protect">Запустити захист</string>
+    <string name="stop_protect">Зупинити захист</string>
 </resources>

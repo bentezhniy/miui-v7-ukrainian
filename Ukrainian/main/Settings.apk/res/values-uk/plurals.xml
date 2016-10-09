@@ -55,8 +55,10 @@
         <item quantity="one">Залишилося натискань для відправлення звіту про помилки: %1$d</item>
     </plurals>
 	<plurals name="manage_condition_providers_summary_nonzero">
-       <item quantity="other">Декілька застосунків (%d) задають умови</item>
-       <item quantity="one">%d застосунок задає умови</item>
+       <item quantity="other">%d застосунків забезпечують умови</item>
+       <item quantity="one">%d застосунок забезпечує умову</item>
+       <item quantity="few">%d застосунки забезпечують умови</item>
+       <item quantity="many">%d застосунків забезпечують умови</item>
     </plurals>
 	<plurals name="status_bar_settings_disabled_header_title">
        <item quantity="other">%s застосунків без сповіщень</item>

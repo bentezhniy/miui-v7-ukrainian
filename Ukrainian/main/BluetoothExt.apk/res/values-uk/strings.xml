@@ -38,4 +38,8 @@
     <string name="sap_acceptance_timeout_message">Час підтвердження підключення минув з %1$s</string>
     <string name="bluetooth_sap_request">Запит SAP</string>
     <string name="bluetooth_sap_acceptance_dialog_text">%1$s намагається отримати доступ до SIM. Дозволити %2$s?</string>
+	<string name="ftp_notif_active_session">Активна сесія Bluetooth FTP</string>
+    <string name="ftp_notif_connected">Передача файлів по Bluetooth на \"%1$s\"</string>
+    <string name="map_notif_active_session">Активна сесія Bluetooth MAP</string>
+    <string name="map_notif_connected">Доступ до повідомлень по Bluetooth на \"%1$s\"</string>
 </resources>

@@ -7,9 +7,13 @@
 	<plurals name="local_records_count">
        <item quantity="other">%d записів</item>
        <item quantity="one">%d запис</item>
+       <item quantity="few">%d запису</item>
+       <item quantity="many">%d записів</item>
     </plurals>
     <plurals name="unsynced_records_count">
-       <item quantity="other">%d не синхронізовано</item>
-       <item quantity="one">%d не синхронізовано</item>
+       <item quantity="other">%d записів не синхронізовано</item>
+       <item quantity="one">%d запис не синхронізовано</item>
+       <item quantity="few">%d запису не синхронізовано</item>
+       <item quantity="many">%d записів не синхронізовано</item>
     </plurals>
 </resources>

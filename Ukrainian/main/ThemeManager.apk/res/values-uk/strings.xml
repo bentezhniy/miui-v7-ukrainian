@@ -435,4 +435,9 @@
     <string name="title_system_audio_resource">Системні мелодії</string>
     <string name="title_system_wallpaper_resource">Системні шпалери</string>
 	<string name="resource_data_empty">Немає вмісту</string>
+	<string name="forcetouch_featured">Нові</string>
+    <string name="forcetouch_free_themes">Безкоштовні</string>
+    <string name="forcetouch_offline">Локальні</string>
+    <string name="purchased_list_current">MIUI 8</string>
+    <string name="purchased_list_legacy">MIUI 6/7</string>
 </resources>

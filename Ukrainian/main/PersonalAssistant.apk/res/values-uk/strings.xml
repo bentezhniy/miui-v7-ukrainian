@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tabao_filter_agent">Продавець:</string>
+    <string name="tabao_filter_order_number">Номер відстеження:</string>
+    <string name="app_label">Помічник</string>
+    <string name="settings">Налаштування</string>
+    <string name="settings_label">Налаштування помічника</string>
+</resources>

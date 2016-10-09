@@ -365,4 +365,8 @@
     <string name="mark_courier_time_setting">"Блокувати номери, які були декілька разів відзначені як кур'єри."</string>
     <string name="mark_number_courier">"Кур'єр"</string>
     <string name="mark_time_text">%d</string>
+	<string name="st_summary_blacklist_numbers">Блокувати виклики та повідомлення за номерами телефонів та кодами країн.</string>
+    <string name="st_summary_keywords_blacklist">Додати ключові слова для блокування повідомлень</string>
+    <string name="st_summary_special_numbers">Блокування зазначених номерів</string>
+    <string name="st_summary_whitelist_numbers">Дозволити виклики та повідомлення від вказаних номерів та країн</string>
 </resources>
