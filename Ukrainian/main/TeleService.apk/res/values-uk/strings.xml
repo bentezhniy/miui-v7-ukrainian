@@ -1993,6 +1993,13 @@ sim карта буде очищена при невдалій спробі вв
     <string name="wifi_pref_none">Не вибрано</string>
     <string name="wifi_preferred">Переважно Wi-Fi</string>
 	<string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
+<<<<<<< HEAD
+	<string name="call_background_default">Зображення за замовчуванням</string>
+    <string name="call_background_lock_wallpaper">Шпалери екрану блокування</string>
+    <string name="call_background_setting">Тло екрану виклику</string>
+    <string name="path_call_background_setting_name">Системні програми > Виклики > Додатково > Тло екрану виклику</string>
+    <string name="rcs_not_supported">RCS не підтримується</string>
+=======
 	<string name="CFActivate">Активувати</string>
     <string name="CFDeactivate">Деактивувати</string>
     <string name="call_background_default">Зображення за замовчуванням</string>
@@ -2016,4 +2023,5 @@ sim карта буде очищена при невдалій спробі вв
     <string name="voicemail_notification_vibrate_key">voicemail_notification_vibrate_key</string>
     <string name="voicemail_visual_voicemail_key">voicemail_visual_voicemail_key</string>
     <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
+>>>>>>> origin/master
 </resources>

@@ -173,8 +173,18 @@
     <string name="btn_clear_records">Видалити записи (%d)</string>
     <string name="choose_call_records_count">%d</string>
     <string name="clear_records">Видалення записів у Mi Cloud</string>
+<<<<<<< HEAD
+	<string name="low_battery_error_confirm">ОК</string>
+    <string name="low_battery_error_title">Низький заряд батареї</string>
+    <string name="network_tip_dialog_cancel">Скасувати</string>
+    <string name="network_tip_dialog_content">Для нормальної роботи сервісу розпізнавання необхідний доступ до інтернету</string>
+    <string name="network_tip_dialog_ok">ОК</string>
+    <string name="network_tip_dialog_title">Дозволити доступ до інтернету?</string>
+    <string name="recognition_error_download_data_msg">Завантаження сервісу розпізнавання, розмір якого біля 20 Мб.</string>
+=======
 	<string name="default_record_name">Запис без імені</string>
     <string name="low_battery_error_confirm">ОК</string>
     <string name="low_battery_error_title">Низький заряд батареї</string>
     <string name="menu_view_record_list">Переглянути список записів</string>
+>>>>>>> origin/master
 </resources>
