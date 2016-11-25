@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
-    <string name="incoming_call_failed_low_battery">Вхідний виклик перервано через низький заряд батареї</string>
-    <string name="device_is_hd_capable">Пристрій підтримує HD</string>
+     <string name="call_hold_label">Утримання виклику:</string>
+     <string name="call_resume_label">Продовження виклику:</string>
+     <string name="device_is_hd_capable">Пристрій підтримує HD</string>
+     <string name="error_msg_cancelled">Скасовано</string>
+     <string name="error_msg_failed">Помилка</string>
+     <string name="error_msg_reinvite_collision">Конфлікт запрошення</string>
+     <string name="incoming_call_failed_low_battery">Вхідний виклик перервано через низький заряд батареї</string>
 </resources>
