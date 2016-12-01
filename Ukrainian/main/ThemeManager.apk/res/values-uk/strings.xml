@@ -460,4 +460,5 @@
      <string name="wallpaper_set_as_destop">Застосувати на робочий стіл</string>
      <string name="wallpaper_set_as_lockscreen">Застосувати на екран блокування</string>
      <string name="wallpaper_settings">Шпалери</string>
+	 <string name="add_resource_detail_fail">Неможливо додати ресурс</string>
 </resources>

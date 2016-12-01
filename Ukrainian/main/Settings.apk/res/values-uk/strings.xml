@@ -5663,4 +5663,11 @@ SD карта \"^1\" буде працювати тільки на цьому п
      <string name="zone_auto_summaryOn">Використовувати в часовий пояс мережі</string>
      <string name="zone_list_menu_sort_alphabetically">Впорядкувати за алфавітом</string>
      <string name="zone_list_menu_sort_by_timezone">Впорядкувати по часовому поясу</string>
+	 <string name="privacy_password_bind_account">Додати Mi акаунт</string>
+     <string name="privacy_password_bind_account_immediate">Додати</string>
+     <string name="privacy_password_enter_privacy">Введіть пароль конфіденційності</string>
+     <string name="privacy_password_never_remind">"Запам'ятати"</string>
+     <string name="privacy_password_remind_bind_notlogin_account">Додайте Mi акаунт для можливості відновлення паролю на випадок, якщо ви його забудете.</string>
+     <string name="privacy_password_remind_bindaccont_message">Додайте Mi акаунт (%s) для можливості відновлення паролю на випадок, якщо ви його забудете.</string>
+     <string name="privacy_password_remind_bindaccount_title">Додати Mi акаунт</string>
 </resources>

@@ -469,4 +469,5 @@
      <string name="xunlei_open_info">Використовувати Xunlei Engine для відкриття таких посилань?</string>
      <string name="xunlei_speed_service">Сервіс завантаження Xunlei</string>
      <string name="xunlei_switch">Сервіс завантаження Xunlei</string>
+	 <string name="download_error_download_file_not_exists">Файл не існує</string>
 </resources>

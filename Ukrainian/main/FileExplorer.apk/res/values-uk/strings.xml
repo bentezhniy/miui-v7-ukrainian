@@ -1133,4 +1133,19 @@
      <string name="youliao_dialog_title">Нецікаве відео?</string>
      <string name="zero">0</string>
      <string name="zero_comment">Немає відгуків</string>
+	 <string name="a_week_share_rank">Щотижневий рейтинг</string>
+     <string name="click_to_refresh">Натисніть для оновлення</string>
+     <string name="hot_topic_str">Найпопулярніші теми відео</string>
+     <string name="hot_video_title">Популярні відео</string>
+     <string name="no_content">Перезапустіть провідник для перегляду популярних відео</string>
+     <string name="no_daren_tip">Немає відео</string>
+     <string name="share_rank_card_tip">Надіслати рейтинг</string>
+     <string name="sticker_btn_str_explore_tab">Огляд стікерів</string>
+     <string name="tab_explore">Огляд</string>
+     <string name="top_mark">Топ</string>
+     <string name="top_videos">Надіслати рейтинг</string>
+     <string name="upload_popup">Завантажте відео та виграйте приз!</string>
+     <string name="view_master_rank">Показати топ Youliao</string>
+     <string name="view_top_rank">Показати рейтинг</string>
+     <string name="youliao_master_rank">Топ Youliao</string>
 </resources>

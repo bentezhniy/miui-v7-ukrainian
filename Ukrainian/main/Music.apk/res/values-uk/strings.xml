@@ -886,4 +886,5 @@
 
 Натисніть \"%s\" для продовження завантаження при підключенні до мережі Wi-Fi."</string>
      <string name="wifi_required_title">Завантаження по Wi-Fi</string>
+	 <string name="nowplaying_dialog_title_delete_tracks">Видалити з плейлиста?</string>
 </resources>

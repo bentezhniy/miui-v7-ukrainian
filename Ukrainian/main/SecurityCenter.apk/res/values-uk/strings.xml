@@ -2295,4 +2295,14 @@
      <string name="xiaomi_traffic_pass_used">Використовується пакет %s</string>
      <string name="xiaomi_traffic_pass_warning">Слабий сигнал підключення</string>
      <string name="xiaomi_traffic_return">Назад</string>
+	 <string name="antivirus_choose_engine_update_disable_toast">Неможливо змінити базу вірусів під час оновлення</string>
+     <string name="msg_update_up">Приховати</string>
+     <string name="pref_title_manual_check_virus_db_update">Перевірити оновлення</string>
+     <string name="sponsored_sec_fb">Підтримка</string>
+     <string name="virus_already_update">Оновлення бази вірусів</string>
+     <string name="virus_dp_update_title">Оновлення бази</string>
+     <string name="virus_update_fail">Неможливо оновити</string>
+     <string name="virus_update_success">Оновлення завершене</string>
+     <string name="virus_update_tips_title">Підключіться до мережі Wi-Fi</string>
+     <string name="virus_wait_network_dialog_message">При оновленні бази вірусів використовується забагато трафіку. Необхідне підключення до мережі Wi-Fi.</string>
 </resources>

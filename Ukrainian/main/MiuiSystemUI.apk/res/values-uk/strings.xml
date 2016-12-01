@@ -424,4 +424,5 @@ d MMMM yyyy"</string>
      <string name="wifi_security_wpa">WPA PSK</string>
      <string name="wifi_security_wpa2">WPA2 PSK</string>
      <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+	 <string name="long_screenshot_top_msg_manual">Обріжте скріншот та підтвердіть</string>
 </resources>

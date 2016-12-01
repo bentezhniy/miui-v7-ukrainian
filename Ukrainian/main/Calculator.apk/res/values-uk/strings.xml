@@ -413,4 +413,29 @@
      <string name="word_figure_yuan">юань</string>
      <string name="word_figure_zheng">усе</string>
      <string name="year" />
+	 <string name="preference_about_calculator">Про програму</string>
+     <string name="preference_alert_follow_wechat">Скопіюйте та вставте у WeChat</string>
+     <string name="preference_alert_follow_wechat_button">Копіювати</string>
+     <string name="preference_check_update_title">Перевірка оновлень</string>
+     <string name="preference_feedback_title">FAQ</string>
+     <string name="preference_follow_us">Підписатися</string>
+     <string name="preference_follow_web_summary">www.miui.com</string>
+     <string name="preference_follow_web_title">Офіційний сайт</string>
+     <string name="preference_follow_wechat_summary">MIUI</string>
+     <string name="preference_follow_wechat_title">WeChat</string>
+     <string name="preference_follow_weibo_summary">\@MIUI</string>
+     <string name="preference_follow_weibo_title">Sina Weibo</string>
+     <string name="preference_settings">Налаштування</string>
+     <string name="preference_use_degress_summary">Використовувати розрахунок кутів у інженерному калькуляторі</string>
+     <string name="preference_use_degress_title">Розрахунок кутів</string>
+     <string name="xiaomi_bytes_unit">%1$s б</string>
+     <string name="xiaomi_connect_download_manager_fail">Неможливо запустити програму \"Завантаження\"</string>
+     <string name="xiaomi_external_storage_unavailable">"Пам'ять недоступна"</string>
+     <string name="xiaomi_kilobytes_unit">%1$s Кб</string>
+     <string name="xiaomi_megabytes_unit">%1$s Мб</string>
+     <string name="xiaomi_update_dialog_message">"Нова версія: %1$s
+Розмір: %2$s"</string>
+     <string name="xiaomi_update_dialog_message_diff">"Нова версія: %1$s
+Розмір оновлення: %2$s"</string>
+     <string name="xiaomi_update_dialog_title">Оновлення %1$s</string>
 </resources>

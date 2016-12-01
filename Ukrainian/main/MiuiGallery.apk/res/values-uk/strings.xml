@@ -1702,4 +1702,16 @@
      <string name="yes">Так</string>
      <string name="you_are" />
      <string name="yunyi_pocket_camera">Кишенькова камера</string>
+	 <string name="confirm_hidden_recommend_group_message">Коли рекомендації деактивовано, ви як і раніше зможете використовувати функцію \"Схожі обличчя\".</string>
+     <string name="confirm_hidden_recommend_group_title">Деактивувати рекомендації?</string>
+     <string name="empty_recommend_button_view">Назад</string>
+     <string name="empty_recommend_face_page_view">Немає рекомендацій</string>
+     <string name="face_album_title">%s</string>
+     <string name="face_confirm">Це те ж обличчя</string>
+     <string name="face_name_edit">Змінити</string>
+     <string name="face_name_input">"Ім'я"</string>
+     <string name="face_recommend">Рекомендації</string>
+     <string name="face_recommend_group_number">%1$d/%2$d</string>
+     <string name="more_face">Схожі обличчя</string>
+     <string name="remind_face_recommend_confirm">Підтвердити</string>
 </resources>
