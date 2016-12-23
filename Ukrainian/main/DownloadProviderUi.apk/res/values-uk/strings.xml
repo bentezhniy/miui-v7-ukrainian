@@ -9,6 +9,7 @@
      <string name="Only_the_wifi">Доступно тільки при підключенні по Wi-Fi</string>
      <string name="about">Про застосунок</string>
      <string name="action_settings">Налаштування</string>
+     <string name="ad_download">Встановити</string>
      <string name="ad_mark">Реклама</string>
      <string name="ad_title">Рекомендуємо завантажувати за допомогою %1$s </string>
      <string name="ad_title_other">Вам може сподобатися</string>
@@ -90,6 +91,7 @@
      <string name="download_complete">Завантажені</string>
      <string name="download_detail">Інформація</string>
      <string name="download_error">Помилка</string>
+     <string name="download_error_download_file_not_exists">Файл не існує</string>
      <string name="download_error_insufficient_space">Недостатньо місця</string>
      <string name="download_filesize_unknown">Невідомо</string>
      <string name="download_from">Джерело:</string>
@@ -469,5 +471,4 @@
      <string name="xunlei_open_info">Використовувати Xunlei Engine для відкриття таких посилань?</string>
      <string name="xunlei_speed_service">Сервіс завантаження Xunlei</string>
      <string name="xunlei_switch">Сервіс завантаження Xunlei</string>
-	 <string name="download_error_download_file_not_exists">Файл не існує</string>
 </resources>

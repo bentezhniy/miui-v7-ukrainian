@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="accessibility_action_divider_bottom_full">Нижній на весь екран</string>
+     <string name="accessibility_action_divider_left_30">Лівий на 30%</string>
+     <string name="accessibility_action_divider_left_50">Лівий на 50%</string>
+     <string name="accessibility_action_divider_left_70">Лівий на 70%</string>
+     <string name="accessibility_action_divider_left_full">Лівий на весь екран</string>
+     <string name="accessibility_action_divider_right_full">Правий на весь екран</string>
+     <string name="accessibility_action_divider_top_30">Верхній на 30%</string>
+     <string name="accessibility_action_divider_top_50">Верхній на 50%</string>
+     <string name="accessibility_action_divider_top_70">Верхній на 70%</string>
+     <string name="accessibility_action_divider_top_full">Верхній на весь екран</string>
      <string name="accessibility_airplane_mode">Режим польоту</string>
      <string name="accessibility_assistant">Помічник натискань</string>
      <string name="accessibility_back">Назад</string>
@@ -21,6 +31,7 @@
      <string name="accessibility_data_signal_full">Надійний сигнал мережі</string>
      <string name="accessibility_data_three_bars">Сигнал мережі: 3</string>
      <string name="accessibility_data_two_bars">Сигнал мережі: 2</string>
+     <string name="accessibility_divider">Роздільник екрану</string>
      <string name="accessibility_home">Головна сторінка</string>
      <string name="accessibility_ime_switch_button">Спосіб введення в панелі повідомлень</string>
      <string name="accessibility_managed_profile">Робочий профіль</string>
@@ -35,6 +46,13 @@
      <string name="accessibility_phone_three_bars">Сигнал мережі: 3</string>
      <string name="accessibility_phone_two_bars">Сигнал мережі: 2</string>
      <string name="accessibility_recent">Нещодавні застосунки</string>
+     <string name="accessibility_recent_task_enter">Вхід до меню нещодавніх програм. Програм: %d</string>
+     <string name="accessibility_recent_task_exit">Вихід з меню нещодавніх програм</string>
+     <string name="accessibility_recent_task_first_enter_tips">Вхід до меню нещодавніх програм. Програм: %d. Зробіть свайп вгору щоб закрити програму, вниз - щоб заблокувати її.</string>
+     <string name="accessibility_recent_task_locked">Заблоковано. Для розблокування зробіть свайп вгору.</string>
+     <string name="accessibility_recent_task_memory_info">Всього: %2$s | Вільно: %1$s. Натисніть двічі для очищення ОЗП.</string>
+     <string name="accessibility_recent_task_unlocked">Розблоковано</string>
+     <string name="accessibility_recents_task_header">%1$s %2$s</string>
      <string name="accessibility_remove_notification">Видалити сповіщення</string>
      <string name="accessibility_ringer_silent">Режим \"Без звуку\"</string>
      <string name="accessibility_ringer_vibrate">Вибровідгук</string>
@@ -147,10 +165,15 @@
      <string name="disable_notification_summary">Не показувати сповіщення цього застосунка.</string>
      <string name="disable_notification_title">Блокування сповіщень</string>
      <string name="dismount_storage">Тільки зарядка</string>
+     <string name="divider_menu_close">Закрити</string>
+     <string name="divider_menu_select_apps">Обрати</string>
+     <string name="divider_menu_swap_task">Замінити</string>
      <string name="dlg_confirm_kill_storage_users_text">При вимкнені режиму накопичувача деякі застосунки будуть недоступні</string>
      <string name="dlg_confirm_kill_storage_users_title">Увімкнути USB накопичувач</string>
      <string name="dlg_error_title">USB операція невдала</string>
      <string name="dlg_ok">ОК</string>
+     <string name="dock_forced_resizable">Програма не підтримує розділення екрану</string>
+     <string name="dock_non_resizeble_failed_to_dock_text">Програма не підтримує розділення екрану</string>
      <string name="drive_mode_tip">Ви знаходитись в автомобілі. Будь-ласка, будьте обережні за кермом при роботі з телефоном.</string>
      <string name="enable_power_save_mode">Енергозбереження</string>
      <string name="expanded_confirm_disable_notification">ОК</string>
@@ -192,6 +215,7 @@
      <string name="long_screenshot_processing">Обробка…</string>
      <string name="long_screenshot_stop">Зберегти</string>
      <string name="long_screenshot_top_msg">Зняття довгого скріншота…</string>
+     <string name="long_screenshot_top_msg_manual">Обріжте скріншот та підтвердіть</string>
      <string name="managed_profile_foreground_toast">Використовується робочий профіль</string>
      <string name="mdb_entering">Вхід</string>
      <string name="mdb_restore_cancel">Відміна</string>
@@ -211,8 +235,10 @@
      <string name="nav_guide_ok">Налаштувати</string>
      <string name="nav_guide_title">Приховування екранних клавіш</string>
      <string name="network_speed_suffix">%1$s%2$s</string>
+     <string name="no_multi_window_app">Програм з підтримкою розділення екрану немає</string>
      <string name="no_notification_tips">Немає сповіщень</string>
      <string name="no_weather_description">Немає даних про погоду</string>
+     <string name="not_support_multi_window">Поточна програма не підтримує розділення екрану</string>
      <string name="notification_header_title">Сповіщення</string>
      <string name="notification_hidden_text">Зміст приховано</string>
      <string name="notification_manager">Керування повідомленнями</string>
@@ -250,6 +276,7 @@
      <string name="recent_task_app_info_text">Налаштування</string>
      <string name="recent_task_lock_text">Блокування</string>
      <string name="recent_task_unlock_text">Розблокувати</string>
+     <string name="recents_launch_error_message">Неможливо запустити %s</string>
      <string name="reject_call">Відхилити</string>
      <string name="return_to_incall_screen">Натисніть для повернення до розмови</string>
      <string name="save_mode_btn_ok">ОК</string>
@@ -424,5 +451,4 @@ d MMMM yyyy"</string>
      <string name="wifi_security_wpa">WPA PSK</string>
      <string name="wifi_security_wpa2">WPA2 PSK</string>
      <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-	 <string name="long_screenshot_top_msg_manual">Обріжте скріншот та підтвердіть</string>
 </resources>

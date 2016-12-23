@@ -63,7 +63,7 @@
      <string name="activity_title_virus_detail">Інформація про вірус</string>
      <string name="activity_title_virus_settings">Налаштування</string>
      <string name="activity_title_white_list">Список винятків</string>
-     <string name="adb_install_no_network">Під\'єднайтеся до інтернету та спробуйте знову</string>
+     <string name="adb_install_no_network">"Під\'єднайтеся до інтернету та спробуйте знову"</string>
      <string name="adb_install_open">"Зміна налаштувань…"</string>
      <string name="adb_install_open_error">Не вдається встановити дозволи</string>
      <string name="adb_install_reject_notiy">Встановлення %s через USB недоступне</string>
@@ -88,6 +88,7 @@
      <string name="antivirus_choose_engine_disable_toast">Не можна змінити базу під час сканування</string>
      <string name="antivirus_choose_engine_settings">Налаштування антивірусної бази</string>
      <string name="antivirus_choose_engine_title">Антивірусна база</string>
+     <string name="antivirus_choose_engine_update_disable_toast">Неможливо змінити базу вірусів під час оновлення</string>
      <string name="antivirus_monitor_btn_text_clean_risk">Видалити програми із загрозами</string>
      <string name="antivirus_monitor_btn_text_clean_virus">Видалити віруси</string>
      <string name="antivirus_monitor_clean_tips">Видалено файлів: %s</string>
@@ -1024,6 +1025,7 @@
      <string name="msg_update_error_code_no_newer_db">Немає оновлень</string>
      <string name="msg_update_error_code_success">Успішно оновлене</string>
      <string name="msg_update_error_code_unknown_error">Невідома помилка. Спробуйте пізніше.</string>
+     <string name="msg_update_up">Приховати</string>
      <string name="name_antivirus">Політика конфіденційності Tencent</string>
      <string name="name_optimizer">Політика конфіденційності Cheetah Mobile</string>
      <string name="network_assistant_upgraded_body">Натисніть для налаштування</string>
@@ -1136,6 +1138,7 @@
      <string name="optimize_result_button_cooldown_now">Оптимізація</string>
      <string name="optimize_result_button_correct_now">Оптимізація</string>
      <string name="optimize_result_button_fix_now">Оптимізація</string>
+     <string name="optimize_result_button_mifi_insurance">Купити</string>
      <string name="optimize_result_button_onekey_open">Увімкнути</string>
      <string name="optimize_result_button_onekey_restore">Відновити</string>
      <string name="optimize_result_button_open_now">Увімкнути</string>
@@ -1189,6 +1192,7 @@
      <string name="path_securitycenter">Системні програми | Безпека</string>
      <string name="path_securitycenter_settings">Системні програми | Безпека</string>
      <string name="pay_charge">Поповнити</string>
+     <string name="pc_battery_history_show_imei">IMEI:</string>
      <string name="pc_install_manager">Менеджер установки</string>
      <string name="pc_to_phone_install">Встановлення заблоковане: %s</string>
      <string name="per_month_pkg_traffic_settings">Тарифний план</string>
@@ -1551,6 +1555,7 @@
      <string name="pref_title_garbage_process_mode">Режим очищення</string>
      <string name="pref_title_lock_screen_memory_clean">Очищення в заблокованом режимі</string>
      <string name="pref_title_manual_check_cleanup_db_update">Оновити</string>
+     <string name="pref_title_manual_check_virus_db_update">Перевірити оновлення</string>
      <string name="pref_title_mobile_traffic">Трафік при розблокуванні</string>
      <string name="pref_title_network_diagnostics">Діагностика мережі</string>
      <string name="pref_title_open_optimizer_cloud_scan">Сервіс очищення онлайн</string>
@@ -1771,6 +1776,8 @@
      <string name="sim_location_error_notify_message">Змінити SIM</string>
      <string name="sim_location_error_notify_title">Помилка SIM карти</string>
      <string name="sim_state_exception_summary">SIM статус свідчить про наявність можливих пробем із SIM картою</string>
+     <string name="skin_change_close_btn_text">Встановити як тло за замовчуванням</string>
+     <string name="skin_change_close_toast">Зміни буде застосовано після перезапуску програми</string>
      <string name="songs_number">18 треків</string>
      <string name="songs_unit">" треків"</string>
      <string name="sorted_button">Сортування</string>
@@ -1812,6 +1819,7 @@
      <string name="sp_toast_removed_from_sign_white_list">Видалено зі списку виключень</string>
      <string name="spinner_title">%1$s - Мобільний інтернет: %2$s</string>
      <string name="sponsored">Підтримка</string>
+     <string name="sponsored_sec_fb">Підтримка</string>
      <string name="st_title_mode_choose_group">Виберіть режим</string>
      <string name="start_diagnostic_botton">Почати</string>
      <string name="start_downloading_app">Запуск завантаження: %1$s</string>
@@ -1850,6 +1858,7 @@
      <string name="summary_garbage_lib">Увімкніть автооновлння бази очищення</string>
      <string name="summary_install_virus">Перевірка застосунків на віруси перед встановленням</string>
      <string name="summary_live_talk_purchase">Всього 0.05 юанів за хвилину на місцеві виклики</string>
+     <string name="summary_mifi_insurance">Отримати 1 рік гарантії на ремонт будь-якої складності у випадку пошкодження пристрою</string>
      <string name="summary_miui_update">Доступно оновлення: %s</string>
      <string name="summary_mms">Фільтр небажаних повідомлень (продажу, реклами і т.д.)</string>
      <string name="summary_network_switch">Дозволити застосунку доступ до інтернету</string>
@@ -2024,6 +2033,7 @@
      <string name="title_install_virus_yes">Монітор встановлення включений</string>
      <string name="title_limit_traffic_per_day">Щоденний трафік</string>
      <string name="title_live_talk_purchase">Поповнити</string>
+     <string name="title_mifi_insurance">Додаткова гарантія</string>
      <string name="title_miui_update">Доступно оновлення</string>
      <string name="title_miui_update_no">Доступно оновлень: %s</string>
      <string name="title_miui_update_yes">Немає оновлень</string>
@@ -2237,7 +2247,7 @@
      <string name="usage_type_video">Відео</string>
      <string name="usage_type_wake_lock">Активний режим</string>
      <string name="usage_type_wifi_running">Wi-Fi</string>
-     <string name="usb_adb_input_apply_step_1">Комп\'ютер буде мати можливість змінювати параметри та дозволи без вашого відома поки пристрій підключений через USB.</string>
+     <string name="usb_adb_input_apply_step_1">"Комп\'ютер буде мати можливість змінювати параметри та дозволи без вашого відома поки пристрій підключений через USB."</string>
      <string name="usb_adb_input_apply_step_2">Це може призвести до розповсюдження конфіденційної інформації.</string>
      <string name="usb_adb_input_apply_step_3">Дозволити встановлення через USB?</string>
      <string name="usb_install_desc">"Встановити програму за допомогою комп'ютера?"</string>
@@ -2245,9 +2255,15 @@
      <string name="usbsharenet_exception_title">Тест інтернету по USB</string>
      <string name="usbsharenet_pc_exception_summary">"Не вдається під'єднатися до публічної мережі"</string>
      <string name="use_immediately">Використовувати</string>
+     <string name="virus_already_update">Оновлення бази вірусів</string>
+     <string name="virus_dp_update_title">Оновлення бази</string>
      <string name="virus_list_header_title">Знайдене вірусів: %d</string>
      <string name="virus_scan">Антивірус</string>
      <string name="virus_scan_process_pre">%</string>
+     <string name="virus_update_fail">Неможливо оновити</string>
+     <string name="virus_update_success">Оновлення завершене</string>
+     <string name="virus_update_tips_title">Підключіться до мережі Wi-Fi</string>
+     <string name="virus_wait_network_dialog_message">При оновленні бази вірусів використовується забагато трафіку. Необхідне підключення до мережі Wi-Fi.</string>
      <string name="voltage_symbol">В</string>
      <string name="wakepath_confirm_start_activity">Дозволити програмі \"%1$s\" запускати \"%2$s\"?</string>
      <string name="warning_open_mi_sim">Увімкнути Mi SIM</string>
@@ -2295,14 +2311,4 @@
      <string name="xiaomi_traffic_pass_used">Використовується пакет %s</string>
      <string name="xiaomi_traffic_pass_warning">Слабий сигнал підключення</string>
      <string name="xiaomi_traffic_return">Назад</string>
-	 <string name="antivirus_choose_engine_update_disable_toast">Неможливо змінити базу вірусів під час оновлення</string>
-     <string name="msg_update_up">Приховати</string>
-     <string name="pref_title_manual_check_virus_db_update">Перевірити оновлення</string>
-     <string name="sponsored_sec_fb">Підтримка</string>
-     <string name="virus_already_update">Оновлення бази вірусів</string>
-     <string name="virus_dp_update_title">Оновлення бази</string>
-     <string name="virus_update_fail">Неможливо оновити</string>
-     <string name="virus_update_success">Оновлення завершене</string>
-     <string name="virus_update_tips_title">Підключіться до мережі Wi-Fi</string>
-     <string name="virus_wait_network_dialog_message">При оновленні бази вірусів використовується забагато трафіку. Необхідне підключення до мережі Wi-Fi.</string>
 </resources>

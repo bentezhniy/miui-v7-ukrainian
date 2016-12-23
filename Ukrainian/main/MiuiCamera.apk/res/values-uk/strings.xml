@@ -173,6 +173,9 @@
      <string name="folder_download">Завантаження</string>
      <string name="folder_imported">Імпорт</string>
      <string name="folder_screenshot">Скріншот</string>
+     <string name="front_camera_hint_text_confirm">ОК</string>
+     <string name="front_camera_hint_text_place">Робити селфі буде простіше, якщо перевернути телефон.</string>
+     <string name="front_camera_hint_text_rotate">Переверніть телефон</string>
      <string name="group_by">Групувати</string>
      <string name="group_by_album">За альбомами</string>
      <string name="group_by_faces">По людях</string>

@@ -121,6 +121,12 @@
         <item quantity="few">Знайдено нових файлів: %1$d</item>
         <item quantity="many">Знайдено нових файлів: %1$d</item>
      </plurals>
+     <plurals name="gems">
+        <item quantity="other">%1$s діамантів</item>
+        <item quantity="one">%1$s діамант</item>
+        <item quantity="few">%1$s діаманти</item>
+        <item quantity="many">%1$s діамантів</item>
+     </plurals>
      <plurals name="hours">
         <item quantity="other">%1$d годин</item>
         <item quantity="zero">%1$d годин</item>
@@ -168,6 +174,12 @@
         <item quantity="two">%1$d хв. тому</item>
         <item quantity="few">%1$d хв. тому</item>
         <item quantity="many">%1$d хв. тому</item>
+     </plurals>
+     <plurals name="more_gems">
+        <item quantity="other">Назбирайте більше %d діамантів, щоб долучитися до розіграшу.</item>
+        <item quantity="one">Назбирайте більше %d діаманта, щоб долучитися до розіграшу.</item>
+        <item quantity="few">Назбирайте більше %d діамантів, щоб долучитися до розіграшу.</item>
+        <item quantity="many">Назбирайте більше %d діамантів, щоб долучитися до розіграшу.</item>
      </plurals>
      <plurals name="numSelectedFile">
         <item quantity="other">Вибрано: %1$d</item>
@@ -322,6 +334,12 @@
         <item quantity="two"> %1$d відео</item>
         <item quantity="few"> %1$d відео</item>
         <item quantity="many"> %1$d відео</item>
+     </plurals>
+     <plurals name="video_like_num">
+        <item quantity="other">%1$s вподобань</item>
+        <item quantity="one">%1$s вподобання</item>
+        <item quantity="few">%1$s вподобання</item>
+        <item quantity="many">%1$s вподобань</item>
      </plurals>
      <plurals name="video_num">
         <item quantity="other">%1$s відео</item>

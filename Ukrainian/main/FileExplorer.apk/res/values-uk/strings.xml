@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="a_week_share_rank">Щотижневий рейтинг</string>
      <string name="account_bind_prompt">"Перенесення даних користувача
 перенос даних може зайняти деякий час,
 Ваш акаунт тимчасово буде недоступний, будь ласка почекайте…"</string>
@@ -126,6 +127,7 @@
      <string name="clean_title">Видаляти файли з кошика, якщо вони лежать там довше 30 днів</string>
      <string name="clean_trash_box">Очистити кошик</string>
      <string name="cleaning">Очищення…</string>
+     <string name="click_to_refresh">Натисніть для оновлення</string>
      <string name="click_to_switch_volume">"Переключення між внутрішньою пам'яттю та SD картою"</string>
      <string name="click_to_switch_volume_pad">Натисніть для вибору між внутрішнім сховищем та SD-картою</string>
      <string name="close">Закрити</string>
@@ -151,6 +153,7 @@
      <string name="copy_file_to_midrive">Немає файлів</string>
      <string name="copy_text">Копіювати текст</string>
      <string name="copy_to">Копіювати</string>
+     <string name="count_down">Зворотній відлік: %1$s</string>
      <string name="create_kuaipan_shortcut_pref">Ярлик на робочий стіл</string>
      <string name="create_new_folder_desctiption">Створення папки…</string>
      <string name="create_new_folder_failed">Не вдалося створити папку</string>
@@ -184,6 +187,7 @@
      <string name="decrypt_error">Помилка розшифровування</string>
      <string name="decrypt_to">Разшифрувати і зберегти</string>
      <string name="decrypting">Розшифровування…</string>
+     <string name="default_prize_text">Це мій приз!</string>
      <string name="delete_dialog_button">Видалити</string>
      <string name="delete_error">Помилка видалення</string>
      <string name="delete_failed">Помилка видалення</string>
@@ -295,6 +299,7 @@
      <string name="ftp_transfer_secure">Захищена FTP-передача</string>
      <string name="ftp_username_and_passworld">"Ім'я користувача та пароль"</string>
      <string name="ftp_username_hint">"Ім'я користувача"</string>
+     <string name="full_gems">Обміняти діаманти</string>
      <string name="gbk_summary">Стандартне кодування в спрощеній китайській версії Windows</string>
      <string name="gbk_title">GBK</string>
      <string name="get_cloud_space">Додати 500GB</string>
@@ -313,8 +318,10 @@
      <string name="hot_app">Популярні застосунки</string>
      <string name="hot_comments">Популярні відгуки</string>
      <string name="hot_sticker">Популярні стікери</string>
+     <string name="hot_topic_str">Найпопулярніші теми відео</string>
      <string name="hot_video">Популярні відео</string>
      <string name="hot_video_load_more">Ще ></string>
+     <string name="hot_video_title">Популярні відео</string>
      <string name="hottest_sticker_str">Популярні</string>
      <string name="if_cancel">Скасувати дію?</string>
      <string name="image_download">Завантажити</string>
@@ -507,6 +514,8 @@
      <string name="no_apk">Немає програм</string>
      <string name="no_app_tags">Порожньо</string>
      <string name="no_comment">Немає відгуків</string>
+     <string name="no_content">Перезапустіть провідник для перегляду популярних відео</string>
+     <string name="no_daren_tip">Немає відео</string>
      <string name="no_display_file">"Неможливо відобразити %1$s"</string>
      <string name="no_downloaded_sticker_tip">Не вдається знайти завантажені стікери</string>
      <string name="no_enough_space">"Недостатньо пам'яті"</string>
@@ -559,6 +568,8 @@
 1. Скачати (обновити локальний файл)
 2. Завантажити (обновити файл в Mi Cloud)"</string>
      <string name="open_changed_file_title">Файл змінений</string>
+     <string name="open_chest">Відкрийте, щоб отримати подарунок.</string>
+     <string name="open_chest_failed">"Неможливо відкрити. Перевірте інтернет з'єднання."</string>
      <string name="open_file_failed">Не вдалося відкрити файл</string>
      <string name="open_private_folder">Створення приватної теки…</string>
      <string name="operate_confirm_in_3g">Завантажити цей файл по мережі 3G?</string>
@@ -679,6 +690,8 @@
      <string name="private_toast_hint1">Натисніть, щоб додати файли до приватної теки</string>
      <string name="private_toast_hint2">Щоб приховати файл, натисніть на нього і утримуйте, потім оберіть \"До приватних\"</string>
      <string name="private_toast_hint3">Потягніть донизу для доступу до приватних тек</string>
+     <string name="prize_result_tip">Обмін</string>
+     <string name="prize_result_tip2">Діаманти додано</string>
      <string name="promot_enctypt_password">Введіть пароль для розблокування пристрою або використовуйте батьківський контроль</string>
      <string name="pull_to_signin">Перетягніть вниз, щоб увійти й одержати вільне місце на хмарному сервері</string>
      <string name="qq_btn_bind">QQ</string>
@@ -698,6 +711,7 @@
      <string name="remote_video_server_error">Не вдається підключитися до сервера. Будь ласка, спробуйте пізніше.</string>
      <string name="remote_video_update">Знайдено нових відео: %1$s</string>
      <string name="rename_alert">Після зміни дозволу файлу його не можна буде відкрити</string>
+     <string name="rename_alert2">Файл буде приховано</string>
      <string name="rename_description">Перейменовується…</string>
      <string name="rename_failed">Перейменування \"%1$s\" не вдалося</string>
      <string name="repair_done">Відновлено</string>
@@ -797,6 +811,7 @@
      <string name="share_later">Скасувати</string>
      <string name="share_link_failed">Помилка створення зовнішнього посилання на папку</string>
      <string name="share_now">ОК</string>
+     <string name="share_rank_card_tip">Надіслати рейтинг</string>
      <string name="share_success">Надіслано</string>
      <string name="share_tip_1">Дякуємо, що поділилися. Підпишіться для перегляду моїх нових відео.</string>
      <string name="share_tip_2">Дякуємо, що поділилися. Підпишіться для перегляду моїх нових відео.</string>
@@ -842,6 +857,7 @@
      <string name="start_use_xiaomi_account">Вхід</string>
      <string name="stay_awake_summary">Не переводити пристрій в режим сну при використанні FTP</string>
      <string name="stay_awake_title">Не виключати екран</string>
+     <string name="sticker_btn_str_explore_tab">Огляд стікерів</string>
      <string name="stop_server">Зупинити</string>
      <string name="storage_cloned_app">"Пам'ять клонованих програм"</string>
      <string name="storage_info">Вільно: %1$s</string>
@@ -868,6 +884,7 @@
      <string name="tab_common_app">Програми</string>
      <string name="tab_discover">Огляд</string>
      <string name="tab_expand">Онлайн</string>
+     <string name="tab_explore">Огляд</string>
      <string name="tab_follow">Підписки</string>
      <string name="tab_homepage">Початкова</string>
      <string name="tab_hottest_video">Популярні</string>
@@ -900,6 +917,8 @@
      <string name="title_upload_video">Надіслати коротке відео</string>
      <string name="toast_file_not_can_read">Цей тип файлу не підтримується</string>
      <string name="tools">Інструменти</string>
+     <string name="top_mark">Топ</string>
+     <string name="top_videos">Надіслати рейтинг</string>
      <string name="topic_follow">Підписатися</string>
      <string name="topic_followed">Підписано</string>
      <string name="topic_message">%1$s: %2$s</string>
@@ -958,6 +977,7 @@
      <string name="upload_notification_success">Завантаження завершено</string>
      <string name="upload_notification_success_content">Ваше відео має бути переглянуте перед надсиланням</string>
      <string name="upload_notification_title">Завантаження відео</string>
+     <string name="upload_popup">Завантажте відео та виграйте приз!</string>
      <string name="upload_user_photo">Завантажити аватар</string>
      <string name="upload_video">Надіслати відео</string>
      <string name="upload_video_dialog_message">Ваше відео буде відправлено серед популярних після перевірки</string>
@@ -1093,7 +1113,9 @@
      <string name="video_upload_wechat_hint">Завантажуйте відео WeChat, щоб набрати підписників.</string>
      <string name="video_uploaded">Завантажено</string>
      <string name="videos">відео</string>
+     <string name="view_master_rank">Показати топ Youliao</string>
      <string name="view_more_sticker">Показати інші стікери</string>
+     <string name="view_top_rank">Показати рейтинг</string>
      <string name="vip_info">VIP: %1$s</string>
      <string name="wait_net">Очікування мережі</string>
      <string name="wait_sdcard">Очікування підключення SD карти</string>
@@ -1131,21 +1153,7 @@
      <string name="youliao_ad_update">Оновити</string>
      <string name="youliao_dialog_msg">Популярні відео \"Youliao\" оновлено</string>
      <string name="youliao_dialog_title">Нецікаве відео?</string>
+     <string name="youliao_master_rank">Топ Youliao</string>
      <string name="zero">0</string>
      <string name="zero_comment">Немає відгуків</string>
-	 <string name="a_week_share_rank">Щотижневий рейтинг</string>
-     <string name="click_to_refresh">Натисніть для оновлення</string>
-     <string name="hot_topic_str">Найпопулярніші теми відео</string>
-     <string name="hot_video_title">Популярні відео</string>
-     <string name="no_content">Перезапустіть провідник для перегляду популярних відео</string>
-     <string name="no_daren_tip">Немає відео</string>
-     <string name="share_rank_card_tip">Надіслати рейтинг</string>
-     <string name="sticker_btn_str_explore_tab">Огляд стікерів</string>
-     <string name="tab_explore">Огляд</string>
-     <string name="top_mark">Топ</string>
-     <string name="top_videos">Надіслати рейтинг</string>
-     <string name="upload_popup">Завантажте відео та виграйте приз!</string>
-     <string name="view_master_rank">Показати топ Youliao</string>
-     <string name="view_top_rank">Показати рейтинг</string>
-     <string name="youliao_master_rank">Топ Youliao</string>
 </resources>

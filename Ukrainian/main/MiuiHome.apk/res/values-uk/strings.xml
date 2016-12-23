@@ -169,6 +169,7 @@
      <string name="is_setting_wallpaper_message">Налаштування шпалер…</string>
      <string name="is_setting_wallpaper_toast">Встановлення шпалер…</string>
      <string name="is_system_wallpaper_message">Неможливо видалити системні шпалери</string>
+     <string name="launcher_not_exist">Робочий стіл зупинено. Натисніть клавішу \"Додому\" та повторіть спробу.</string>
      <string name="like">Подобається</string>
      <string name="liked">Сподобалося</string>
      <string name="loading_desktop">Завантаження стільниці...</string>
@@ -241,6 +242,7 @@
      <string name="resource_select">Вибрати</string>
      <string name="screen_button_disabled_message">Кнопки внизу екрану вимкнені. Ви можете увімкнути їх знову, натиснувши клавіші \"Додому\" і \"Живлення\".</string>
      <string name="screen_button_enabled_message">Кнопки на нижній частині екрана вимкнені</string>
+     <string name="screen_locked_toast">Положення іконок заблоковано</string>
      <string name="screen_number">Екран %d</string>
      <string name="screen_rotation_freeze_message">Поворот екрану заблокований в ландшафтному режимі</string>
      <string name="scroll_tip_format_when_announce_accessibility">Сторінка: %1$d, застосунків: %2$d</string>

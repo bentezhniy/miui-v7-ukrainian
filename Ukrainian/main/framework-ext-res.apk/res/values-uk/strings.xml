@@ -140,6 +140,7 @@
      <string name="start_security_permission_verify_text">Перевірити доступ Mi акаунту</string>
      <string name="status_bar_toggle_ac">Доступ</string>
      <string name="status_bar_toggle_auto_brightness">Підсвічування</string>
+     <string name="status_bar_toggle_battery_saver">Енергозбереження</string>
      <string name="status_bar_toggle_bluetooth">Bluetooth</string>
      <string name="status_bar_toggle_brightness">Яскравість</string>
      <string name="status_bar_toggle_cast">WiDi</string>
@@ -153,6 +154,7 @@
      <string name="status_bar_toggle_midrop">Mi Drop</string>
      <string name="status_bar_toggle_mute">Без звуку</string>
      <string name="status_bar_toggle_network_type">Тип мережі</string>
+     <string name="status_bar_toggle_nfc">NFC</string>
      <string name="status_bar_toggle_paper_mode">Режим читання</string>
      <string name="status_bar_toggle_power_mode">Відтвор.</string>
      <string name="status_bar_toggle_privacy_mode">Гість</string>

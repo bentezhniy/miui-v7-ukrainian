@@ -422,8 +422,8 @@
      <string name="dirty_contacts_notification_description">Несинхронізованих даних з Mi акаунтом: %d</string>
      <string name="dirty_contacts_notification_message">Вы можете вимкнути це сповіщення в налаштуваннях</string>
      <string name="dirty_contacts_notification_title">Синхронізувати контакти?</string>
-     <string name="disclaimer_text">Жовті сторінки отримують інформацію про ваш баланс за допомогою SMS. Ваш оператор може оновлювати цю інформацію із затримкою. Якщо ви помітили помилку, ви можете надіслати звіт, використовуючи SMS. 
-Щоб уникнути частих запитів, інформація про баланс оновлюється 1 раз на день.</string>
+     <string name="disclaimer_text">"Жовті сторінки отримують інформацію про ваш баланс за допомогою SMS. Ваш оператор може оновлювати цю інформацію із затримкою. Якщо ви помітили помилку, ви можете надіслати звіт, використовуючи SMS. 
+Щоб уникнути частих запитів, інформація про баланс оновлюється 1 раз на день."</string>
      <string name="disclaimer_title">Відмова від відповідальності</string>
      <string name="display_all_contacts">Усі контакти</string>
      <string name="display_more_groups">Інші групи…</string>
@@ -697,6 +697,7 @@
      <string name="locale_change_in_progress">Список контактів оновиться після зміни мови інтерфейсу</string>
      <string name="login_before_recharging">Спочатку необхідно аввторизуватися в аккаунті</string>
      <string name="login_ok">Вхід</string>
+     <string name="low_memory_toast">"Пам'ять заповнена"</string>
      <string name="lunarBirthdayLabelsGroup">Місячний день народження</string>
      <string name="lunar_calendar">Календар</string>
      <string name="lunar_leap">闰</string>
@@ -1600,6 +1601,7 @@
      <string name="wipe_data">Очистити дані</string>
      <string name="yellowPageNavigationIconLabel">Сервіси</string>
      <string name="yellowPageNavigationLabel">Сервіси</string>
+     <string name="yellowpage_fc_toast">Помилка сервісу жовтих сторінок</string>
      <string name="yellowpage_mi_family">Mi родина</string>
      <string name="yellowpage_navigation_ad_hint">Реклама</string>
      <string name="yellowpage_navigation_balance_refresh_failed">Баланс і трафік не можуть бути перевірені</string>

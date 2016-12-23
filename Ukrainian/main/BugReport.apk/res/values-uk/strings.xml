@@ -110,6 +110,7 @@
      <string name="feedback_submit_failed_notification_desc">Інформація</string>
      <string name="feedback_submit_failed_notification_retry">Надіслати знову</string>
      <string name="feedback_submit_failed_notification_title">Не вдається надіслати звіт</string>
+     <string name="feedback_submit_hint">Намагайтеся надсилати звіти щоразу, коли зіткнулися з проблемою, щоб розробники вирішили її найближчим часом.</string>
      <string name="feedback_submit_hint1">Ми повідомимо Вас про статус звіту</string>
      <string name="feedback_submit_hint2">Перейдіть у \"Мої звіти\" для перегляду інформації</string>
      <string name="feedback_submit_succ">Надіслано</string>
@@ -325,6 +326,7 @@
      <string name="toast_module_required">Оберіть категорію</string>
      <string name="toast_network_unavailable">Не вдалося відправити звіт. Інтернет недоступений.</string>
      <string name="toast_pending_log_collection">Збір логів…</string>
+     <string name="toast_post_deleted">Теми не існує</string>
      <string name="toast_problem_class_required">Оберіть категорію</string>
      <string name="toast_report_copied_to_clipboard">Звіт скопійований у буфер обміну</string>
      <string name="toast_report_sent_failed">Не вдалося відправити звіт</string>

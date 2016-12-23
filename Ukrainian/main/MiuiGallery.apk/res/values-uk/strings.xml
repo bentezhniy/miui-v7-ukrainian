@@ -113,6 +113,7 @@
      <string name="alert_secret_album_message">Ви можете прокрутити хмарні фото і відео в секретному альбомі</string>
      <string name="alert_secret_album_set_pattern">Графічний ключ</string>
      <string name="alert_secret_album_title">Секретний альбом</string>
+     <string name="all_faces">Все фото</string>
      <string name="all_items_synced">Усі файли синхронізовано з Mi Cloud</string>
      <string name="all_video_album_display_name">Всі відео</string>
      <string name="already_apply_album">Відкрити \"%1$s\"?</string>
@@ -701,6 +702,9 @@
      <string name="confirm_download_video_message">Для перегляду відео необхідно повністю завантажити його. Завантаження буде продовжено при підключенні до мережі Wi-Fi.</string>
      <string name="confirm_download_video_title">Завантаження відео</string>
      <string name="confirm_face">Примінити</string>
+     <string name="confirm_hidden_recommend_group">ОК</string>
+     <string name="confirm_hidden_recommend_group_message">Коли рекомендації деактивовано, ви як і раніше зможете використовувати функцію \"Схожі обличчя\".</string>
+     <string name="confirm_hidden_recommend_group_title">Деактивувати рекомендації?</string>
      <string name="confirm_left_photo_will_move_in">%s присутній на решті фото?</string>
      <string name="confirm_left_photo_will_move_out">%s відсутній на решті фото?</string>
      <string name="confirm_merge_face_albums">" "<Data>" Об'єднати цей альбом з альбомом %s? "</Data>" "</string>
@@ -842,6 +846,9 @@
      <string name="edited_photo_bucket_name">Змінені</string>
      <string name="effect">Фільтри</string>
      <string name="email_picker_title">Відправлення по Email</string>
+     <string name="empty_recommend_back">Назад</string>
+     <string name="empty_recommend_button_view">Назад</string>
+     <string name="empty_recommend_face_page_view">Немає рекомендацій</string>
      <string name="enable">Увімк.</string>
      <string name="enable_auto_upload_tip">Після вмикання цей альбом буде видалено з \"Інших альбомів\"</string>
      <string name="enable_auto_upload_title">Вмикання синхронізації з Mi Cloud</string>
@@ -891,6 +898,7 @@
      <string name="face_album_not_named">Немає імені</string>
      <string name="face_album_pending_enable_tip">Фото будуть сортуватися при підключенні до мережі Wi-Fi</string>
      <string name="face_album_rename_hint">"Введіть ім'я"</string>
+     <string name="face_album_title">%s</string>
      <string name="face_album_use_tip">Автоматично сортувати фото за обличчями</string>
      <string name="face_albumset_detecting_tip">"Розпізнавання облич... 
  Альбом облич скоро буде доступний"</string>
@@ -901,7 +909,12 @@
      <string name="face_albumset_use_tip">"Допоможіть знайти ці красиві обличчя, 
  Зробіть простим навігацію по фото"</string>
      <string name="face_choose_tip">Вибрати з альбому</string>
+     <string name="face_confirm">Це те ж обличчя</string>
      <string name="face_move_dialog_title">Оберіть альбом облич</string>
+     <string name="face_name_edit">Змінити</string>
+     <string name="face_name_input">"Ім'я"</string>
+     <string name="face_recommend">Рекомендації</string>
+     <string name="face_recommend_group_number">%1$d/%2$d</string>
      <string name="facelift">Сяйво</string>
      <string name="facetan">Засмага</string>
      <string name="fail_hint">Помилка дії</string>
@@ -1129,6 +1142,7 @@
      <string name="moman_camera_picture">Зображення Moman</string>
      <string name="more">Ще</string>
      <string name="more_album_hint">…</string>
+     <string name="more_face">Схожі обличчя</string>
      <string name="more_face_album_name">Інші обличчя</string>
      <string name="mosaic">Мозаїка</string>
      <string name="move">Перемістити</string>
@@ -1215,6 +1229,7 @@
      <string name="operation_not_show_in_photos_tab">Не показувати на головній сторінці</string>
      <string name="operation_projection">Проекція</string>
      <string name="operation_refresh">Оновити</string>
+     <string name="operation_remove_face">Видалити</string>
      <string name="operation_remove_from_face_album">Видалити обличчя</string>
      <string name="operation_remove_from_face_album_button">Перемістити</string>
      <string name="operation_remove_from_other_albums">Видалити з інших альбомів</string>
@@ -1347,8 +1362,12 @@
      <string name="relation_text_mother">Мати</string>
      <string name="relation_with_you">"Виберіть зв'язок"</string>
      <string name="release_space_finish_format">Звільнено %s</string>
+     <string name="remind_face_recommend_confirm">Підтвердити</string>
      <string name="remind_shows_in_photo_tab_summary">Відображати альбом на головній сторінці?</string>
      <string name="remind_shows_in_photo_tab_title">Попередження</string>
+     <string name="remove_from_album_message">Це фото більше не буде відображатися в цьому альбомі</string>
+     <string name="remove_from_album_title">Видалити фото з альбому?</string>
+     <string name="remove_from_current_album">Видалити з альбому</string>
      <string name="remove_from_other_albums_tip">"Перемістити альбом? 
 Синхронізацію альбому з Mi Cloud буде вимкнено."</string>
      <string name="remove_from_secret_fail">Помилка видалення з приватного альбому</string>
@@ -1360,6 +1379,8 @@
      <string name="remove_from_secret_unfinished_message_with_count">%1$s фото/відео не вилучені із секретного альбому</string>
      <string name="remove_hidden_album">Скасувати приховування</string>
      <string name="remove_recent_album">Видалити з вибраних альбомів</string>
+     <string name="remove_to_album_title">"Об'єднати фото?"</string>
+     <string name="remove_to_other_album">"Об'єднання фото"</string>
      <string name="rename_event">Перейменувати</string>
      <string name="rename_face_album">"Змінити ім'я"</string>
      <string name="rename_fail_msg">Не вдалось змінити</string>
@@ -1702,16 +1723,4 @@
      <string name="yes">Так</string>
      <string name="you_are" />
      <string name="yunyi_pocket_camera">Кишенькова камера</string>
-	 <string name="confirm_hidden_recommend_group_message">Коли рекомендації деактивовано, ви як і раніше зможете використовувати функцію \"Схожі обличчя\".</string>
-     <string name="confirm_hidden_recommend_group_title">Деактивувати рекомендації?</string>
-     <string name="empty_recommend_button_view">Назад</string>
-     <string name="empty_recommend_face_page_view">Немає рекомендацій</string>
-     <string name="face_album_title">%s</string>
-     <string name="face_confirm">Це те ж обличчя</string>
-     <string name="face_name_edit">Змінити</string>
-     <string name="face_name_input">"Ім'я"</string>
-     <string name="face_recommend">Рекомендації</string>
-     <string name="face_recommend_group_number">%1$d/%2$d</string>
-     <string name="more_face">Схожі обличчя</string>
-     <string name="remind_face_recommend_confirm">Підтвердити</string>
 </resources>

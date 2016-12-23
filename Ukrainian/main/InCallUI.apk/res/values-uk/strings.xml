@@ -447,6 +447,7 @@
      <string name="incall_error_power_off">Вимкніть режим польоту перед здійсненням виклику</string>
      <string name="incall_error_supp_service_conference">Не вдається створити конференц-виклик</string>
      <string name="incall_error_supp_service_hangup">"Не вдалося роз'єднати абонентів"</string>
+     <string name="incall_error_supp_service_hold">Неможливо поставити розмову на утримання</string>
      <string name="incall_error_supp_service_reject">Неможливо відхилити виклик</string>
      <string name="incall_error_supp_service_separate">Не вдалося розділити виклик</string>
      <string name="incall_error_supp_service_switch">Не вдається перемкнути виклики</string>

@@ -8,6 +8,7 @@
      <string name="SD_SDCard_mounted">Виявлено SD-карту</string>
      <string name="SD_SDCard_total_size">"Усього пам\'яті"</string>
      <string name="SD_SDCard_unmounted">SD-карта недоступна</string>
+     <string name="button_cancel">Скасувати</string>
      <string name="button_ok">ОК</string>
      <string name="camerainfo">Інформація про камеру</string>
      <string name="cit_OTG_plugin_check_summary">Коли OTG пристрій буде підключено, текст \"Вимкніть USB OTG пристрій\" буде відображатися нижче.</string>
@@ -283,6 +284,8 @@
      <string name="cit_sim_state_unkown">Невідомий стан</string>
      <string name="cit_start_calibration">Початок калібрування</string>
      <string name="cit_stop_calibration">Кінець калібрування</string>
+     <string name="cit_tfcard_support_summary">Перевірте, чи підтримує пристрій TF карти.</string>
+     <string name="cit_tfcard_support_title">Підтримка TF карт</string>
      <string name="cit_tool">Інструменти</string>
      <string name="cit_tool_bluetooth">Інструменти Bluetooth</string>
      <string name="cit_tool_bluetooth_dut">Режим тесту Bluetooth</string>
@@ -313,6 +316,11 @@
      <string name="cit_tool_modem">Інструменти модему</string>
      <string name="cit_tool_modem_bugreport">Дамп памяті модему</string>
      <string name="cit_tool_modem_cta_test">Відкрити/закрити протокол відповідності тесту</string>
+     <string name="cit_tool_modem_cu_volte">China Union VoLTE</string>
+     <string name="cit_tool_modem_cu_volte_no">Вимкнути CU VoLTE</string>
+     <string name="cit_tool_modem_cu_volte_no_confirm">Зміни буде застосовано після перезавантаження пристрою</string>
+     <string name="cit_tool_modem_cu_volte_yes">Увімкнути CU VoLTE</string>
+     <string name="cit_tool_modem_cu_volte_yes_confirm">Зміни буде застосовано після перезавантаження пристрою</string>
      <string name="cit_tool_modem_evdo_revb">Увімкнути/вимкнути EVDO</string>
      <string name="cit_tool_modem_exit_ftm">Вийти з режиму FTM</string>
      <string name="cit_tool_modem_mbn">Змінити налаштування модему</string>

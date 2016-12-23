@@ -417,7 +417,7 @@
      <string name="passport_area_code_title">Код країни</string>
      <string name="passport_auto_generate_pwd">Створити пароль</string>
      <string name="passport_back">Назад</string>
-     <string name="passport_bad_authentication">Хибне ім\'я користувача або пароль</string>
+     <string name="passport_bad_authentication">"Хибне ім\'я користувача або пароль"</string>
      <string name="passport_barcode_add_account_prompt">Скануйте QR код для підключення</string>
      <string name="passport_btn_return">Назад</string>
      <string name="passport_button_cancel">Скасувати</string>
@@ -441,16 +441,16 @@
      <string name="passport_email">Email</string>
      <string name="passport_email_address_notice">Email</string>
      <string name="passport_email_or_id_hint_text">Email або ID Мі акаунту</string>
-     <string name="passport_email_reg_success_summary">%1$s прив\'язаний до вашого акаунту.  Ви можете використовувати його для входу або для сбросу паролю.</string>
+     <string name="passport_email_reg_success_summary">"%1$s прив\'язаний до вашого акаунту.  Ви можете використовувати його для входу або для сбросу паролю."</string>
      <string name="passport_error_device_id">Не вдалося отримати ID пристрою</string>
-     <string name="passport_error_dup_email">Цей Email вже прив\'язаний до іншого акаунту</string>
-     <string name="passport_error_dup_phone">Цей номер телефону вже прив\'язаний до іншого акаунту</string>
+     <string name="passport_error_dup_email">"Цей Email вже прив\'язаний до іншого акаунту"</string>
+     <string name="passport_error_dup_phone">"Цей номер телефону вже прив\'язаний до іншого акаунту"</string>
      <string name="passport_error_email">Хибний Email</string>
      <string name="passport_error_empty_captcha_code">Введіть код з картинки</string>
      <string name="passport_error_empty_email">Введіть адресу Email</string>
      <string name="passport_error_empty_phone_num">Введіть номер телефону</string>
      <string name="passport_error_empty_pwd">Введіть пароль</string>
-     <string name="passport_error_empty_username">Введіть ім\'я користувача</string>
+     <string name="passport_error_empty_username">"Введіть ім\'я користувача"</string>
      <string name="passport_error_empty_vcode">Введіть код перевірки</string>
      <string name="passport_error_illegal_pwd">Хибний пароль</string>
      <string name="passport_error_invalid_dev_id">Хибний ID пристрою</string>
@@ -463,7 +463,7 @@
      <string name="passport_error_sim_not_ready">SIM карта не знайдена</string>
      <string name="passport_error_ssl_hand_shake">Помилка підключення. Перевірте налаштування часу.</string>
      <string name="passport_error_unknown">Помилка авторизації</string>
-     <string name="passport_error_user_name">Хибне ім\'я користувача</string>
+     <string name="passport_error_user_name">"Хибне ім\'я користувача"</string>
      <string name="passport_error_verify_code">Код введений неправильно</string>
      <string name="passport_failed_to_send_activate_email">Не вдалося надіслати лист активації</string>
      <string name="passport_find_device_activate_account">Активація акаунту</string>
@@ -528,7 +528,7 @@
      <string name="passport_reg_prompt">Немає Mi акаунту? Зареєструйте його безкоштовно.</string>
      <string name="passport_reg_sms_send_prompt">Надіслати код перевірки на %s</string>
      <string name="passport_reg_success">Реєстрація завершена</string>
-     <string name="passport_reg_success_summary">Номер телефону \"%1$s\" вже прив\'язаний до акаунту Mi. Ви можете використати його для входу в систему і відновлення паролю.</string>
+     <string name="passport_reg_success_summary">"Номер телефону \"%1$s\" вже прив\'язаний до акаунту Mi. Ви можете використати його для входу в систему і відновлення паролю."</string>
      <string name="passport_reg_type_email">Реєстрація по Email</string>
      <string name="passport_reg_type_other_ways"><u>Реєстрація у інший спосіб</u></string>
      <string name="passport_reg_type_other_ways_title">Реєстрація у інший спосіб</string>
@@ -883,6 +883,7 @@
      <string name="vp_select_video_source">Вибір ресурсу</string>
      <string name="vp_skip">Пропустити інтро</string>
      <string name="vp_standard_definition">Стандартне</string>
+     <string name="vp_start_error_msg">Неможливо відтворити відео</string>
      <string name="vp_super_definition">Відмінне</string>
      <string name="vp_support_by">Підтримка: %1$s</string>
      <string name="vp_time_separator">/</string>
@@ -891,6 +892,7 @@
      <string name="vp_using_16_9">16:9</string>
      <string name="vp_using_4_3">4:3</string>
      <string name="vp_video_bad_network_condition">Низька швидкість інтернета</string>
+     <string name="vp_video_create_video_error_info">Помилка відеоплеєра</string>
      <string name="vp_video_invalid_cp_info">Невірна інформація про віидео</string>
      <string name="vp_video_loading"><CDATA>Завантаження…</CDATA></string>
      <string name="vp_video_plugin_installation">Встановлення %1$s плагіна для кращої якості відео…</string>
